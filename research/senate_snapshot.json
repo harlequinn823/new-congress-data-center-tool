@@ -1,0 +1,1182 @@
+{
+  "version": "1.0",
+  "asOf": "2026-11-06",
+  "scope": "Incoming Senate, including returning members; AP-called winners only",
+  "members": [
+    {
+      "name": "Annie Andrews",
+      "state": "South Carolina",
+      "party": "D",
+      "categories": [
+        "Anti data center",
+        "Pro data center regulation"
+      ],
+      "campaignPriority": "Explicit campaign priority; dedicated campaign messaging",
+      "summary": "Calls for a two-year South Carolina construction moratorium plus federal transparency, environmental-impact disclosure, ratepayer safeguards and local control.",
+      "proposals": [
+        "Two-year state moratorium on new data centers",
+        "Federal economic and environmental impact transparency",
+        "Protect ratepayers and strengthen local negotiating power"
+      ],
+      "quote": null,
+      "quoteAttribution": "Annie Andrews, WIS interview",
+      "sources": [
+        {
+          "title": "Annie Andrews shares priorities for Senate ahead of Election Day",
+          "url": "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/",
+          "date": "2026-10-28",
+          "type": "Interview",
+          "quote": "I called for a two-year moratorium on the new building of data centers here in South Carolina.",
+          "summary": "Supports the profile summary and proposals.",
+          "attribution": "Annie Andrews, WIS interview"
+        },
+        {
+          "title": "Andrews launches DataCenterDarline.com",
+          "url": "https://drannieandrews.com/andrews-launches-datacenterdarline-com-highlights-grahams-pro-ai-dark-money-ties/",
+          "date": "2026-09-28",
+          "type": "Official campaign release",
+          "quote": null,
+          "summary": "Supports the profile summary and proposals."
+        },
+        {
+          "title": "Senate candidate Dr. Annie Andrews calls for moratorium on data centers",
+          "url": "https://www.live5news.com/2026/09/28/senate-candidate-dr-annie-andrews-calls-moratorium-data-centers/",
+          "date": "2026-09-28",
+          "type": "News",
+          "quote": null,
+          "summary": "Supports the profile summary and proposals."
+        }
+      ],
+      "classificationNote": "Anti category limited to a temporary statewide construction pause. Campaign allegations about opponent are not independently adopted.",
+      "checked": "2026-11-06",
+      "id": "annie-andrews",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Campaign and news sources reviewed; no comprehensive advertising archive was available.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "id": "sherrod-brown",
+      "name": "Sherrod Brown",
+      "party": "D",
+      "state": "Ohio",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Campaign attacks subsidies and uncontrolled costs; sources do not establish a blanket ban. Historical support is separately documented.",
+      "officialPriority": "Yes — Making Data Centers Pay platform section and campaign ads.",
+      "summary": "Demands data centers cover their own utility costs and communities decide whether projects are built.",
+      "proposals": [
+        "Full utility cost recovery from data centers",
+        "Local control over project approval",
+        "Opposition to corporate tax subsidies"
+      ],
+      "sources": [
+        {
+          "title": "Our Fight",
+          "url": "https://www.sherrodbrown.com/our-fight/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": "We’re fighting to require data centers to pay the full cost of their utilities so your bills don’t go up.",
+          "summary": "Includes a dedicated data center plank and local decision-making commitment.",
+          "attribution": "Sherrod Brown"
+        },
+        {
+          "title": "New ad: The Face of Data Centers",
+          "url": "https://www.sherrodbrown.com/2026/07/06/new-ad-jon-husted-the-face-of-data-centers-brought-226-data-centers-to-ohio-that-raised-ohioans-energy-costs/",
+          "date": "2026-07-06",
+          "type": "Campaign advertisement",
+          "quote": "He’s been called the face of data centers in Ohio.",
+          "summary": "Ad attacks Husted's recruitment and incentives; allegations remain campaign claims, not independently established causal findings.",
+          "attribution": "Sherrod Brown"
+        },
+        {
+          "title": "Ohio candidates recalibrate their stances",
+          "url": "https://www.statenews.org/government-politics/2026-08-17/ohios-u-s-senate-candidates-recalibrate-their-stances-on-data-centers",
+          "date": "2026-08-17",
+          "type": "News",
+          "quote": null,
+          "summary": "Reports Brown celebrated AWS investments roughly a decade earlier; distinguish past record from 2026 platform."
+        },
+        {
+          "title": "Ohio special election law could send Brown back early",
+          "url": "https://www.cleveland.com/open/2026/11/ohio-special-election-law-could-send-sherrod-brown-back-to-senate-early.html",
+          "date": "2026-11-06",
+          "type": "News",
+          "quote": null,
+          "summary": "Brown could return in December; no swearing-in date announced. Husted's appointment ends December 15 under state law, according to report."
+        }
+      ],
+      "adStatus": "Yes — July 6 campaign release includes ad transcript.",
+      "memberType": "Returning senator; special election",
+      "termNote": "Do not assume January swearing-in. December return possible; date unannounced as of Nov 6.",
+      "campaignPriority": "Yes — Making Data Centers Pay platform section and campaign ads.",
+      "returning": true,
+      "timingNote": "Do not assume January swearing-in. December return possible; date unannounced as of Nov 6.",
+      "researchNote": "Yes — July 6 campaign release includes ad transcript.",
+      "priorityLabel": "Official platform"
+    },
+    {
+      "name": "Roy Cooper",
+      "state": "North Carolina",
+      "party": "D",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "campaignPriority": "Explicit official campaign platform",
+      "summary": "Promises full payment of data-center electricity costs, encourages tech companies to add their own energy supply, and supports local involvement in siting decisions.",
+      "proposals": [
+        "Prevent data-center power costs being passed to consumers",
+        "Encourage tech companies to build their own energy sources",
+        "Give local communities a role in decisions"
+      ],
+      "quote": null,
+      "quoteAttribution": "Roy Cooper campaign energy platform",
+      "sources": [
+        {
+          "title": "Lowering Energy & Utility Costs",
+          "url": "https://roycooper.com/costless/energy/",
+          "date": "2026-09-05",
+          "type": "Official campaign platform",
+          "note": "Page explicitly lists update date.",
+          "quote": "Make sure data centers pay the full cost of all the power they use and prevent costs from being passed on to consumers.",
+          "summary": "Page explicitly lists update date.",
+          "attribution": "Roy Cooper campaign energy platform"
+        },
+        {
+          "title": "Fact Check: Where Michael Whatley and Roy Cooper stand on data centers",
+          "url": "https://www.aol.com/articles/fact-check-where-michael-whatley-171058000.html",
+          "date": null,
+          "type": "Syndicated news",
+          "note": "Campaign spokesman says local decisions include local moratoriums.",
+          "quote": null,
+          "summary": "Campaign spokesman says local decisions include local moratoriums."
+        }
+      ],
+      "classificationNote": "Local moratorium discretion does not establish blanket opposition to development.",
+      "checked": "2026-11-06",
+      "id": "roy-cooper",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Campaign and news sources reviewed; no comprehensive advertising archive was available.",
+      "priorityLabel": "Official platform"
+    },
+    {
+      "id": "abdul-el-sayed",
+      "name": "Abdul El-Sayed",
+      "party": "D",
+      "state": "Michigan",
+      "categories": [
+        "Anti data center",
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Anti category denotes a temporary state/local pause pending federal safeguards, not a permanent ban. Earlier conditional framework allows compliant projects.",
+      "officialPriority": "Yes — dedicated Terms of Engagement policy and campaign priorities section.",
+      "summary": "Proposes enforceable federal standards, with state and local moratoria until safeguards exist.",
+      "proposals": [
+        "Developers cover energy costs without ratepayer increases",
+        "Community approval and binding benefits agreements",
+        "Reliability investments funded by data center revenues",
+        "Job guarantees, qualified local contractors and apprenticeship programs",
+        "Closed-loop cooling and no clean-energy loopholes"
+      ],
+      "sources": [
+        {
+          "title": "Terms of Engagement for Data Centers",
+          "url": "https://abdulforsenate.com/2026/01/datacenters/",
+          "date": "2026-01-08",
+          "type": "Campaign policy",
+          "quote": "Data centers must pay for their own energy demand — costs cannot be passed onto ratepayers.",
+          "summary": "Policy specifies protections for energy bills, water, jobs, transparency and enforceability.",
+          "attribution": "Abdul El-Sayed"
+        },
+        {
+          "title": "El-Sayed joins press conference at The Barn",
+          "url": "https://abdulforsenate.com/2026/07/icymi-dr-abdul-el-sayed-joins-press-conference-at-the-barn-data-center-in-saline/",
+          "date": "2026-07-31",
+          "type": "Campaign speech",
+          "quote": "we cannot approve any more of these until we have federal level guardrails.",
+          "summary": "Endorses state and local moratoria pending federal protections.",
+          "attribution": "Abdul El-Sayed"
+        },
+        {
+          "title": "Money in Your Pocket",
+          "url": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": null,
+          "summary": "Explicitly pledges to make his data center terms federal law."
+        }
+      ],
+      "adStatus": "Campaign speech and policy release verified; no separately verified data-center ad retained.",
+      "campaignPriority": "Yes — dedicated Terms of Engagement policy and campaign priorities section.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Campaign speech and policy release verified; no separately verified data-center ad retained.",
+      "priorityLabel": "Official platform"
+    },
+    {
+      "id": "peggy-flanagan",
+      "name": "Peggy Flanagan",
+      "party": "D",
+      "state": "Minnesota",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Supports safeguards. No blanket moratorium established in verified interview.",
+      "officialPriority": "Campaign issue documented in interviews and debates; dedicated data-center plank not located on reviewed priorities page.",
+      "summary": "Calls for regulations protecting communities, water and the environment while preventing costs being shifted to residents.",
+      "proposals": [
+        "Prevent shifting energy and environmental costs to communities",
+        "Community and environmental protections"
+      ],
+      "sources": [
+        {
+          "title": "Conversation about priorities with Peggy Flanagan",
+          "url": "https://www.womenspress.com/a-conversation-about-priorities-with-u-s-senate-candidate-peggy-flanagan/",
+          "date": "2026-10-12",
+          "type": "Candidate interview",
+          "quote": "those should always be grounded in protecting the local community, protecting the environment",
+          "summary": "Explained data center regulatory goals in an interview on congressional priorities.",
+          "attribution": "Peggy Flanagan"
+        },
+        {
+          "title": "Priorities",
+          "url": "https://peggyflanagan.com/priorities/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": null,
+          "summary": "Reviewed campaign priorities page; no dedicated data center section located."
+        },
+        {
+          "title": "Where candidates stand on data centers",
+          "url": "https://www.startribune.com/flanagan-tafoya-senate-ai-data-centers/601885216",
+          "date": null,
+          "type": "News",
+          "quote": null,
+          "summary": "Flanagan did not endorse a blanket moratorium; advocated local authority and safeguards."
+        }
+      ],
+      "adStatus": "No data-center-specific ad verified.",
+      "campaignPriority": "Campaign issue documented in interviews and debates; dedicated data-center plank not located on reviewed priorities page.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "No data-center-specific ad verified.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "name": "Adam Hamilton",
+      "state": "Kansas",
+      "party": "D",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "campaignPriority": "Explicit official campaign platform",
+      "summary": "Calls for developers to cover electricity costs and earn local support; recognizes possible jobs and economic benefits while defending communities' right to reject projects.",
+      "proposals": [
+        "Require developers to cover electricity costs",
+        "Local consent and authority to reject projects",
+        "Protect drinking water and farm irrigation from data-center demands"
+      ],
+      "quote": null,
+      "quoteAttribution": "Adam Hamilton statement quoted by KSHB",
+      "sources": [
+        {
+          "title": "Issues",
+          "url": "https://hamiltonforkansas.com/issues/",
+          "date": null,
+          "type": "Official campaign platform",
+          "quote": null,
+          "summary": "Supports the profile summary and proposals."
+        },
+        {
+          "title": "Incumbent Roger Marshall to face Democratic challenger Adam Hamilton for Senate",
+          "url": "https://www.kshb.com/news/local-news/kansans-cast-votes-in-democratic-republican-primaries-for-us-senator-for-kansas",
+          "date": null,
+          "type": "News quoting candidate",
+          "note": "Post-primary report; statement was supplied in July 2026. Exact article date not exposed in retrieved text.",
+          "quote": "If you're a data center, you should pay your own way.",
+          "summary": "Post-primary report; statement was supplied in July 2026. Exact article date not exposed in retrieved text.",
+          "attribution": "Adam Hamilton statement quoted by KSHB"
+        }
+      ],
+      "classificationNote": "Acknowledging economic benefits is insufficient to code pro-development. Unofficial hamilton4senate.com explicitly disclaims campaign authorization; electhamilton.com excluded.",
+      "checked": "2026-11-06",
+      "id": "adam-hamilton",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Campaign and news sources reviewed; no comprehensive advertising archive was available.",
+      "priorityLabel": "Official platform"
+    },
+    {
+      "id": "troy-jackson",
+      "name": "Troy Jackson",
+      "party": "D",
+      "state": "Maine",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Conditional standards and caution established; no permanent ban established. Avoid attributing Elizabeth Warren's rally remarks to Jackson.",
+      "officialPriority": "Campaign position verified through spokesperson and debate coverage; no dedicated plank on reviewed priorities page.",
+      "summary": "Seeks protections for ratepayers and water, union jobs and community participation.",
+      "proposals": [
+        "Developers pay their own power costs",
+        "Good-paying union jobs",
+        "Protect natural resources and work with communities"
+      ],
+      "sources": [
+        {
+          "title": "AI data center war: key Senate candidates' positions",
+          "url": "https://sports.yahoo.com/articles/ai-data-center-war-where-090000170.html",
+          "date": "2026-08-22",
+          "type": "News / campaign statement",
+          "quote": "create good-paying union jobs, pay their fair share, protect Maine's natural resources, and work with local communities",
+          "summary": "Newsweek reporting carried by Yahoo quotes Jackson campaign spokesperson giving conditional development standards.",
+          "attribution": "Campaign spokesperson"
+        },
+        {
+          "title": "Data center anxiety in Senate debates",
+          "url": "https://rollcall.com/2026/10/19/data-center-anxiety-plays-out-in-senate-campaign-debates/",
+          "date": "2026-10-19",
+          "type": "News / debate",
+          "quote": "real guardrails",
+          "summary": "Reports Jackson supported safeguards against higher household electric costs and water-quality harm.",
+          "attribution": "Troy Jackson, debate coverage"
+        },
+        {
+          "title": "Troy's priorities in the Senate",
+          "url": "https://www.jacksonformaine.com/priorities",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": null,
+          "summary": "Reviewed formal policy priorities; no dedicated data center plank located."
+        }
+      ],
+      "adStatus": "Debate position verified; no data-center-specific ad verified.",
+      "campaignPriority": "Campaign position verified through spokesperson and debate coverage; no dedicated plank on reviewed priorities page.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Debate position verified; no data-center-specific ad verified.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "name": "Chris Pappas",
+      "state": "New Hampshire",
+      "party": "D",
+      "categories": [
+        "Anti data center",
+        "Pro data center regulation"
+      ],
+      "campaignPriority": "Documented campaign position and congressional activity",
+      "summary": "Supports a statewide construction moratorium, local authority over projects, ratepayer protection and limits on federal data-center tax subsidies.",
+      "proposals": [
+        "State-level moratorium on construction",
+        "Restrict 100% bonus depreciation and Opportunity Zone benefits for data centers",
+        "Require utility commissions to consider protections against shifting energy and grid costs to consumers"
+      ],
+      "quote": null,
+      "sources": [
+        {
+          "title": "Where do NH candidates stand on AI and data centers?",
+          "url": "https://www.nhpr.org/politics/2026-10-30/where-do-nh-candidates-stand-on-ai-and-data-centers-election-2026-midterms",
+          "date": "2026-10-30",
+          "type": "News",
+          "note": "Explicit state moratorium support; links October 13 debate.",
+          "quote": "Big Tech and data center developers should be paying their fair share in taxes",
+          "summary": "Explicit state moratorium support; links October 13 debate.",
+          "attribution": "Chris Pappas, September 17 congressional remarks (release reprint)"
+        },
+        {
+          "title": "Pappas Joins Bipartisan Letter Raising Concerns About Meta’s Use of Research Tax Credit for Data Centers",
+          "url": "https://pappas.house.gov/media/press-releases/pappas-joins-bipartisan-letter-raising-concerns-about-meta-s-use-of-research-tax-credit-for-data-centers",
+          "date": "2026-10-16",
+          "type": "Official congressional release",
+          "note": "Confirms tax bill and Ratepayer Protection Act activity; direct open 403, indexed complete text available.",
+          "quote": null,
+          "summary": "Confirms tax bill and Ratepayer Protection Act activity; direct open 403, indexed complete text available."
+        },
+        {
+          "title": "H.R.10448 introduced text",
+          "url": "https://www.govinfo.gov/app/details/BILLS-119hr10448ih",
+          "date": "2026-09-15",
+          "type": "Legislative primary source",
+          "note": "Lists Pappas as cosponsor.",
+          "quote": null,
+          "summary": "Lists Pappas as cosponsor."
+        },
+        {
+          "title": "Pappas Helps Introduce New Legislation to Stop Tax Giveaways for Data Centers",
+          "url": "https://capitolreleases.com/releases/77cecb26-6c50-4580-8dae-e08e379b979f",
+          "date": "2026-09-17",
+          "type": "Official release reprint",
+          "quote": "Big Tech and data center developers should be paying their fair share in taxes",
+          "summary": "Pappas argues for local choice and ending data-center tax incentives.",
+          "attribution": "Chris Pappas"
+        }
+      ],
+      "classificationNote": "Anti category means state construction moratorium, not a permanent nationwide ban. Support for AI oversight alone is not used for classification.",
+      "quoteAttribution": "Chris Pappas, September 17 congressional remarks (release reprint)",
+      "checked": "2026-11-06",
+      "id": "chris-pappas",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Campaign and news sources reviewed; no comprehensive advertising archive was available.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "name": "Juliana Stratton",
+      "state": "Illinois",
+      "party": "D",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "campaignPriority": "Public campaign position; dedicated data-center platform not located",
+      "summary": "Supports developer-funded grid and clean-energy investment, protection of water and natural resources, and community participation. Discussed pausing tax incentives; did not endorse a construction moratorium in the evidence reviewed.",
+      "proposals": [
+        "Require developers to bear expansion costs and invest in electricity infrastructure",
+        "Protect water and natural resources through regulation",
+        "Require transparency and community participation"
+      ],
+      "quote": null,
+      "quoteAttribution": "Juliana Stratton, Illinois Public Media interview (machine-generated transcript)",
+      "sources": [
+        {
+          "title": "The 21st Show: Juliana Stratton interview",
+          "url": "https://will.illinois.edu/21stshow/story/lt-gov-juliana-stratton-on-iran-war-ice-accountability-and-her-campaign-for-u.s-senate",
+          "date": "2026-10-13",
+          "type": "Interview transcript",
+          "note": "Data-center section at 22:01; indexed transcript provides full passage. Machine-generated transcript.",
+          "quote": "It cannot be something where Illinoisans have to shoulder the burden for the expansion",
+          "summary": "Data-center section at 22:01; indexed transcript provides full passage. Machine-generated transcript.",
+          "attribution": "Juliana Stratton, Illinois Public Media interview (machine-generated transcript)"
+        },
+        {
+          "title": "Juliana's Priorities",
+          "url": "https://www.julianastratton.com/issues",
+          "date": null,
+          "type": "Campaign platform",
+          "note": "No specific data-center priority located in reviewed content.",
+          "quote": null,
+          "summary": "No specific data-center priority located in reviewed content."
+        }
+      ],
+      "classificationNote": "Regulation is explicit; do not code as anti-data-center on the basis of an incentive pause.",
+      "checked": "2026-11-06",
+      "id": "juliana-stratton",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Campaign and news sources reviewed; no comprehensive advertising archive was available.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "id": "james-talarico",
+      "name": "James Talarico",
+      "party": "D",
+      "state": "Texas",
+      "categories": [
+        "Pro data center",
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Conditional support for development: explicitly rejects a moratorium and supports investment with safeguards.",
+      "officialPriority": "Yes — explicit technology and energy platform commitments.",
+      "summary": "Welcomes investment subject to federal standards, local approval, water protections and developer-funded infrastructure.",
+      "proposals": [
+        "End data center tax preferences",
+        "Require developers to fund infrastructure and interconnection",
+        "Require closed-loop water systems",
+        "Federal minimum standards for environment, grid, jobs and transparency",
+        "Give local communities authority to accept or reject projects"
+      ],
+      "sources": [
+        {
+          "title": "Social Media, Artificial Intelligence & Tech",
+          "url": "https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": "empower local communities to decide whether they want a data center in their town.",
+          "summary": "Sets out an explicit Senate data center regulatory agenda.",
+          "attribution": "James Talarico"
+        },
+        {
+          "title": "Talarico calls for tighter regulations",
+          "url": "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/",
+          "date": "2026-07-22",
+          "type": "News / policy rollout",
+          "quote": "strikes a balance between welcoming those investments while also protecting working people.",
+          "summary": "Announced six-part plan and declined a moratorium.",
+          "attribution": "James Talarico"
+        },
+        {
+          "title": "Talarico rejects data center moratorium",
+          "url": "https://www.sacurrent.com/news/politics-and-elections/u-s-senate-candidate-james-talarico-rejects-data-center-moratorium-calls-for-stronger-regulations/",
+          "date": "2026-07-31",
+          "type": "News",
+          "quote": null,
+          "summary": "Explicitly opposes a complete construction pause and seeks union jobs and regulation."
+        }
+      ],
+      "adStatus": "Policy rollout and campaign website verified; no separately verified ad retained.",
+      "campaignPriority": "Yes — explicit technology and energy platform commitments.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Policy rollout and campaign website verified; no separately verified ad retained.",
+      "priorityLabel": "Official platform"
+    },
+    {
+      "name": "Josh Turek",
+      "state": "Iowa",
+      "party": "D",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "campaignPriority": "Documented campaign policy; promoted on official campaign news page",
+      "summary": "Advocates federal ratepayer safeguards, ending data-center tax breaks and requiring closed-loop cooling. Opposes a federal construction moratorium while supporting local decisions.",
+      "proposals": [
+        "Federal protection against higher consumer electricity rates",
+        "No more data-center corporate tax breaks",
+        "Federal closed-loop cooling requirement",
+        "Require developers to cover infrastructure costs, including abandoned projects"
+      ],
+      "quote": null,
+      "quoteAttribution": "Josh Turek, Iowa PBS debate",
+      "sources": [
+        {
+          "title": "Iowa Press Debates: U.S. Senate",
+          "url": "https://www.iowapbs.org/shows/iowapress/special/14524/iowa-press-debates-us-senate",
+          "date": "2026-10-07",
+          "type": "Primary debate transcript",
+          "note": "Explicitly confirms federal-law proposal. Claimed 70–90% water savings is candidate claim, not independently established here.",
+          "quote": "I am absolutely in favor of some regulations on data centers",
+          "summary": "Explicitly confirms federal-law proposal. Claimed 70–90% water savings is candidate claim, not independently established here.",
+          "attribution": "Josh Turek, Iowa PBS debate"
+        },
+        {
+          "title": "Iowa Senate debate transcript",
+          "url": "https://semblen.com/races/ia-senate/debates/2026-10-13",
+          "date": "2026-10-13",
+          "type": "Third-party debate transcript",
+          "note": "Federal moratorium rejection at 21:54; infrastructure costs at 23:34.",
+          "quote": null,
+          "summary": "Federal moratorium rejection at 21:54; infrastructure costs at 23:34."
+        },
+        {
+          "title": "Turek launches At the Buzzer Tour",
+          "url": "https://turek4iowa.com/news/icymi-josh-turek-launches-at-the-buzzer-tour--criss-crosses-iowa-with-dozens-of-stops-to-go/",
+          "date": null,
+          "type": "Official campaign news",
+          "note": "Campaign republishes reporting describing data-center guardrails as affordability policy.",
+          "quote": null,
+          "summary": "Campaign republishes reporting describing data-center guardrails as affordability policy."
+        }
+      ],
+      "classificationNote": "Opposing federal moratorium does not make him anti-regulation, given explicit federal requirements.",
+      "checked": "2026-11-06",
+      "id": "josh-turek",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "Campaign and news sources reviewed; no comprehensive advertising archive was available.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "name": "Kurt Alme",
+      "party": "R",
+      "state": "Montana",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classification_note": "Explicit transparency, water, electric-rate and community-consent guardrails. Conditional acceptance alone not coded broad pro-development.",
+      "campaign_priority": "Yes: data-center transparency and local decisions appear in campaign website's issue list; interview provides detail.",
+      "summary": "Wants transparent costs and impacts, water protection, local jobs, no household electricity increases and community support before development.",
+      "proposals": [
+        "Full disclosure of costs and community impacts",
+        "Companies bear their own costs and create local jobs",
+        "Protect water users and water quality",
+        "Guarantee no increases in household electricity costs",
+        "Earn support of host communities"
+      ],
+      "sources": [
+        {
+          "url": "https://www.kpax.com/news/kurt-alme-draws-on-montana-roots-in-u-s-senate-campaign",
+          "title": "Kurt Alme draws on Montana roots in U.S. Senate campaign",
+          "publisher": "KPAX / Montana Television Network",
+          "date": "2026-10-06",
+          "date_note": "Interview explicitly labelled 10-6-26; publication date absent from extracted page.",
+          "type": "Campaign interview transcript",
+          "quote": "they need to sit down and earn the support of the local community that they want to join.",
+          "summary": "Calls for transparent costs, company-paid infrastructure, local jobs, protection of water and no increases in family electricity bills.",
+          "note": " Interview explicitly labelled 10-6-26; publication date absent from extracted page.",
+          "attribution": "Kurt Alme"
+        },
+        {
+          "url": "https://alme4senate.com/",
+          "title": "Kurt Alme for U.S. Senate",
+          "publisher": "Alme campaign",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": null,
+          "summary": "Indexed issue list includes transparency and local decisions on data-center development. Search index verified; direct page fetch returned 502."
+        }
+      ],
+      "ads": "No directly verified data-center campaign ad located in targeted searches.",
+      "vote": null,
+      "id": "kurt-alme",
+      "campaignPriority": "Yes: data-center transparency and local decisions appear in campaign website's issue list; interview provides detail.",
+      "classificationNote": "Explicit transparency, water, electric-rate and community-consent guardrails. Conditional acceptance alone not coded broad pro-development.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "No directly verified data-center campaign ad located in targeted searches.",
+      "priorityLabel": "Official platform"
+    },
+    {
+      "name": "Andy Barr",
+      "party": "R",
+      "state": "Kentucky",
+      "categories": [
+        "Pro data center",
+        "Pro data center regulation"
+      ],
+      "classification_note": "Conditional development support and limited ratepayer safeguards. Local-control preference does not establish blanket opposition to regulation.",
+      "campaign_priority": "Explicit campaign interview position; dedicated platform plank not verified.",
+      "summary": "Argues data centers can deliver jobs and local revenue, with scrutiny, local siting control and protections against electricity cost shifts.",
+      "proposals": [
+        "Leave project approval to local governments",
+        "Support ratepayer protections",
+        "Encourage data centers to bring their own power"
+      ],
+      "sources": [
+        {
+          "url": "https://www.weku.org/2026-09-21/barr-wants-to-see-regulations-decisions-on-data-centers-left-up-to-local-governments-in-ky",
+          "title": "Barr wants to see regulations, decisions on data centers left up to local governments in KY",
+          "publisher": "WEKU",
+          "date": "2026-09-21",
+          "type": "Campaign interview",
+          "quote": "my position on all of this is local control, national American leadership in this area.",
+          "summary": "Describes construction jobs and tax revenues as benefits; says facilities could lower electric rates if supplying their own power; supports scrutiny and local decisions.",
+          "attribution": "Andy Barr"
+        },
+        {
+          "url": "https://clerk.house.gov/evs/2026/roll312",
+          "title": "Final Vote Results for Roll Call 312",
+          "date": "2026-09-16",
+          "publisher": "Clerk of the House",
+          "note": "Voted Yea. The bill requires regulators to consider a standard; it does not mandate adoption.",
+          "type": "Recorded vote"
+        }
+      ],
+      "ads": "No directly verified data-center campaign ad located in targeted searches.",
+      "vote": "Yea, H.R.9340, 2026-09-16",
+      "id": "andy-barr",
+      "campaignPriority": "Explicit campaign interview position; dedicated platform plank not verified.",
+      "classificationNote": "Conditional development support and limited ratepayer safeguards. Local-control preference does not establish blanket opposition to regulation.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "No directly verified data-center campaign ad located in targeted searches.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "name": "Harriet Hageman",
+      "party": "R",
+      "state": "Wyoming",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classification_note": "Verified support for limited ratepayer safeguards and oversight; supports state siting authority. Energy expansion to serve data centers is contextual, insufficient alone for a broad pro-development tag.",
+      "campaign_priority": "Discussed in campaign interview; dedicated campaign plank not verified.",
+      "summary": "Backs state/local siting review and ratepayer protection; demanded Meta explain water-system contamination in Cheyenne.",
+      "proposals": [
+        "Use Wyoming's Industrial Siting Act for local/state review",
+        "Support Ratepayer Protection Act",
+        "Require timely information about water contamination"
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyomingpublicmedia.org/2026-10-07/interview-with-harriet-hageman-republican-party-candidate-for-u-s-senate",
+          "title": "Interview with Harriet Hageman, Republican Party candidate for U.S. Senate",
+          "publisher": "Wyoming Public Media",
+          "date": "2026-10-07",
+          "type": "Campaign interview",
+          "quote": "I think that we have the law in place to make sure that our local communities can properly address this issue.",
+          "summary": "Says data-center siting is a state issue, with sufficient existing Wyoming Industrial Siting Act review.",
+          "attribution": "Harriet Hageman"
+        },
+        {
+          "url": "https://hageman.house.gov/media/press-releases/hageman-demands-answers-meta-over-data-center-water-contamination",
+          "title": "Hageman Demands Answers from Meta Over Data Center Water Contamination",
+          "publisher": "Hageman House office",
+          "date": "2026-07-09",
+          "type": "Official statement",
+          "quote": "Water is a precious resource in our state",
+          "summary": "Asked Meta for answers about contamination of Cheyenne's reuse-water system; local utility officials said residential drinking water was not threatened.",
+          "attribution": "Harriet Hageman"
+        },
+        {
+          "url": "https://clerk.house.gov/evs/2026/roll312",
+          "title": "Final Vote Results for Roll Call 312",
+          "date": "2026-09-16",
+          "publisher": "Clerk of the House",
+          "note": "Voted Yea. The bill requires regulators to consider a standard; it does not mandate adoption.",
+          "type": "Recorded vote"
+        }
+      ],
+      "ads": "No directly verified data-center campaign ad located in targeted searches.",
+      "vote": "Yea, H.R.9340, 2026-09-16",
+      "id": "harriet-hageman",
+      "campaignPriority": "Discussed in campaign interview; dedicated campaign plank not verified.",
+      "classificationNote": "Verified support for limited ratepayer safeguards and oversight; supports state siting authority. Energy expansion to serve data centers is contextual, insufficient alone for a broad pro-development tag.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "No directly verified data-center campaign ad located in targeted searches.",
+      "priorityLabel": "Campaign statements"
+    },
+    {
+      "name": "Kevin Hern",
+      "party": "R",
+      "state": "Oklahoma",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classification_note": "Tag rests on recorded vote for limited ratepayer safeguards, not a verified broad regulatory campaign platform.",
+      "campaign_priority": "Dedicated data-center campaign priority not verified.",
+      "summary": "Voted for the House's limited ratepayer-protection measure. No original-source direct quote verified in this pass.",
+      "proposals": [
+        "Supported H.R.9340 ratepayer standard"
+      ],
+      "sources": [
+        {
+          "url": "https://clerk.house.gov/evs/2026/roll312",
+          "title": "Final Vote Results for Roll Call 312",
+          "publisher": "Clerk of the House",
+          "date": "2026-09-16",
+          "type": "Recorded vote",
+          "quote": null,
+          "summary": "Hern (OK) is listed among Yeas on H.R.9340."
+        },
+        {
+          "title": "Oklahoma attorney general: winner fills remainder of term",
+          "url": "https://oklahoma.gov/oag/news/newsroom/2026/october/drummond-nov-3-winner-will-fill-remainder-of-u-s-senate-term.html",
+          "date": "2026-10-29",
+          "type": "Official legal opinion announcement",
+          "summary": "Eligibility begins after certification; the Senate administers the oath."
+        }
+      ],
+      "followup": {
+        "url": "https://www.bartlesvilleradio.com/campaign_corner/hern-emphasizes-local-decision-making-in-his-senate-campaign/article_76200073-c91e-4f79-9b64-dd7ebd0b9e4a.html",
+        "note": "Oct29 interview reportedly addressed local data-center siting control. Original inaccessible; secondary ChamberLight summary only. Do not present as verified quote."
+      },
+      "ads": "No directly verified data-center campaign ad located in targeted searches.",
+      "vote": "Yea, H.R.9340, 2026-09-16",
+      "id": "kevin-hern",
+      "campaignPriority": "Dedicated data-center campaign priority not verified.",
+      "classificationNote": "Tag rests on recorded vote for limited ratepayer safeguards, not a verified broad regulatory campaign platform.",
+      "returning": false,
+      "timingNote": "Oklahoma’s attorney general says the winner is eligible to take office after certification. Do not assume a January swearing-in.",
+      "researchNote": "No directly verified data-center campaign ad located in targeted searches.",
+      "priorityLabel": "Congressional record"
+    },
+    {
+      "name": "Julia Letlow",
+      "party": "R",
+      "state": "Louisiana",
+      "categories": [
+        "Pro data center",
+        "Pro data center regulation"
+      ],
+      "classification_note": "Explicit conditional support for development plus ratepayer safeguards.",
+      "campaign_priority": "Explicit official statements during campaign; dedicated campaign plank not verified.",
+      "summary": "Supports responsible data-center investment for jobs and local tax benefits, while backing safeguards against shifting electricity costs to households.",
+      "proposals": [
+        "Support H.R.9340",
+        "Have large projects pay their own power-related costs"
+      ],
+      "sources": [
+        {
+          "url": "https://letlow.house.gov/media/press-releases/letlow-votes-ratepayer-protection-act",
+          "title": "Letlow Votes for Ratepayer Protection Act",
+          "publisher": "Letlow House office",
+          "date": "2026-09-17",
+          "type": "Official statement",
+          "quote": "When developed responsibly, these investments can support our economy by creating new jobs",
+          "summary": "Supports data-center economic benefits and ratepayer protection. Office describes mandatory adoption more strongly than the bill; use bill text for legal effect.",
+          "attribution": "Julia Letlow"
+        },
+        {
+          "url": "https://talk1073.com/2026/09/16/julia-letlow-discusses-louisiana-economic-growth-data-centers-and-federal-legislation/",
+          "title": "Julia Letlow Discusses Louisiana Economic Growth, Data Centers and Federal Legislation",
+          "publisher": "Talk 107.3FM",
+          "date": "2026-09-16",
+          "type": "Radio interview summary",
+          "quote": null,
+          "summary": "Presented Meta's Richland Parish development as an example of addressing its energy needs; discussed preventing cost shifts to existing customers."
+        },
+        {
+          "url": "https://clerk.house.gov/evs/2026/roll312",
+          "title": "Final Vote Results for Roll Call 312",
+          "date": "2026-09-16",
+          "publisher": "Clerk of the House",
+          "note": "Voted Yea. The bill requires regulators to consider a standard; it does not mandate adoption.",
+          "type": "Recorded vote"
+        }
+      ],
+      "ads": "No directly verified data-center campaign ad located in targeted searches.",
+      "vote": "Yea, H.R.9340, 2026-09-16",
+      "id": "julia-letlow",
+      "campaignPriority": "Explicit official statements during campaign; dedicated campaign plank not verified.",
+      "classificationNote": "Explicit conditional support for development plus ratepayer safeguards.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "No directly verified data-center campaign ad located in targeted searches.",
+      "priorityLabel": "Congressional record"
+    },
+    {
+      "name": "Barry Moore",
+      "party": "R",
+      "state": "Alabama",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classification_note": "Supports limited ratepayer safeguards; broad development position not established. Do not confuse with Alabama state Rep. Parker Moore.",
+      "campaign_priority": "Official legislative position documented; dedicated Senate campaign plank not verified.",
+      "summary": "Supported the House ratepayer bill as a step toward protecting customers as energy demand grows.",
+      "proposals": [
+        "Support H.R.9340's ratepayer standard"
+      ],
+      "sources": [
+        {
+          "url": "https://aldailynews.com/house-passes-bill-aimed-at-addressing-impact-of-data-centers-on-energy-costs/",
+          "title": "House passes bill aimed at addressing impact of data centers on energy costs",
+          "publisher": "Alabama Daily News / Associated Press",
+          "date": "2026-09-17",
+          "type": "News interview",
+          "quote": "It’s a good step in the right direction",
+          "summary": "Moore endorsed the ratepayer bill; all Alabama House members voted for it. Article explains regulators must consider the cost-allocation standard.",
+          "attribution": "Barry Moore"
+        },
+        {
+          "url": "https://clerk.house.gov/evs/2026/roll312",
+          "title": "Final Vote Results for Roll Call 312",
+          "date": "2026-09-16",
+          "publisher": "Clerk of the House",
+          "note": "Voted Yea. The bill requires regulators to consider a standard; it does not mandate adoption.",
+          "type": "Recorded vote"
+        }
+      ],
+      "ads": "No directly verified data-center campaign ad located in targeted searches.",
+      "vote": "Yea, H.R.9340, 2026-09-16",
+      "id": "barry-moore",
+      "campaignPriority": "Official legislative position documented; dedicated Senate campaign plank not verified.",
+      "classificationNote": "Supports limited ratepayer safeguards; broad development position not established. Do not confuse with Alabama state Rep. Parker Moore.",
+      "returning": false,
+      "timingNote": "",
+      "researchNote": "No directly verified data-center campaign ad located in targeted searches.",
+      "priorityLabel": "Congressional record"
+    }
+  ],
+  "roster": {
+    "url": "https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/",
+    "title": "Calling control of Congress in the 2026 midterm elections",
+    "publisher": "Associated Press",
+    "date": "2026-11-05",
+    "note": "AP lists all six as winners; race calls are not state certifications."
+  },
+  "baseline": [
+    {
+      "id": "ndaa1531",
+      "date": "2025-12-18",
+      "title": "Military data center resource planning",
+      "bill": "Public Law 119-60, section 1531",
+      "status": "Enacted",
+      "actor": "Congress and president",
+      "party": "Bipartisan law",
+      "summary": "Requires the Defense Department's computing roadmap to address electricity, water, community effects and utility resilience for data centers built or expanded on military installations. Estimates are conditioned on not delaying the roadmap update. This is a targeted military provision, not a general commercial data center law.",
+      "sources": [
+        {
+          "title": "GovInfo: enacted public law",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+          "date": "2025-12-18",
+          "locator": "Section 1531"
+        }
+      ],
+      "themes": [
+        "Water",
+        "Energy",
+        "Disclosure"
+      ]
+    },
+    {
+      "id": "grid",
+      "date": "2026-02-11",
+      "title": "GRID Act introduced",
+      "bill": "S. 3852",
+      "status": "Introduced / referred",
+      "actor": "Josh Hawley (R-MO), Richard Blumenthal (D-CT)",
+      "party": "Bipartisan",
+      "summary": "Would require separate power generation for new covered data centers, provide a 10-year transition for existing facilities and require utility-use disclosures. Referred to Senate Energy and Natural Resources; no enactment found.",
+      "sources": [
+        {
+          "title": "GovInfo: introduced bill",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3852is/pdf/BILLS-119s3852is.pdf",
+          "date": "2026-02-11"
+        },
+        {
+          "title": "Blumenthal announcement",
+          "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-introduces-bill-to-protect-americans-from-increasing-electricity-costs",
+          "date": "2026-02-12"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Energy",
+        "Disclosure"
+      ]
+    },
+    {
+      "id": "moratorium",
+      "date": "2026-03-25",
+      "title": "AI data center moratorium proposed",
+      "bill": "S. 4214; House companion H.R. 9442",
+      "status": "Introduced / referred",
+      "actor": "Bernie Sanders (I-VT); Alexandria Ocasio-Cortez (D-NY)",
+      "party": "Independent / Democratic",
+      "summary": "Would pause covered AI data center construction until federal safeguards are enacted. Senate bill introduced March 25; House companion introduced June 24. Neither has been established as law in the reviewed record.",
+      "sources": [
+        {
+          "title": "GovInfo: S. 4214",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4214is/html/BILLS-119s4214is.htm",
+          "date": "2026-03-25"
+        },
+        {
+          "title": "GovInfo: H.R. 9442",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9442ih/html/BILLS-119hr9442ih.htm",
+          "date": "2026-06-24"
+        }
+      ],
+      "themes": [
+        "Moratorium",
+        "AI safeguards"
+      ]
+    },
+    {
+      "id": "hearing",
+      "date": "2026-04-29",
+      "title": "AI and the Grid hearing",
+      "bill": null,
+      "status": "Hearing held",
+      "actor": "House Energy and Commerce Subcommittee on Energy",
+      "party": "Committee",
+      "summary": "Examined seven measures on rising electricity demand, grid investment and ratepayer protection. Witnesses included public power, utility and state regulator representatives. A hearing produces a record; it does not enact its discussed proposals.",
+      "sources": [
+        {
+          "title": "Official House hearing repository",
+          "url": "https://docs.house.gov/committee/Calendar/ByEvent.aspx?EventID=119189",
+          "date": "2026-04-29"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Energy",
+        "Grid planning"
+      ]
+    },
+    {
+      "id": "taxdisclosure",
+      "date": "2026-07-21",
+      "title": "Data center tax and disclosure proposal",
+      "bill": "S. 5054",
+      "status": "Introduced / referred",
+      "actor": "Mark Warner (D-VA)",
+      "party": "Democratic",
+      "summary": "Would remove AI data centers from bonus depreciation eligibility and require electricity and water information. Referred to Senate Finance; no enactment found.",
+      "sources": [
+        {
+          "title": "GovInfo: Data Center Tax Accountability and Disclosure Act",
+          "url": "https://www.govinfo.gov/app/details/BILLS-119s5054is",
+          "date": "2026-07-21"
+        }
+      ],
+      "themes": [
+        "Tax incentives",
+        "Disclosure",
+        "Water",
+        "Energy"
+      ]
+    },
+    {
+      "id": "localcontrol",
+      "date": "2026-08-20",
+      "title": "Protecting local siting authority",
+      "bill": "H.R. 10119",
+      "status": "Introduced / referred",
+      "actor": "Tom Barrett (R-MI)",
+      "party": "Republican",
+      "summary": "Would prohibit federal preemption of state or local land-use, zoning, siting and permitting authority over data centers on nonfederal land. Referred to House Energy and Commerce.",
+      "sources": [
+        {
+          "title": "GovInfo: Protecting Local Control of Data Centers Act",
+          "url": "https://www.govinfo.gov/app/details/BILLS-119hr10119ih",
+          "date": "2026-08-20"
+        }
+      ],
+      "themes": [
+        "Local control",
+        "Permitting"
+      ]
+    },
+    {
+      "id": "ratepayer",
+      "date": "2026-09-30",
+      "title": "Ratepayer Protection Act stalls in Senate",
+      "bill": "H.R. 9340",
+      "status": "Passed House / Senate cloture failed",
+      "actor": "House and Senate",
+      "party": "Bipartisan House support; divided Senate",
+      "summary": "Passed the House 417–3 on September 16. Senate cloture on proceeding failed 57–43 on September 30. The bill would require utility regulators to consider a cost-recovery standard for large data center loads; it would not require every state to adopt that standard. It is not enacted.",
+      "votes": {
+        "house": {
+          "date": "2026-09-16",
+          "yea": 417,
+          "nay": 3,
+          "notVoting": 12,
+          "Republican": {
+            "yea": 210,
+            "nay": 0,
+            "notVoting": 7
+          },
+          "Democratic": {
+            "yea": 206,
+            "nay": 3,
+            "notVoting": 5
+          },
+          "Independent": {
+            "yea": 1,
+            "nay": 0,
+            "notVoting": 0
+          }
+        },
+        "senate": {
+          "date": "2026-09-30",
+          "yea": 57,
+          "nay": 43,
+          "threshold": 60,
+          "Republican": {
+            "yea": 53,
+            "nay": 0
+          },
+          "Democratic": {
+            "yea": 4,
+            "nay": 41
+          },
+          "Independent": {
+            "yea": 0,
+            "nay": 2
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "House Clerk: roll call 312",
+          "url": "https://clerk.house.gov/evs/2026/roll312",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Senate: roll call 254",
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.htm",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "House Energy and Commerce: bill scope",
+          "url": "https://energycommerce.house.gov/posts/ratepayer-protection-act-passes-house-with-strong-bipartisan-support",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Congressional Record: Heinrich objection and alternative proposal",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-09-17/pdf/CREC-2026-09-17.pdf",
+          "date": "2026-09-17",
+          "locator": "Senate page S4775"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Energy"
+      ],
+      "caveat": "Senators opposing this bill cannot automatically be classified as anti regulation: Heinrich said it fell short and sought stronger legislation."
+    },
+    {
+      "id": "transparency",
+      "date": "2026-09-30",
+      "title": "Bipartisan transparency bill introduced",
+      "bill": "S. 5640",
+      "status": "Introduced / referred",
+      "actor": "Lisa Blunt Rochester (D-DE), John Curtis (R-UT)",
+      "party": "Bipartisan",
+      "summary": "Would require EPA reporting on water use, pollution and community effects and EIA reporting on electricity use and household bills. Referred to Senate Environment and Public Works.",
+      "sources": [
+        {
+          "title": "GovInfo: Data Center Transparency Act of 2026",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5640is/xhtml/BILLS-119s5640is.html",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Blunt Rochester: sponsored legislation status",
+          "url": "https://www.bluntrochester.senate.gov/about/legislation/sponsored-legislation/",
+          "date": null
+        }
+      ],
+      "themes": [
+        "Disclosure",
+        "Water",
+        "Energy",
+        "Pollution"
+      ]
+    },
+    {
+      "id": "investigation",
+      "date": "2026-10-09",
+      "title": "Senators publish data center cost investigation",
+      "bill": null,
+      "status": "Oversight report released",
+      "actor": "Elizabeth Warren, Chris Van Hollen, Richard Blumenthal",
+      "party": "Democratic",
+      "summary": "Released a report based on a nearly yearlong inquiry into operators' energy costs, tax benefits and nondisclosure agreements. The senators concluded that company promises did not cover all community costs. These are the report authors' findings; the report is not an enacted requirement.",
+      "sources": [
+        {
+          "title": "Warren: Power and Profits report announcement",
+          "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+          "date": "2026-10-09"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Tax incentives",
+        "Disclosure"
+      ]
+    }
+  ],
+  "executiveContext": {
+    "date": "2025-07-23",
+    "title": "Executive Order 14318: faster data center permitting",
+    "status": "Executive action; excluded from congressional action counts",
+    "summary": "Directed agencies to accelerate qualifying data center infrastructure through environmental-review changes, permitting coordination and federal land access. Attribute this to the Trump administration, not to a congressional vote.",
+    "source": {
+      "title": "White House executive order",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/",
+      "date": "2025-07-23"
+    }
+  },
+  "pending": [
+    {
+      "state": "Alaska",
+      "description": "Mary Peltola vs. Dan Sullivan. Uncalled as of reviewed November 6 reporting; exclude from confirmed incoming-member totals.",
+      "url": "https://apnews.com/article/d4f55516fd72155d746cfbbc2017c743"
+    },
+    {
+      "state": "Mississippi",
+      "description": "Scott Colom vs. Cindy Hyde-Smith. Uncalled as of reviewed November 6 reporting; exclude from confirmed incoming-member totals.",
+      "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
+    }
+  ],
+  "voteSources": {
+    "house": "https://clerk.house.gov/evs/2026/roll312",
+    "senate": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.htm"
+  },
+  "timing": "Most new terms begin in January 2027; special timing applies to Sherrod Brown and Kevin Hern, who may take office before January. See their profiles for dated sources."
+}

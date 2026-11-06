@@ -1,0 +1,701 @@
+[
+  {
+    "id": "luke-bronin",
+    "name": "Luke Bronin",
+    "state": "Connecticut",
+    "district": "CT-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Calls for data centers to add renewable energy without increasing household bills.",
+    "proposals": [
+      "Require renewable-energy buildout associated with data centers",
+      "Protect households against added electricity costs"
+    ],
+    "sources": [
+      {
+        "title": "First Congressional District candidates debate",
+        "url": "https://ctmirror.org/2026/07/29/1st-congressional-district-candidates-square-off-in-final-debate/",
+        "date": "2026-07-29",
+        "type": "News / candidate debate",
+        "summary": "Bronin describes renewable-generation and ratepayer conditions for data centers.",
+        "quote": "build out their renewable energy and not add a dollar to anyone's bill",
+        "attribution": "Luke Bronin"
+      }
+    ],
+    "classificationNote": "Cost and energy safeguards support the regulation category; no blanket construction ban established.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "dan-koh",
+    "name": "Dan Koh",
+    "state": "Massachusetts",
+    "district": "MA-06",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Supports environmental review, community participation and developer-funded grid upgrades for large data centers.",
+    "proposals": [
+      "Environmental review and meaningful community input",
+      "Developers pay grid-upgrade costs",
+      "Prevent environmental and infrastructure costs shifting to families"
+    ],
+    "sources": [
+      {
+        "title": "Dan Koh — Stance on Science questionnaire",
+        "url": "https://snapcoalition.org/initiatives/stance-on-science/candidates/ma/dan-koh",
+        "date": "2026-07-15",
+        "type": "Candidate questionnaire",
+        "summary": "Koh gives specific data-center safeguards in his response on AI regulation.",
+        "quote": "we also need rules that ensure large data centers do not shift their environmental and infrastructure costs onto working families.",
+        "attribution": "Dan Koh"
+      }
+    ],
+    "classificationNote": "General support for innovation is not coded as support for data-center construction.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "stefany-shaheen",
+    "name": "Stefany Shaheen",
+    "state": "New Hampshire",
+    "district": "NH-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit official campaign platform or release",
+    "summary": "Calls for a statewide data-center moratorium and immediate disclosure of the proposed Bow facility’s impacts.",
+    "proposals": [
+      "Statewide data-center moratorium",
+      "Publish site plans, environmental projections and grid-impact studies",
+      "Community input on water, electricity, emissions and noise"
+    ],
+    "sources": [
+      {
+        "title": "Shaheen demands transparency on Bow project, calls for moratorium",
+        "url": "https://stefanyshaheen.com/article/stefany-shaheen-demands-transparency-on-bow-data-center-project-calls-for-moratorium/",
+        "date": "2026-09-03",
+        "type": "Official campaign release",
+        "summary": "Release calls for a state pause and disclosure to let communities assess projects.",
+        "quote": "A moratorium is needed to make sure the people of New Hampshire and their communities get the information they need",
+        "attribution": "Stefany Shaheen"
+      }
+    ],
+    "classificationNote": "Anti category refers to a state moratorium pending information, not a permanent national ban.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "zack-mullock",
+    "name": "Zack Mullock",
+    "state": "New Jersey",
+    "district": "NJ-02",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Calls for an AI data-center moratorium while electricity, water, economic and community effects are assessed.",
+    "proposals": [
+      "Pause AI data centers pending fuller impact assessment"
+    ],
+    "sources": [
+      {
+        "title": "Zack Mullock — Stance on Science questionnaire",
+        "url": "https://snapcoalition.org/initiatives/stance-on-science/candidates/nj/zack-mullock",
+        "date": "2026-09-29",
+        "type": "Candidate questionnaire",
+        "summary": "Mullock confirms his prior moratorium call and links it to unresolved impacts.",
+        "quote": "I previously called for a moratorium on AI data centers until we fully understand the electric, water, and other economic, community, and environmental impacts.",
+        "attribution": "Zack Mullock"
+      }
+    ],
+    "classificationNote": "Temporary moratorium; broad concern alone is not separately counted as a specific regulatory proposal.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "New Jersey election results and new delegation",
+      "url": "https://newjerseymonitor.com/2026/11/06/nj-democrats-election-day-2026/"
+    }
+  },
+  {
+    "id": "rebecca-bennett",
+    "name": "Rebecca Bennett",
+    "state": "New Jersey",
+    "district": "NJ-07",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Proposes a separate utility rate class, water protections and respect for local decisions on data-center projects.",
+    "proposals": [
+      "Separate rate class to prevent household electricity subsidies",
+      "Closed-loop water systems and environmental protection",
+      "Community consultation and respect for local bans"
+    ],
+    "sources": [
+      {
+        "title": "District 7 general election questionnaire: Rebecca Bennett",
+        "url": "https://patch.com/new-jersey/bridgewater/district-7-general-election-2026-rebecca-bennett",
+        "date": "2026-10-20",
+        "type": "Candidate questionnaire",
+        "summary": "Detailed candidate response covers rate classes, water systems and local authority.",
+        "quote": "I also believe that community voices must be heard before a data center comes to any community.",
+        "attribution": "Rebecca Bennett"
+      }
+    ],
+    "classificationNote": "Respecting local bans is a local-control position, not a blanket national ban.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "New Jersey election results and new delegation",
+      "url": "https://newjerseymonitor.com/2026/11/06/nj-democrats-election-day-2026/"
+    }
+  },
+  {
+    "id": "adam-hamawy",
+    "name": "Adam Hamawy",
+    "state": "New Jersey",
+    "district": "NJ-12",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Supports an immediate, full moratorium on construction of new data centers.",
+    "proposals": [
+      "Immediate full pause on new data-center construction"
+    ],
+    "sources": [
+      {
+        "title": "Congressional Democrats and AI regulation",
+        "url": "https://prospect.org/2026/09/15/artificial-intelligence-open-ai-anthropic-congressional-democrats/",
+        "date": "2026-09-15",
+        "type": "News / emailed candidate statement",
+        "summary": "Hamawy confirms moratorium support by email and describes AI as a top district issue.",
+        "quote": "immediate and full moratorium on the construction of new data centers",
+        "attribution": "Adam Hamawy"
+      }
+    ],
+    "classificationNote": "AI-superintelligence legislation is not separately coded as data-center regulation without specific facility provisions.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "New Jersey election results and new delegation",
+      "url": "https://newjerseymonitor.com/2026/11/06/nj-democrats-election-day-2026/"
+    }
+  },
+  {
+    "id": "claire-valdez",
+    "name": "Claire Valdez",
+    "state": "New York",
+    "district": "NY-07",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit official campaign platform or release",
+    "summary": "Supports a federal AI data-center moratorium until safeguards exist, full developer payment of grid costs and investment in public power.",
+    "proposals": [
+      "Cosponsor Sanders–Ocasio-Cortez conditional moratorium",
+      "Require grid infrastructure costs to be committed before construction",
+      "Require tech-company investment in publicly owned power"
+    ],
+    "sources": [
+      {
+        "title": "A Livable Planet for All",
+        "url": "https://clairevaldezforcongress.com/issues/memo/climate",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Dedicated climate plank sets out moratorium, upfront grid payments and public-power requirements.",
+        "quote": "Claire will fight to put a moratorium on AI data center expansion.",
+        "attribution": "Claire Valdez"
+      },
+      {
+        "title": "New York Assembly A10141A",
+        "url": "https://nyassembly.gov/leg/?Text=Y&bn=A10141&term=2025",
+        "date": null,
+        "type": "State legislative record",
+        "summary": "Lists Valdez as a cosponsor of the data-center permitting moratorium and rate-impact legislation.",
+        "quote": null,
+        "attribution": null
+      }
+    ],
+    "classificationNote": "Conditional pause plus specific ratepayer protections; state sponsorship is distinguished from future federal promises.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "brad-lander",
+    "name": "Brad Lander",
+    "state": "New York",
+    "district": "NY-10",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Supports a national moratorium on construction of AI data centers.",
+    "proposals": [
+      "National moratorium on data centers"
+    ],
+    "sources": [
+      {
+        "title": "How Mamdani-aligned House candidates plan to fight wealth inequality",
+        "url": "https://abcnews.com/Business/mamdani-aligned-house-candidates-plan-fight-wealth-inequality/story?id=134168803",
+        "date": null,
+        "type": "News",
+        "summary": "ABC reports that Lander, Valdez and Avila Chevalier all support an AI data-center construction moratorium.",
+        "quote": null,
+        "attribution": null
+      },
+      {
+        "title": "Food & Water Action endorsement: Brad Lander",
+        "url": "https://www.foodandwateraction.org/endorsement/brad-lander/",
+        "date": null,
+        "type": "Advocacy organization endorsement",
+        "summary": "Endorsing organization explicitly reports his national moratorium position; this is not a direct candidate quotation.",
+        "quote": null,
+        "attribution": null
+      }
+    ],
+    "classificationNote": "National pause confirmed in news reporting and an endorsement summary. No duration or separate facility rules established.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "micah-lasher",
+    "name": "Micah Lasher",
+    "state": "New York",
+    "district": "NY-12",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Backs New York’s permitting moratorium and legislation protecting surrounding communities from data-center impacts.",
+    "proposals": [
+      "State moratorium on new data-center permits",
+      "Ratepayer protections and safeguards for surrounding communities"
+    ],
+    "sources": [
+      {
+        "title": "Your Vote 2026: District 12 — Tech/AI",
+        "url": "https://www.amny.com/sponsored/your-vote-2026-district-12-tech-ai/",
+        "date": "2026-06-04",
+        "type": "Candidate questionnaire / AARP-sponsored feature",
+        "summary": "Lasher directly describes his state moratorium and community-protection sponsorship.",
+        "quote": "I co-sponsor legislation to impose a moratorium on new data centers in New York",
+        "attribution": "Micah Lasher"
+      },
+      {
+        "title": "New York Assembly A10141A",
+        "url": "https://nyassembly.gov/leg/?Text=Y&bn=A10141&term=2025",
+        "date": null,
+        "type": "State legislative record",
+        "summary": "Lists Lasher as cosponsor of permitting-moratorium and rate-impact legislation.",
+        "quote": null,
+        "attribution": null
+      }
+    ],
+    "classificationNote": "Documented state stance during a federal campaign; no national ban is inferred.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "darializa-avila-chevalier",
+    "name": "Darializa Avila Chevalier",
+    "state": "New York",
+    "district": "NY-13",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Supports a national pause on construction of AI data centers because of electricity and water consumption.",
+    "proposals": [
+      "National moratorium on AI data-center construction"
+    ],
+    "sources": [
+      {
+        "title": "Darializa Avila Chevalier answers Streetsblog questionnaire",
+        "url": "https://nyc.streetsblog.org/2026/06/16/lucky-13-darializa-avila-chevalier-answers-questions-that-rep-adriano-espaillat-wont",
+        "date": "2026-06-16",
+        "type": "Candidate questionnaire",
+        "summary": "Candidate aligns with Sanders and environmental groups calling for a national construction pause.",
+        "quote": "I agree with Sen. Bernie Sanders that there should be a moratorium on data center construction",
+        "attribution": "Darializa Avila Chevalier"
+      }
+    ],
+    "classificationNote": "Pause on new construction; no separate concrete facility-regulation proposal established in this source.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "cait-conley",
+    "name": "Cait Conley",
+    "state": "New York",
+    "district": "NY-17",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit official campaign platform or release",
+    "summary": "Supports a moratorium and binding agreements that protect utility customers and water supplies.",
+    "proposals": [
+      "Pause development while communities are being exploited",
+      "Binding agreements requiring developers to pay their share",
+      "Protect household utility bills and water supplies"
+    ],
+    "sources": [
+      {
+        "title": "Cait Conley policy priorities",
+        "url": "https://caitconley.com/policy/",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "AI section explicitly proposes binding data-center agreements protecting utility rates and water.",
+        "quote": null,
+        "attribution": null
+      },
+      {
+        "title": "Conley on data centers and the cost of living",
+        "url": "https://www.wamc.org/news/2026-11-02/election-2026-ny-17-cait-conley-conversation?_amp=true",
+        "date": "2026-11-02",
+        "type": "Candidate interview",
+        "summary": "Conley confirms moratorium support before Election Day.",
+        "quote": "I support a moratorium because right now we’re watching as local communities are being exploited by these data center developers.",
+        "attribution": "Cait Conley"
+      }
+    ],
+    "classificationNote": "Moratorium support coexists with a regulated-development framework; no permanent blanket ban inferred.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "anthony-constantino",
+    "name": "Anthony Constantino",
+    "state": "New York",
+    "district": "NY-21",
+    "chamber": "House",
+    "party": "R",
+    "categories": [
+      "Pro data center"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Supports data centers as economic development when municipalities choose appropriate industrial locations.",
+    "proposals": [
+      "Let municipalities consider and site data centers",
+      "Locate facilities in appropriate industrial areas rather than residential neighborhoods"
+    ],
+    "sources": [
+      {
+        "title": "Constantino on affordability and his business approach",
+        "url": "https://www.northcountrypublicradio.org/news/story/54084/20261014/ny-21-republican-anthony-constantino-on-affordability-and-his-business-approach-to-politics",
+        "date": "2026-10-14",
+        "type": "Candidate interview",
+        "summary": "Describes data centers as modern factories and supports local opportunities to host them.",
+        "quote": "Data centers are a sort of modern factory.",
+        "attribution": "Anthony Constantino"
+      }
+    ],
+    "classificationNote": "Conditional support for development with local zoning. No blanket opposition to regulation inferred.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "AP calls New York 21st District for Anthony Constantino",
+      "url": "https://apnews.com/article/67c2e4097d4b494d98980f0363ae4479"
+    }
+  },
+  {
+    "id": "bob-harvie",
+    "name": "Bob Harvie",
+    "state": "Pennsylvania",
+    "district": "PA-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statements; dedicated platform priority not established",
+    "summary": "Shifted from strict regulation to a data-center moratorium in his first general-election television ad.",
+    "proposals": [
+      "Moratorium on new data-center development",
+      "Stricter safeguards and local community control"
+    ],
+    "sources": [
+      {
+        "title": "Harvie calls for data-center moratorium in new TV ad",
+        "url": "https://www.inquirer.com/politics/election/bob-harvie-ai-data-centers-stance-tv-ad-20260910.html",
+        "date": "2026-09-10",
+        "type": "News / campaign advertisement",
+        "summary": "Reports the ad and the shift from earlier regulation-only messaging.",
+        "quote": "I don’t want any more data centers. I want a moratorium.",
+        "attribution": "Bob Harvie"
+      }
+    ],
+    "classificationNote": "Position changed during campaign; moratorium duration unspecified. Earlier promotion of investment does not erase the later pause call.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. Specific campaign advertising documented in linked evidence.",
+    "electionSource": {
+      "title": "Pennsylvania congressional election results",
+      "url": "https://www.inquirer.com/politics/election/live/midterm-election-2026-results-updates-candidates-polls-pa-nj-20261103.html/card-5fe1f865-3c68-4ccf-8a83-c3f5b40d9493"
+    }
+  },
+  {
+    "id": "chris-rabb",
+    "name": "Chris Rabb",
+    "state": "Pennsylvania",
+    "district": "PA-03",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit official campaign platform or release",
+    "summary": "His official platform explicitly opposes hyperscale data centers.",
+    "proposals": [
+      "Oppose hyperscale data centers"
+    ],
+    "sources": [
+      {
+        "title": "Chris Rabb campaign platform",
+        "url": "https://www.chrisrabb.com/platform",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Affordability and climate platform includes an explicit hyperscale-data-center opposition plank.",
+        "quote": "No Hyperscale Data Centers",
+        "attribution": "Chris Rabb"
+      }
+    ],
+    "classificationNote": "Scope is hyperscale facilities. General AI regulation language is not separately coded as data-center regulation.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "2026 House election results — Ballotpedia",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House"
+    }
+  },
+  {
+    "id": "bob-brooks",
+    "name": "Bob Brooks",
+    "state": "Pennsylvania",
+    "district": "PA-07",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit official campaign platform or release",
+    "summary": "Wants federal law protecting local veto power over data centers and shielding residents from higher utility costs.",
+    "proposals": [
+      "Preserve local siting authority",
+      "Make state-style community veto protections federal law",
+      "Prevent data-center electricity costs falling on residents"
+    ],
+    "sources": [
+      {
+        "title": "Bob Brooks policy platform",
+        "url": "https://www.brooksforcongress.com/on-the-issues/",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Dedicated section supports local control and national legislation protecting communities.",
+        "quote": "Protect local control over the data center industry.",
+        "attribution": "Bob Brooks"
+      }
+    ],
+    "classificationNote": "Local veto and cost protections; no blanket construction ban established.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "Pennsylvania congressional election results",
+      "url": "https://www.inquirer.com/politics/election/live/midterm-election-2026-results-updates-candidates-polls-pa-nj-20261103.html/card-5fe1f865-3c68-4ccf-8a83-c3f5b40d9493"
+    }
+  },
+  {
+    "id": "paige-cognetti",
+    "name": "Paige Cognetti",
+    "state": "Pennsylvania",
+    "district": "PA-08",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit official campaign platform or release",
+    "summary": "Opposes currently proposed Northeastern Pennsylvania projects and demands utility, water, transparency and labor safeguards.",
+    "proposals": [
+      "Reject the region’s currently proposed projects",
+      "Require companies to pay their own utility costs and reject tax breaks",
+      "Water protections, transparency and local union labor"
+    ],
+    "sources": [
+      {
+        "title": "Cognetti statement on proposed NEPA data centers",
+        "url": "https://paigeforpa.com/paige-cognetti-statement-on-cbs-news-report-revealing-rep-rob-bresnahan-owns-stocks-in-data-center-companies-while-pushing-for-their-development-in-nepa/",
+        "date": "2026-09-16",
+        "type": "Official campaign release",
+        "summary": "Candidate explicitly rejects currently proposed projects in Northeastern Pennsylvania.",
+        "quote": "Not one of these proposed data center projects should move forward.",
+        "attribution": "Paige Cognetti"
+      },
+      {
+        "title": "New ad: Cognetti pledges to stand up to data centers",
+        "url": "https://paigeforpa.com/new-ad-paige-cognetti-pledges-to-stand-up-to-data-centers-calls-out-rob-bresnahan-for-stock-trading-off-their-development/",
+        "date": "2026-07-28",
+        "type": "Campaign advertisement",
+        "summary": "Ad demands full cost payment, transparency, no tax breaks, clean water and local union labor.",
+        "quote": null,
+        "attribution": null
+      }
+    ],
+    "classificationNote": "Opposition is to proposed regional projects, not all data centers everywhere. Campaign allegations about opponents are not independently adopted.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. Specific campaign advertising documented in linked evidence.",
+    "electionSource": {
+      "title": "Pennsylvania congressional election results",
+      "url": "https://www.inquirer.com/politics/election/live/midterm-election-2026-results-updates-candidates-polls-pa-nj-20261103.html/card-5fe1f865-3c68-4ccf-8a83-c3f5b40d9493"
+    }
+  },
+  {
+    "id": "janelle-stelson",
+    "name": "Janelle Stelson",
+    "state": "Pennsylvania",
+    "district": "PA-10",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit official campaign platform or release",
+    "summary": "Supports local power to reject projects without corporate lawsuits, alongside utility-cost and community protections.",
+    "proposals": [
+      "Local approval or rejection without corporate litigation",
+      "Protect residents from utility, water and noise impacts"
+    ],
+    "sources": [
+      {
+        "title": "Janelle Stelson priorities",
+        "url": "https://janellestelson.com/priorities/",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Dedicated data-center and electric-bill section emphasizes local control and resident protection.",
+        "quote": "If communities do not want them, they should not be built.",
+        "attribution": "Janelle Stelson"
+      }
+    ],
+    "classificationNote": "Conditional local opposition does not establish a national ban. Opponent allegations on the campaign page are not independently adopted.",
+    "checked": "2026-11-06",
+    "returning": false,
+    "timingNote": "Elected to the 120th Congress; expected January 2027.",
+    "researchNote": "Targeted candidate-name, data-center, campaign website, news and advertising searches checked November 6, 2026. No specific advertisement verified; this is not evidence that none existed.",
+    "electionSource": {
+      "title": "Pennsylvania congressional election results",
+      "url": "https://www.inquirer.com/politics/election/live/midterm-election-2026-results-updates-candidates-polls-pa-nj-20261103.html/card-5fe1f865-3c68-4ccf-8a83-c3f5b40d9493"
+    }
+  }
+]

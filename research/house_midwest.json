@@ -1,0 +1,1057 @@
+[
+  {
+    "name": "Christina Bohannan",
+    "district": "IA-01",
+    "state": "Iowa",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "christina-bohannan",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Supports local authority over siting and opposes imposing data centers on unwilling communities. Connects power demand to clean-energy development and utility accountability.",
+    "proposals": [
+      "Local community consent for data-center projects",
+      "Energy affordability and utility accountability"
+    ],
+    "classificationNote": "Classification reflects the specific safeguards described, not a blanket position on all development.",
+    "sources": [
+      {
+        "url": "https://iowastartingline.com/news/politics/data-centers-energy-bohannan/",
+        "title": "Data centers in Iowa: What is Christina Bohannan’s plan?",
+        "type": "News",
+        "date": "2026-10-09",
+        "quote": null,
+        "attribution": "Christina Bohannan",
+        "summary": "Supports local authority over siting and opposes imposing data centers on unwilling communities. Connects power demand to clean-energy development and utility accountability."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Chris McGowan",
+    "district": "IA-04",
+    "state": "Iowa",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Republican Chris McGowan wins Iowa’s 4th District",
+      "url": "https://www.iowapublicradio.org/political-news/2026-11-03/2026-iowa-4th-district-results-chris-mcgowan-dave-dawson"
+    },
+    "returning": false,
+    "id": "chris-mcgowan",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Says developers must cover all costs, communities must have input and data centers should not receive special incentives.",
+    "proposals": [
+      "Require data centers to pay their entire costs",
+      "Protect residents from electricity-price effects",
+      "Local input and opposition to special incentives"
+    ],
+    "classificationNote": "Classification reflects the specific safeguards described, not a blanket position on all development.",
+    "sources": [
+      {
+        "url": "https://www.iowapublicradio.org/political-news/2026-11-03/2026-iowa-4th-district-results-chris-mcgowan-dave-dawson",
+        "title": "Republican Chris McGowan wins Iowa’s 4th District",
+        "type": "News",
+        "date": "2026-11-03",
+        "quote": "If data centers are going to come, they must pay their entire way,",
+        "attribution": "Chris McGowan",
+        "summary": "Says developers must cover all costs, communities must have input and data centers should not receive special incentives."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Lindsay James",
+    "district": "IA-02",
+    "state": "Iowa",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "lindsay-james",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Opposes federal tax incentives for data centers, as stated during the 2nd District debate.",
+    "proposals": [
+      "End federal tax incentives for data centers"
+    ],
+    "classificationNote": "Opposition to subsidies is coded as regulation/accountability, not a ban on development.",
+    "sources": [
+      {
+        "url": "https://iowacapitaldispatch.com/2026/10/01/republican-joe-mitchell-democratic-state-rep-lindsay-james-spar-in-2nd-district-debate/",
+        "title": "Republican Joe Mitchell, Democratic state Rep. Lindsay James spar in 2nd District debate",
+        "type": "News",
+        "date": "2026-10-01",
+        "quote": null,
+        "attribution": "Lindsay James",
+        "summary": "Opposes federal tax incentives for data centers, as stated during the 2nd District debate."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Sarah Trone Garriott",
+    "district": "IA-03",
+    "state": "Iowa",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "sarah-trone-garriott",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "State/local record",
+    "campaignPriority": "Documented state/local legislative record; federal campaign priority not verified",
+    "summary": "Sponsored state legislation to prevent data centers from shifting electricity costs to other consumers.",
+    "proposals": [
+      "Protect consumers from data-center electricity cost shifting"
+    ],
+    "classificationNote": "Evidence is a state legislative proposal reported by Heartland Signal; it does not establish a blanket construction ban.",
+    "sources": [
+      {
+        "url": "https://heartlandsignal.com/2026/10/08/iowa-3rd-congressional-district-nunn-trone-garriott/",
+        "title": "Nunn vs. Trone Garriott: Where Iowa’s 3rd District candidates stand",
+        "type": "News",
+        "date": "2026-10-08",
+        "quote": null,
+        "attribution": "Sarah Trone Garriott",
+        "summary": "Sponsored state legislation to prevent data centers from shifting electricity costs to other consumers."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Daniel Biss",
+    "district": "IL-09",
+    "state": "Illinois",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "daniel-biss",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Supports a national moratorium on data-center construction and opposed a proposed Evanston facility.",
+    "proposals": [
+      "National construction moratorium"
+    ],
+    "classificationNote": "Anti category denotes a construction moratorium, not a documented permanent ban. Broader technology platform alone is not treated as data-center evidence.",
+    "sources": [
+      {
+        "url": "https://www.arcamax.com/politics/politicalnews/s-4322536",
+        "title": "Daniel Biss aims to keep party’s hold on Illinois’ 9th District",
+        "type": "News",
+        "date": "2026-10-14",
+        "quote": null,
+        "attribution": "Daniel Biss",
+        "summary": "Supports a national moratorium on data-center construction and opposed a proposed Evanston facility."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Melissa Bean",
+    "district": "IL-08",
+    "state": "Illinois",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": true,
+    "id": "melissa-bean",
+    "categories": [],
+    "priorityLabel": "No position located",
+    "campaignPriority": "No classifiable position verified in reviewed sources",
+    "summary": "No data-center-specific policy verified in the sources reviewed. Several election articles discuss her opponent Jennifer Davis’s positions. General AI policy and outside political funding do not establish Bean’s stance.",
+    "proposals": [],
+    "classificationNote": "Unclassified means insufficient verified evidence, not neutral or supportive. Data-center passages in this article concern opponent Jennifer Davis.",
+    "sources": [
+      {
+        "url": "https://abc7chicago.com/amp/post/former-congresswoman-melissa-bean-first-time-candidate-jennifer-davis-make-final-push-illinois-8th-congressional-district-race/19996624/",
+        "title": "Final push in Illinois’ 8th Congressional District race",
+        "type": "News",
+        "date": "2026-10-29",
+        "quote": null,
+        "attribution": "Melissa Bean",
+        "summary": "No data-center-specific policy verified in the sources reviewed. Several election articles discuss her opponent Jennifer Davis’s positions. General AI policy and outside political funding do not establish Bean’s stance."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Searched Melissa Bean with data centers, regulation, moratorium and campaign issues; reviewed ABC7 Oct. 29, NBC Chicago Sept. 30 and Chicago Tribune Oct. 8 coverage. Opponent statements and super-PAC support are not attributed to Bean. No comprehensive ad archive reviewed."
+  },
+  {
+    "name": "Donna Miller",
+    "district": "IL-02",
+    "state": "Illinois",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "donna-miller",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign platform",
+    "summary": "Official platform requires environmental, community and jobs disclosures before approval. In a campaign radio interview, Miller supported a moratorium pending expert assessment.",
+    "proposals": [
+      "Disclose environmental and community impacts before permits",
+      "Disclose expected jobs",
+      "Moratorium pending assessment of resource, farmland and zoning effects"
+    ],
+    "classificationNote": "Anti category is limited to the temporary pause described in the radio interview.",
+    "sources": [
+      {
+        "url": "https://donnaforcongress.com/priorities",
+        "title": "Donna Miller campaign priorities",
+        "type": "Campaign platform",
+        "date": null,
+        "quote": null,
+        "attribution": "Donna Miller",
+        "summary": "Official platform requires environmental, community and jobs disclosures before approval. In a campaign radio interview, Miller supported a moratorium pending expert assessment."
+      },
+      {
+        "title": "Donna Miller: WCPT 820 candidate interview",
+        "url": "https://omny.fm/shows/chewsviews/donna-miller-wcpt-820-candidate-interview?in_playlist=featured-interviews",
+        "date": null,
+        "type": "Interview",
+        "quote": null,
+        "summary": "Publisher’s interview summary reports support for a moratorium until experts assess farmland, zoning and resource effects."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "LaShawn Ford",
+    "district": "IL-07",
+    "state": "Illinois",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "lashawn-ford",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "State/local record",
+    "campaignPriority": "Documented state/local legislative record; federal campaign priority not verified",
+    "summary": "Cosponsored Illinois HB5513, the hyperscale data-center legislation proposing resource-use accountability and community safeguards.",
+    "proposals": [
+      "Water planning, usage reporting and public-hearing permits",
+      "Energy and water reporting",
+      "Environmental and community safeguards for hyperscale centers"
+    ],
+    "classificationNote": "State bill cosponsorship, not enactment or a verified federal campaign plank. Official sponsor record was search-indexed; direct retrieval returned an error.",
+    "sources": [
+      {
+        "url": "https://www.ilga.gov/ftp/legislation/104/BillStatus/HTML/10400HB5513.html",
+        "title": "Illinois General Assembly: HB5513 status and sponsors",
+        "type": "State legislative record",
+        "date": "2026-05-13",
+        "quote": null,
+        "attribution": "LaShawn Ford",
+        "summary": "Cosponsored Illinois HB5513, the hyperscale data-center legislation proposing resource-use accountability and community safeguards."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Patty Garcia",
+    "district": "IL-04",
+    "state": "Illinois",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "patty-garcia",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Discussed balancing data-center jobs with water, infrastructure and community protections in a campaign interview.",
+    "proposals": [
+      "Regulations addressing water, infrastructure and community effects"
+    ],
+    "classificationNote": "Based on publisher’s interview summary. A precise legislative proposal or blanket development position was not established.",
+    "sources": [
+      {
+        "url": "https://omny.fm/shows/chewsviews/wcpt-820-candidate-interview-patty-garcia-1?in_playlist=featured-interviews",
+        "title": "WCPT 820 candidate interview: Patty Garcia",
+        "type": "Interview",
+        "date": null,
+        "quote": null,
+        "attribution": "Patty Garcia",
+        "summary": "Discussed balancing data-center jobs with water, infrastructure and community protections in a campaign interview."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "J.D. Ford",
+    "district": "IN-05",
+    "state": "Indiana",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "j-d-ford",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign platform",
+    "summary": "Dedicated campaign platform calls for utility and water disclosures, community impact assessment and developers covering their own resource costs.",
+    "proposals": [
+      "Require water and utility-use disclosures before construction",
+      "Community effects assessment and public voice",
+      "Companies pay their own utility and water expenses"
+    ],
+    "classificationNote": "Classification reflects the specific safeguards described, not a blanket position on all development.",
+    "sources": [
+      {
+        "url": "https://www.electjdford.com/platform",
+        "title": "J.D. Ford platform: Data Centers",
+        "type": "Campaign platform",
+        "date": null,
+        "quote": "Hold data centers accountable for paying for their own water and utility expenses.",
+        "attribution": "J.D. Ford",
+        "summary": "Dedicated campaign platform calls for utility and water disclosures, community impact assessment and developers covering their own resource costs."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Jeremy Moss",
+    "district": "MI-11",
+    "state": "Michigan",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "jeremy-moss",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign platform",
+    "summary": "Promotes state data-center safeguards and local consent, saying projects should not proceed where communities strongly oppose them.",
+    "proposals": [
+      "Ratepayer, air and water protections",
+      "Community consent for proposed facilities"
+    ],
+    "classificationNote": "Classification reflects the specific safeguards described, not a blanket position on all development.",
+    "sources": [
+      {
+        "url": "https://www.votejeremymoss.com/priorities/",
+        "title": "Jeremy Moss campaign priorities",
+        "type": "Campaign platform",
+        "date": null,
+        "quote": null,
+        "attribution": "Jeremy Moss",
+        "summary": "Promotes state data-center safeguards and local consent, saying projects should not proceed where communities strongly oppose them."
+      },
+      {
+        "title": "Jeremy Moss interview",
+        "url": "https://www.metroweekly.com/2026/10/jeremy-moss-interview-congress-michigan/",
+        "date": null,
+        "type": "Interview",
+        "quote": null,
+        "summary": "Discusses state safeguards and opposition to imposing projects on unwilling communities; claims about the strength of state laws are his characterization."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Sean McCann",
+    "district": "MI-04",
+    "state": "Michigan",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "AP: McCann elected MI-4",
+      "url": "https://apnews.com/article/6d2497ff64644074966b7a5367685f1f",
+      "date": null
+    },
+    "returning": false,
+    "id": "sean-mccann",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Campaign plan makes data centers pay for their own energy and water rather than receive taxpayer-funded assistance.",
+    "proposals": [
+      "Data centers pay their own energy and water costs",
+      "Oppose taxpayer handouts"
+    ],
+    "classificationNote": "Classification reflects the specific safeguards described, not a blanket position on all development.",
+    "sources": [
+      {
+        "url": "https://www.ottawanewsnetwork.org/sean-mccann-hard-work-ought-to-get-you-somewhere-why-im-running-for-congress-in-mi-04/",
+        "title": "Sean McCann: Why I’m running for Congress in MI-04",
+        "type": "Candidate-authored commentary",
+        "date": "2026-11-01",
+        "quote": "make data centers pay their own energy and water costs, not give them handouts paid for by taxpayers",
+        "attribution": "Sean McCann",
+        "summary": "Campaign plan makes data centers pay for their own energy and water rather than receive taxpayer-funded assistance."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Donavan McKinney",
+    "district": "MI-13",
+    "state": "Michigan",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "donavan-mckinney",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Supports a federal data-center moratorium.",
+    "proposals": [
+      "Federal construction moratorium",
+      "Environmental protections and union jobs"
+    ],
+    "classificationNote": "Anti category denotes a moratorium. Additional interview evidence supports stronger environmental and labor safeguards.",
+    "sources": [
+      {
+        "url": "https://insideclimatenews.org/news/12082026/michigan-primary-votes-against-data-centers/",
+        "title": "Michigan voters sent a message about data centers",
+        "type": "News",
+        "date": "2026-08-12",
+        "quote": null,
+        "attribution": "Donavan McKinney",
+        "summary": "Supports a federal data-center moratorium."
+      },
+      {
+        "title": "Donavan McKinney interview",
+        "url": "https://www.democracynow.org/2026/8/14/donavan_mckinney",
+        "date": "2026-08-14",
+        "type": "Interview",
+        "quote": null,
+        "summary": "Supports a moratorium, environmental protections and union jobs."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Christina Hines",
+    "district": "MI-10",
+    "state": "Michigan",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "WDIV: AP projects Hines in MI-10",
+      "url": "https://www.clickondetroit.com/news/local/2026/11/04/christina-hines-wins-michigan-us-house-district-10-ap-projects/",
+      "date": null
+    },
+    "returning": false,
+    "id": "christina-hines",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Said she would support a data-center moratorium during a Macomb County discussion of AI, energy costs and water protection.",
+    "proposals": [
+      "Support a data-center moratorium",
+      "Federal safeguards for energy costs and water"
+    ],
+    "classificationNote": "Anti category denotes the moratorium she supported, not a permanent prohibition.",
+    "sources": [
+      {
+        "url": "https://michiganadvance.com/2026/10/19/jeffries-talks-ai-concerns-at-roundtable-with-macomb-county-community-leaders/",
+        "title": "Jeffries talks AI concerns at roundtable with Macomb County community leaders",
+        "type": "News",
+        "date": "2026-10-19",
+        "quote": "We’re right next to Lake St. Clair. People are very worried about protecting our water.",
+        "attribution": "Christina Hines",
+        "summary": "Said she would support a data-center moratorium during a Macomb County discussion of AI, energy costs and water protection."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "William Lawrence",
+    "district": "MI-07",
+    "state": "Michigan",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "william-lawrence",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Made federal data-center regulation a campaign issue and called for a national pause as part of a broader framework for AI.",
+    "proposals": [
+      "Federal data-center moratorium",
+      "National framework for technology, workers and community protections"
+    ],
+    "classificationNote": "Anti category denotes a moratorium. Proposals about pausing advanced AI research are separate from data-center construction.",
+    "sources": [
+      {
+        "url": "https://www.michiganpublic.org/politics-government/2026-09-18/will-lawrence-rolls-out-plan-for-regulating-big-tech-data-centers-in-michigan-and-beyond",
+        "title": "Will Lawrence rolls out plan for regulating Big Tech data centers",
+        "type": "News",
+        "date": "2026-09-18",
+        "quote": null,
+        "attribution": "William Lawrence",
+        "summary": "Made federal data-center regulation a campaign issue and called for a national pause as part of a broader framework for AI."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Matt Little",
+    "district": "MN-02",
+    "state": "Minnesota",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "matt-little",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign platform",
+    "summary": "Dedicated platform supports data-center moratoria for public assessment, full developer cost recovery and environmental safeguards.",
+    "proposals": [
+      "Moratoria to assess costs and impacts",
+      "Companies cover all costs; no taxpayer subsidy",
+      "Protect aquifers and require clean power",
+      "Ban nondisclosure agreements and require transparent review"
+    ],
+    "classificationNote": "Anti category denotes temporary moratoria; platform sets conditions for future development.",
+    "sources": [
+      {
+        "url": "https://littleforcongress.com/key-issues/fighting-to-regulate-ai-and-data-centers/",
+        "title": "Fighting to regulate AI and data centers",
+        "type": "Campaign platform",
+        "date": null,
+        "quote": "I’ll ensure that if data centers want to operate in Minnesota, they pay their full costs.",
+        "attribution": "Matt Little",
+        "summary": "Dedicated platform supports data-center moratoria for public assessment, full developer cost recovery and environmental safeguards."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Frederick Wellman",
+    "district": "MO-02",
+    "state": "Missouri",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "frederick-wellman",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign platform",
+    "summary": "Affordability platform calls for strong guardrails and requires data centers to pay their own power costs.",
+    "proposals": [
+      "Strong data-center safeguards",
+      "Companies cover their own power costs"
+    ],
+    "classificationNote": "Classification reflects the specific safeguards described, not a blanket position on all development.",
+    "sources": [
+      {
+        "url": "https://www.wellmanformo.com/affordability",
+        "title": "Fred Wellman: Affordability",
+        "type": "Campaign platform",
+        "date": null,
+        "quote": "Give data centers strong guardrails and make them pay for their own power.",
+        "attribution": "Frederick Wellman",
+        "summary": "Affordability platform calls for strong guardrails and requires data centers to pay their own power costs."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Chris Stigall",
+    "district": "MO-06",
+    "state": "Missouri",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "chris-stigall",
+    "categories": [
+      "Anti data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Rejects federal mandates on data centers and says decisions belong at county and city level. Emphasizes local debate.",
+    "proposals": [
+      "Keep data-center decisions at county and city level",
+      "Oppose federal mandates or edicts"
+    ],
+    "classificationNote": "Anti-regulation tag is narrowly federal: he rejects federal mandates in this data-center answer. It does not mean opposition to local safeguards or disclosure.",
+    "sources": [
+      {
+        "url": "https://www.kq2.com/news/top-stories/2026/10/15/get-to-know-chris-stigall-republican-candidate-for-u-s-representative-district-6/",
+        "title": "Get to know Chris Stigall, Republican candidate for U.S. Representative District 6",
+        "type": "Interview",
+        "date": "2026-10-15",
+        "quote": "I don't want there to be any kind of federal mandates or edicts coming out of Washington, D.C.",
+        "attribution": "Chris Stigall",
+        "summary": "Rejects federal mandates on data centers and says decisions belong at county and city level. Emphasizes local debate."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Denise Powell",
+    "district": "NE-02",
+    "state": "Nebraska",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "denise-powell",
+    "categories": [],
+    "priorityLabel": "No position located",
+    "campaignPriority": "No classifiable position verified in reviewed sources",
+    "summary": "Participated in a televised data-center debate, but a sufficiently detailed attributable policy statement was not verified in accessible material for this review.",
+    "proposals": [],
+    "classificationNote": "Research incomplete: video requires transcript review. Unclassified is not evidence of neutrality. Secondary summaries were not used to infer precise safeguards.",
+    "sources": [
+      {
+        "url": "https://www.wowt.com/video/2026/10/15/nebraska-2nd-congressional-district-debate-data-centers-3/",
+        "title": "Election 2026: NE-02 candidates debate data centers",
+        "type": "Debate video",
+        "date": "2026-10-15",
+        "quote": null,
+        "attribution": "Denise Powell",
+        "summary": "Participated in a televised data-center debate, but a sufficiently detailed attributable policy statement was not verified in accessible material for this review."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches for Denise Powell and data centers, pay, costs, grid and regulation; checked campaign priorities, WOWT Oct. 15 debate pages and a secondary AI-on-the-Ballot summary. The accessible debate page lacked a transcript. A substantive position may be in the video; do not treat this gap as no public position."
+  },
+  {
+    "name": "Brian Poindexter",
+    "district": "OH-07",
+    "state": "Ohio",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "brian-poindexter",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Supports environmental safeguards and preventing data-center costs from being shifted to households.",
+    "proposals": [
+      "Protect air and water",
+      "Prevent household cost shifting",
+      "Protect workers and community interests"
+    ],
+    "classificationNote": "Conditional safeguards do not establish blanket opposition to development.",
+    "sources": [
+      {
+        "url": "https://ohiovoterguide.com/2026/general/county/cuyahoga",
+        "title": "Ohio Voter Guide: Brian Poindexter",
+        "type": "Voter guide",
+        "date": null,
+        "quote": null,
+        "attribution": "Brian Poindexter",
+        "summary": "Supports environmental safeguards and preventing data-center costs from being shifted to households."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Don Leonard",
+    "district": "OH-15",
+    "state": "Ohio",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "don-leonard",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Supports siting and resource safeguards and distinguishes unacceptable projects from an across-the-board ban.",
+    "proposals": [
+      "Protect communities from harmful siting",
+      "Address electricity prices and water use"
+    ],
+    "classificationNote": "Uses October interview to qualify earlier criticism of expansion; opposition to particular projects is not coded as a blanket ban.",
+    "sources": [
+      {
+        "url": "https://www.wosu.org/politics-government/2026-10-05/do-something-democrat-don-leonard-hopes-to-flip-the-script-in-ohios-15th-congressional-district",
+        "title": "Don Leonard hopes to flip Ohio’s 15th Congressional District",
+        "type": "Interview",
+        "date": "2026-10-05",
+        "quote": "I am not against all data centers, but I am against dumb data centers.",
+        "attribution": "Don Leonard",
+        "summary": "Supports siting and resource safeguards and distinguishes unacceptable projects from an across-the-board ban."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Marty Jackley",
+    "district": "SD-AL",
+    "state": "South Dakota",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "marty-jackley",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Conditionally supports hyperscale projects that improve the grid, respect local control and property rights and do not raise residents’ electricity rates.",
+    "proposals": [
+      "Require net grid benefits and ratepayer protection",
+      "Respect local decisions and private property rights"
+    ],
+    "classificationNote": "Pro-development category is conditional on the safeguards he described; not unconditional support.",
+    "sources": [
+      {
+        "url": "https://www.aol.com/articles/gronli-jackley-weigh-beef-prices-230940000.html",
+        "title": "Gronli, Jackley weigh in on beef prices, data centers",
+        "type": "News",
+        "date": "2026-09-18",
+        "quote": "For me to support it, it needs to be a plus on the grid",
+        "attribution": "Marty Jackley",
+        "summary": "Conditionally supports hyperscale projects that improve the grid, respect local control and property rights and do not raise residents’ electricity rates."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Michael Alfonso",
+    "district": "WI-07",
+    "state": "Wisconsin",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "WSAW: Alfonso elected WI-7",
+      "url": "https://www.wsaw.com/2026/11/04/republican-michael-alfonso-wins-wisconsins-7th-congressional-district/",
+      "date": null
+    },
+    "returning": false,
+    "id": "michael-alfonso",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Says communities should decide on data centers and backs closed-loop water systems and protection against higher electricity bills.",
+    "proposals": [
+      "Closed-loop water systems",
+      "Protect consumers from electricity increases",
+      "Local approval of projects"
+    ],
+    "classificationNote": "Local-control preference and concern over a local proposal are not coded as a national ban.",
+    "sources": [
+      {
+        "url": "https://www.newsfromthestates.com/article/7th-cd-candidates-republican-michael-alfonso-and-democrat-fred-clark-debate",
+        "title": "7th CD candidates Michael Alfonso and Fred Clark debate",
+        "type": "News",
+        "date": "2026-10-08",
+        "quote": null,
+        "attribution": "Michael Alfonso",
+        "summary": "Says communities should decide on data centers and backs closed-loop water systems and protection against higher electricity bills."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Mitchell Berman",
+    "district": "WI-01",
+    "state": "Wisconsin",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Wisconsin election: Steil–Berman House result",
+      "url": "https://www.fox6now.com/news/wisconsin-election-house-steil-berman-result"
+    },
+    "returning": false,
+    "id": "mitchell-berman",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Supports cost, environmental and transparency safeguards for data centers. Explicitly rejected a moratorium in a campaign interview.",
+    "proposals": [
+      "Companies cover costs",
+      "Protect air, water and land",
+      "Water-use disclosure and local buy-in"
+    ],
+    "classificationNote": "Rejecting a moratorium does not establish support for deregulation; he advocates substantial safeguards.",
+    "sources": [
+      {
+        "url": "https://www.fox6now.com/news/wisconsin-election-house-steil-berman-result",
+        "title": "Wisconsin election: Steil–Berman House result",
+        "type": "News",
+        "date": "2026-11-04",
+        "quote": null,
+        "attribution": "Mitchell Berman",
+        "summary": "Supports cost, environmental and transparency safeguards for data centers. Explicitly rejected a moratorium in a campaign interview."
+      },
+      {
+        "title": "An exclusive interview with Mitchell Berman",
+        "url": "https://roundtable.beloit.edu/2026/10/28/theyre-mortgaging-your-future-an-exclusive-interview-with-mitchell-berman/",
+        "date": "2026-10-28",
+        "type": "Interview",
+        "quote": null,
+        "summary": "Rejects a moratorium as delaying the question rather than resolving it."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Rebecca Cooke",
+    "district": "WI-03",
+    "state": "Wisconsin",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "rebecca-cooke",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Documented campaign statement; dedicated official platform plank not verified",
+    "summary": "Campaigned in advertising for a data-center moratorium and explained a federal pause as a way to assess rates, environmental protections and transparency.",
+    "proposals": [
+      "Federal data-center moratorium",
+      "Assess energy rates and environmental protections",
+      "Transparency and community accountability"
+    ],
+    "classificationNote": "Anti category denotes a moratorium rather than a permanent ban.",
+    "sources": [
+      {
+        "url": "https://www.wispolitics.com/2026/cooke-pledges-to-fight-for-data-center-moratorium-in-3rd-cd-ad/",
+        "title": "Cooke pledges to fight for data-center moratorium in 3rd CD ad",
+        "type": "Campaign advertisement coverage",
+        "date": "2026-08-07",
+        "quote": "I’ll fight for a moratorium on data centers because our communities deserve leaders who don’t sell them out.",
+        "attribution": "Rebecca Cooke",
+        "summary": "Campaigned in advertising for a data-center moratorium and explained a federal pause as a way to assess rates, environmental protections and transparency."
+      },
+      {
+        "title": "CNN Inside Politics interview",
+        "url": "https://prod.transcripts.cnn.com/show/ip/date/2026-09-24/segment/02",
+        "date": "2026-09-24",
+        "type": "Interview transcript",
+        "quote": null,
+        "summary": "Explains federal moratorium and the need to examine rates, environmental protections and transparency."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  },
+  {
+    "name": "Kristina Knickerbocker",
+    "district": "OH-10",
+    "state": "Ohio",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Election result report",
+      "url": "https://abcnews.com/Elections/2026-us-house-election-results-live-map",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "id": "kristina-knickerbocker",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign platform",
+    "summary": "Affordability platform makes corporations pay for data-center infrastructure to protect Ohio families’ electricity bills.",
+    "proposals": [
+      "Require corporations to cover data-center infrastructure costs"
+    ],
+    "classificationNote": "Classification reflects the specific safeguards described, not a blanket position on all development.",
+    "sources": [
+      {
+        "url": "https://kristinaknickerbocker.com/my-priorities/",
+        "title": "My Priorities: Knickerbocker for Congress",
+        "type": "Campaign platform",
+        "date": null,
+        "quote": "lower energy bills by making big corporations—not Ohio families—pay for data center infrastructure.",
+        "attribution": "Kristina Knickerbocker",
+        "summary": "Affordability platform makes corporations pay for data-center infrastructure to protect Ohio families’ electricity bills."
+      }
+    ],
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Targeted searches reviewed campaign material and news/interview coverage for the candidate with data center, data centres, regulation and moratorium terms. Advertising coverage is selective, not a complete ad archive."
+  }
+]

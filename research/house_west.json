@@ -1,0 +1,816 @@
+[
+  {
+    "id": "mark-lamb",
+    "name": "Mark Lamb",
+    "state": "Arizona",
+    "district": "AZ-05",
+    "chamber": "House",
+    "party": "R",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Calls for enforceable water, infrastructure and community protections, with developers paying for their own growth.",
+    "proposals": [
+      "Developer-funded infrastructure without household cost shifting",
+      "Transparent water, energy and economic-benefit commitments",
+      "State and local authority over land and water"
+    ],
+    "sources": [
+      {
+        "title": "Arizona Shouldn’t Pay the Price for Big Tech’s Data Centers",
+        "url": "https://marklamb.us/post/arizona-shouldnt-pay-price-big-tech-data-centers",
+        "date": "2026-09-05",
+        "type": "Official campaign policy",
+        "summary": "Details safeguards and scrutiny of federal incentives.",
+        "quote": "We need transparent numbers, measurable benefits and enforceable commitments.",
+        "attribution": "Mark Lamb"
+      }
+    ],
+    "electionSource": {
+      "title": "Decision Desk HQ: Arizona District 5 called for Mark Lamb",
+      "url": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-5-general-election"
+    },
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign materials.",
+    "classificationNote": "Conditional acceptance does not establish unqualified support for construction.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "joanna-mendoza",
+    "name": "JoAnna Mendoza",
+    "state": "Arizona",
+    "district": "AZ-06",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Says expanding data centers should bring their own energy and protect Arizonans from increased costs.",
+    "proposals": [
+      "Require new industries such as data centers to supply their energy",
+      "Protect household utility costs"
+    ],
+    "sources": [
+      {
+        "title": "Frequently Asked Questions",
+        "url": "https://www.joannamendoza.com/faq/",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Water, climate and energy section explicitly addresses data centers.",
+        "quote": "bring their own energy and don’t drive up costs for Arizonans.",
+        "attribution": "JoAnna Mendoza"
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: JoAnna Mendoza 2026 election result",
+      "url": "https://ballotpedia.org/JoAnna_Mendoza"
+    },
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign materials.",
+    "classificationNote": "",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "mike-mcguire",
+    "name": "Mike McGuire",
+    "state": "California",
+    "district": "CA-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "His state Senate voting record supports data-center electricity cost safeguards.",
+    "proposals": [
+      "Supported AB 2383 data-center electricity safeguards"
+    ],
+    "sources": [
+      {
+        "title": "McGuire data-center legislative record",
+        "url": "https://www.purchasingpolicy.org/entity/f23eb815-b830-453f-9790-6faa21274b5f",
+        "date": null,
+        "type": "Legislative tracking",
+        "summary": "Records an August 31, 2026 yea vote on AB 2383, among other data-center bills.",
+        "quote": null
+      },
+      {
+        "title": "AB 2383: Electricity: data centers",
+        "url": "https://calmatters.digitaldemocracy.org/bills/ca_202520260ab2383",
+        "date": null,
+        "type": "Legislative reporting",
+        "summary": "Bill history and text establish data-center electricity protections; enacted September 21, 2026.",
+        "quote": null
+      }
+    ],
+    "electionSource": {
+      "title": "KQED: California election results, AP call",
+      "url": "https://www.kqed.org/elections/results/"
+    },
+    "priorityLabel": "State/local record",
+    "campaignPriority": "Evidence is from state or local office; a dedicated federal campaign plank was not verified.",
+    "classificationNote": "Based on a recorded state vote, not an inferred federal campaign promise. Legislative tracker links the official roll call; official legislature page was inaccessible in this review.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "richard-pan",
+    "name": "Richard Pan",
+    "state": "California",
+    "district": "CA-06",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Supports disclosure and local decisions before approvals.",
+    "proposals": [
+      "Limit secrecy agreements"
+    ],
+    "sources": [
+      {
+        "title": "CA-6 candidate interview",
+        "url": "https://www.kcra.com/article/rep-kevin-kiley-dr-richard-pan-california-congressional-district-6/74252503",
+        "date": null,
+        "type": "Candidate interview",
+        "summary": "Advocates transparency.",
+        "quote": null
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: Richard Pan 2026 election result",
+      "url": "https://ballotpedia.org/Richard_Pan"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Interview evidence; federal platform unverified.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "scott-wiener",
+    "name": "Scott Wiener",
+    "state": "California",
+    "district": "CA-11",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports faster approval of clean-powered data centers alongside federal ratepayer protections, water reuse and grid funding.",
+    "proposals": [
+      "Streamline clean-energy data-center approvals",
+      "Prevent electricity and water costs shifting to households",
+      "Charge new facilities for transmission infrastructure",
+      "Maximize recycled water and preserve land for housing"
+    ],
+    "sources": [
+      {
+        "title": "Tech Policy",
+        "url": "https://www.scottwiener.com/tech-policy",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Dedicated data-center policy supports conditional construction and federal safeguards.",
+        "quote": "Streamlined approvals for data centers powered by clean energy, such as through microgrids.",
+        "attribution": "Scott Wiener"
+      }
+    ],
+    "electionSource": {
+      "title": "San Francisco Chronicle: Wiener defeats Chan",
+      "url": "https://www.sfchronicle.com/election/article/connie-chan-scott-wiener-sf-house-results-22513122.php"
+    },
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign materials.",
+    "classificationNote": "Pro-development classification is conditional on clean energy. Streamlining is not coded as blanket opposition to regulation.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "randy-villegas",
+    "name": "Randy Villegas",
+    "state": "California",
+    "district": "CA-22",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Proposes at least a one-year pause on new Central Valley data centers while Congress develops safeguards.",
+    "proposals": [
+      "Minimum one-year Central Valley construction moratorium",
+      "Developers cover electricity, grid and infrastructure costs",
+      "Closed-loop cooling",
+      "Local union jobs and community control"
+    ],
+    "sources": [
+      {
+        "title": "Data Centers",
+        "url": "https://www.villegasforcongress.com/data-centers",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Sets out a regional pause and conditions for subsequent development.",
+        "quote": "a minimum of one year",
+        "attribution": "Randy Villegas"
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House election calls",
+      "url": "https://ballotpedia.org/Election_results%2C_2026%3A_U.S._House"
+    },
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign materials.",
+    "classificationNote": "Anti category denotes a temporary regional moratorium, not a permanent national ban.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "jacqui-irwin",
+    "name": "Jacqui Irwin",
+    "state": "California",
+    "district": "CA-26",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Supported state legislation for data-center reporting and electricity cost protections.",
+    "proposals": [
+      "Supported AB 1577 data-center reporting",
+      "Supported AB 2383 electricity safeguards"
+    ],
+    "sources": [
+      {
+        "title": "Assembly Utilities and Energy hearing",
+        "url": "https://calmatters.digitaldemocracy.org/hearings/278895",
+        "date": "2026-04-08",
+        "type": "Legislative hearing record",
+        "summary": "Records Irwin voting yes on AB 1577 and AB 2383 in committee.",
+        "quote": null
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: Jacqui Irwin 2026 election result",
+      "url": "https://ballotpedia.org/Jacqui_Irwin"
+    },
+    "priorityLabel": "State/local record",
+    "campaignPriority": "Evidence is from state or local office; a dedicated federal campaign plank was not verified.",
+    "classificationNote": "State legislative votes establish the classification; they are not presented as a federal campaign pledge.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "hilda-solis",
+    "name": "Hilda Solis",
+    "state": "California",
+    "district": "CA-38",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "As a county supervisor, sought restrictions on large-scale data centers and backed electricity, environmental and workforce protections.",
+    "proposals": [
+      "Pursue a ban on large-scale data centers in unincorporated Los Angeles County, with specified exceptions",
+      "Support separate electricity tariffs and cleaner backup power",
+      "Support workforce and environmental standards"
+    ],
+    "sources": [
+      {
+        "title": "Addressing Health and Environmental Impacts of Data Centers",
+        "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/215372.pdf",
+        "date": "2026-04-14",
+        "type": "Official county motion",
+        "summary": "Solis motion supports state safeguards for utilities, emissions and workforce.",
+        "quote": null
+      },
+      {
+        "title": "LA County supervisors to consider developing data center ban",
+        "url": "https://www.nbclosangeles.com/news/local/la-county-supervisors-to-consider-developing-data-center-ban/3951948/",
+        "date": "2026-10-06",
+        "type": "News",
+        "summary": "Reports Solis proposal for a zoning ban on large-scale facilities, with exceptions for certain beneficial-use facilities.",
+        "quote": null
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: California District 38 election result",
+      "url": "https://ballotpedia.org/California%27s_38th_Congressional_District_election%2C_2026"
+    },
+    "priorityLabel": "State/local record",
+    "campaignPriority": "Evidence is from state or local office; a dedicated federal campaign plank was not verified.",
+    "classificationNote": "County proposal applies to unincorporated areas and includes exceptions; no blanket federal ban inferred.",
+    "returning": true,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "angela-gonzales-torres",
+    "name": "Angela Gonzales-Torres",
+    "state": "California",
+    "district": "CA-34",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Calls for a national construction moratorium until enforceable federal standards protect workers, ratepayers and communities.",
+    "proposals": [
+      "National moratorium pending federal standards",
+      "Public water and energy reporting",
+      "Full utility costs, connection payments and performance bonds",
+      "Local veto power and enforceable workforce benefits",
+      "Restrict diesel backup generators"
+    ],
+    "sources": [
+      {
+        "title": "Stand Up to Big AI",
+        "url": "https://www.angela4congress.com/issues/stand-up-to-big-ai",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Dedicated plank includes a pause, transparency, cost recovery, local control and public-health conditions.",
+        "quote": "Support a moratorium on new data center construction until there are enforceable federal standards in place",
+        "attribution": "Angela Gonzales-Torres"
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: Angela Gonzales-Torres 2026 election result",
+      "url": "https://ballotpedia.org/Angela_Gonzales-Torres"
+    },
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign materials.",
+    "classificationNote": "Temporary national moratorium; campaign numerical claims about electricity bills are not independently adopted.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "marni-von-wilpert",
+    "name": "Marni von Wilpert",
+    "state": "California",
+    "district": "CA-48",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supported San Diego’s temporary construction pause and argued for public protections as data centers expand.",
+    "proposals": [
+      "Temporary city construction pause",
+      "Regulations protecting the public"
+    ],
+    "sources": [
+      {
+        "title": "City Council unanimously pauses data center construction",
+        "url": "https://timesofsandiego.com/politics/2026/10/27/city-council-unanimously-pauses-data-center-construction-despite-little-power-over-navwar-proposal/",
+        "date": "2026-10-27",
+        "type": "News",
+        "summary": "Reports her support for the city moratorium and limited city authority over the federal NAVWAR site.",
+        "quote": "We need regulations to protect the public, especially as big tech companies come to town",
+        "attribution": "Marni von Wilpert"
+      }
+    ],
+    "electionSource": {
+      "title": "Associated Press: von Wilpert wins California District 48",
+      "url": "https://apnews.com/article/90f2bfc813e540248b50826eac2b7791"
+    },
+    "priorityLabel": "State/local record",
+    "campaignPriority": "Evidence is from state or local office; a dedicated federal campaign plank was not verified.",
+    "classificationNote": "Anti category is a temporary municipal pause; it does not establish opposition to all federal facilities.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "melat-kiros",
+    "name": "Melat Kiros",
+    "state": "Colorado",
+    "district": "CO-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports a federal AI data-center moratorium pending labor and environmental protections.",
+    "proposals": [
+      "Federal AI data-center construction moratorium",
+      "Labor and environmental safeguards",
+      "Companies supply renewable power"
+    ],
+    "sources": [
+      {
+        "title": "Candidate platform: Democratizing AI",
+        "url": "https://www.kirosforco.com/issues-pdf.pdf",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Explicitly endorses a moratorium pending labor, environmental and privacy protections, plus clean energy and consumer electricity savings.",
+        "quote": "A moratorium on new AI data centers until federal regulations are in place to protect labor, the environment, and our privacy",
+        "attribution": "Melat Kiros"
+      },
+      {
+        "title": "Campaign fact sheets",
+        "url": "https://www.kirosforco.com/fact-sheets.pdf",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Campaign fact sheet endorses an AI data-center moratorium.",
+        "quote": null
+      },
+      {
+        "title": "Colorado primary issue guide: District 1",
+        "url": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
+        "date": "2026-05-29",
+        "type": "Candidate interview",
+        "summary": "Explains support for Denver pause and Sanders/Ocasio-Cortez federal moratorium, including environmental and labor conditions.",
+        "quote": null
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House election calls",
+      "url": "https://ballotpedia.org/Election_results%2C_2026%3A_U.S._House"
+    },
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign materials.",
+    "classificationNote": "Moratorium pertains to AI data centers and is conditional on safeguards.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "manny-rutinel",
+    "name": "Manny Rutinel",
+    "state": "Colorado",
+    "district": "CO-08",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Calls for safeguards protecting public lands, water, safety and household energy bills.",
+    "proposals": [
+      "Prevent ratepayer price increases from data centers",
+      "Protect water and public lands",
+      "Environmental and public-safety safeguards"
+    ],
+    "sources": [
+      {
+        "title": "Colorado primary issue guide: District 8",
+        "url": "https://coloradosun.com/2026/05/28/manny-rutinel-shannon-bird-colorado-primary-issue-guide/",
+        "date": "2026-05-28",
+        "type": "Candidate interview",
+        "summary": "Describes regulatory conditions for data-center development.",
+        "quote": "the development of data centers doesn’t increase prices for ratepayers",
+        "attribution": "Manny Rutinel"
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House election calls",
+      "url": "https://ballotpedia.org/Election_results%2C_2026%3A_U.S._House"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Safeguards do not by themselves establish support for or opposition to construction.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "sam-forstag",
+    "name": "Sam Forstag",
+    "state": "Montana",
+    "district": "MT-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Would require data centers to supply their power, protect the environment, secure community backing and use local union labor.",
+    "proposals": [
+      "Federal own-power requirement",
+      "No deterioration of land, air or water",
+      "Community support before construction",
+      "Local union labor"
+    ],
+    "sources": [
+      {
+        "title": "Forstag discusses Montana House campaign",
+        "url": "https://montanafreepress.org/2026/10/14/forstag-house-election-montana/",
+        "date": "2026-10-14",
+        "type": "Candidate interview",
+        "summary": "States conditions he would seek in federal legislation.",
+        "quote": "they’re going to provide all of their own power",
+        "attribution": "Sam Forstag"
+      }
+    ],
+    "electionSource": {
+      "title": "The Hill via Yahoo: Forstag wins according to Decision Desk HQ",
+      "url": "https://nz.news.yahoo.com/forstag-flips-montana-house-seat-070748588.html"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Strict conditional safeguards; no standalone blanket moratorium inferred.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "teresa-benitez-thompson",
+    "name": "Teresa Benitez-Thompson",
+    "state": "Nevada",
+    "district": "NV-02",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Opposes preferential resource access and subsidies, protects ratepayers, and supports Reno’s local moratorium.",
+    "proposals": [
+      "No data-center priority over household water and energy needs",
+      "No utility cost shifting or tax breaks",
+      "Protect local authority and support Reno pause"
+    ],
+    "sources": [
+      {
+        "title": "Frequently Asked Questions",
+        "url": "https://electteresa.com/faq/",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Water and affordability policies address data-center resources, tax breaks and household costs.",
+        "quote": null
+      },
+      {
+        "title": "Lawmaker, social worker, pageant queen: Is Congress next?",
+        "url": "https://thenevadaindependent.com/article/lawmaker-social-worker-pageant-queen-is-congress-next-for-teresa-benitez-thompson",
+        "date": null,
+        "type": "News",
+        "summary": "Reports support for Reno moratorium and ending earlier incentives.",
+        "quote": "It is time to end the incentive.",
+        "attribution": "Teresa Benitez-Thompson"
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: Teresa_Benitez-Thompson 2026 election result",
+      "url": "https://ballotpedia.org/Teresa_Benitez-Thompson"
+    },
+    "priorityLabel": "Official platform",
+    "campaignPriority": "Explicit data-center policy on official campaign materials.",
+    "classificationNote": "Anti classification reflects a local moratorium; she previously supported incentives and now says they are unnecessary.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "ben-mcadams",
+    "name": "Ben McAdams",
+    "state": "Utah",
+    "district": "UT-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center",
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports clean-powered, waterless development, opposes the Box Elder project and favors rules distinguishing projects by public benefit.",
+    "proposals": [
+      "Support projects meeting clean-energy, water and consumer-cost conditions",
+      "Oppose the proposed Box Elder project",
+      "Require transparency and public benefit"
+    ],
+    "sources": [
+      {
+        "title": "Ben McAdams has stock in rural Utah data-center company",
+        "url": "https://www.sltrib.com/news/politics/2026/05/22/ben-mcadams-has-stock-rural-utah/",
+        "date": "2026-05-22",
+        "type": "News",
+        "summary": "Reports support for Creekstone’s project, opposition to Box Elder, and his paid consulting and stock interest in Creekstone.",
+        "quote": null
+      },
+      {
+        "title": "Utah Democrats debate data centers",
+        "url": "https://www.sltrib.com/news/politics/2026/05/27/utah-democrats-1st-congressional/",
+        "date": "2026-05-27",
+        "type": "Debate coverage",
+        "summary": "Describes preference for regulation separating compliant developers from harmful ones, rather than a general moratorium.",
+        "quote": null
+      }
+    ],
+    "electionSource": {
+      "title": "Associated Press: Ben McAdams wins Utah District 1",
+      "url": "https://apnews.com/article/042ce08a944c44af942d89ca785811a4"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Pro and anti labels refer to different projects, not a blanket position. Disclosed consulting and ownership interest provides relevant context.",
+    "returning": true,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "amanda-mckinney",
+    "name": "Amanda McKinney",
+    "state": "Washington",
+    "district": "WA-04",
+    "chamber": "House",
+    "party": "R",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Says local communities should decide on data centers and receive benefits without being harmed.",
+    "proposals": [
+      "Local authority over siting",
+      "Community benefits and protection from harm"
+    ],
+    "sources": [
+      {
+        "title": "Congressional District 4 debate",
+        "url": "https://watch.nwpb.org/video/nwpb-and-lwv-presents-vote-congressional-district-4-gsfewx/",
+        "date": null,
+        "type": "Debate transcript",
+        "summary": "Discusses local decisions and conditions for data-center development.",
+        "quote": null
+      },
+      {
+        "title": "Where McKinney and Duresky stand",
+        "url": "https://www.aol.com/articles/fact-check-where-mckinney-duresky-163151000.html",
+        "date": null,
+        "type": "Syndicated candidate questionnaire",
+        "summary": "States a local-control-first approach.",
+        "quote": "Local control must come first",
+        "attribution": "Amanda McKinney"
+      }
+    ],
+    "electionSource": {
+      "title": "KHQ: District 4 called for Amanda McKinney",
+      "url": "https://www.khq.com/elections/house-district-4/video_f97b0233-a21a-5f95-814d-7c154002b9a6.html"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Local control and community safeguards support the regulatory category; no blanket construction position inferred.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "chuck-gray",
+    "name": "Chuck Gray",
+    "state": "Wyoming",
+    "district": "WY-AL",
+    "chamber": "House",
+    "party": "R",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Ran an ad promising to stop data centers and oppose subsidies and special treatment.",
+    "proposals": [
+      "Stop data-center development",
+      "No taxpayer subsidies or preferential treatment"
+    ],
+    "sources": [
+      {
+        "title": "Not Ever: campaign ad transcript",
+        "url": "https://platform.adimpact.com/viewer/47655e48-0e0c-47c7-807e-9a7ba8e734d1",
+        "date": null,
+        "type": "Campaign advertisement",
+        "summary": "Ad transcript explicitly promises to stop facilities and reject subsidies.",
+        "quote": "I'm Chuck Gray, and in Congress, I'll stop data centers.",
+        "attribution": "Chuck Gray"
+      },
+      {
+        "title": "Campaign media",
+        "url": "https://chuckforwyoming.com/media",
+        "date": null,
+        "type": "Official campaign media",
+        "summary": "Campaign media page lists a data-center ad.",
+        "quote": null
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House election calls",
+      "url": "https://ballotpedia.org/Election_results%2C_2026%3A_U.S._House"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Anti classification reflects an explicit campaign-ad promise. Regulatory classification denotes opposition to taxpayer subsidies, not a separately detailed permitting framework.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "amish-shah",
+    "name": "Amish Shah",
+    "state": "Arizona",
+    "district": "AZ-01",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Anti data center"
+    ],
+    "summary": "Opposes new data centers in his district, while acknowledging a national need for the facilities.",
+    "proposals": [
+      "No new data centers in Arizona District 1"
+    ],
+    "sources": [
+      {
+        "title": "Arizona District 1 candidates discuss data centers",
+        "url": "https://www.kjzz.org/politics/2026-10-08/arizona-1st-congressional-district-candidates-share-different-views-on-data-centers-in-debate",
+        "date": "2026-10-08",
+        "type": "Debate coverage",
+        "summary": "Reports Shah’s district-specific opposition.",
+        "quote": null
+      },
+      {
+        "title": "Shah and Feely clash over data centers",
+        "url": "https://www.abc15.com/news/region-northeast-valley/scottsdale/arizona-cd1-candidates-jay-feely-and-amish-shah-clash-over-data-centers-ahead-of-election",
+        "date": "2026-10-16",
+        "type": "Candidate interview",
+        "summary": "Explains opposition within CD-1 and discusses past votes for incentives.",
+        "quote": "they don't want them in CD-1",
+        "attribution": "Amish Shah"
+      }
+    ],
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House election calls",
+      "url": "https://ballotpedia.org/Election_results%2C_2026%3A_U.S._House"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Anti label is district-specific. Acknowledging national demand does not establish support for individual projects.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  },
+  {
+    "id": "jessica-killin",
+    "name": "Jessica Killin",
+    "state": "Colorado",
+    "district": "CO-05",
+    "chamber": "House",
+    "party": "D",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports military-serving facilities on military installations, local control, conservation and protection from household cost increases.",
+    "proposals": [
+      "Site military-supporting data centers on military installations",
+      "Protect household electricity costs",
+      "No subsidies for big technology companies",
+      "Local control and water and energy conservation"
+    ],
+    "sources": [
+      {
+        "title": "Interview with Jessica Killin",
+        "url": "https://www.cpr.org/2026/10/26/democrat-jessica-killin-5th-congressional-district/",
+        "date": "2026-10-26",
+        "type": "Candidate interview",
+        "summary": "Explains conditional support for military facilities and regulatory protections.",
+        "quote": "that data center should be located on a military installation, not in a nearby neighborhood.",
+        "attribution": "Jessica Killin"
+      }
+    ],
+    "electionSource": {
+      "title": "ABC News: 2026 House results, Colorado District 5 projected winner",
+      "url": "https://abcnews.com/Elections/2026-us-house-election-results-live-map"
+    },
+    "priorityLabel": "Campaign statements",
+    "campaignPriority": "Data-center position documented in campaign interview, debate or advertisement; dedicated platform plank not verified.",
+    "classificationNote": "Pro classification is limited to military-serving facilities in the specified locations; no blanket construction endorsement inferred.",
+    "returning": false,
+    "timingNote": "",
+    "checked": "2026-11-06",
+    "researchNote": "Targeted candidate-name and data-center searches reviewed campaign, news and public-record evidence on November 6, 2026. No comprehensive advertising archive was available; only separately sourced advertisements are treated as verified."
+  }
+]

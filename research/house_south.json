@@ -1,0 +1,1022 @@
+[
+  {
+    "name": "Jerry Carl",
+    "district": "AL-01",
+    "state": "Alabama",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": true,
+    "status": "Called winner; certification not asserted",
+    "id": "jerry-carl",
+    "categories": [],
+    "summary": "Discussed technological uncertainty and the risk of stranded energy infrastructure; the reviewed interview does not establish a specific development or regulatory proposal.",
+    "proposals": [],
+    "campaignPriority": "No specific campaign policy located in reviewed sources",
+    "priorityLabel": "No position located",
+    "classificationNote": "His technology forecast is an attributed opinion, not an established fact or a policy commitment.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Carl expects data centers to be made obsolete by developing technology",
+        "url": "https://1819news.com/news/item/from-a-big-building-down-to-a-microchip-carl-expects-data-centers-to-be-made-obsolete-by-developing-tech-in-next-decade",
+        "date": "2026-08-27",
+        "type": "News / candidate response",
+        "summary": "Discussed technological uncertainty and the risk of stranded energy infrastructure; the reviewed interview does not establish a specific development or regulatory proposal.",
+        "quote": null,
+        "attribution": "Jerry Carl"
+      }
+    ],
+    "researchNote": "Searched Jerry Carl with data centers, campaign and policy; reviewed August 27 interview and South Alabama News campaign coverage. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Oliver Gilbert",
+    "district": "FL-24",
+    "state": "Florida",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "CBS projects Gilbert wins FL-24",
+      "url": "https://www.cbsnews.com/miami/news/florida-district-24-election-results-2026-midterm/"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "oliver-gilbert",
+    "categories": [],
+    "summary": "No sufficiently specific data-center policy found in the campaign platform and targeted news search reviewed.",
+    "proposals": [],
+    "campaignPriority": "No specific campaign policy located in reviewed sources",
+    "priorityLabel": "No position located",
+    "classificationNote": "General economic policies and campaign donations are not evidence of a data-center position.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Oliver Gilbert for Congress",
+        "url": "https://olivergilbert.vote/",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "No sufficiently specific data-center policy found in the campaign platform and targeted news search reviewed.",
+        "quote": null,
+        "attribution": "Oliver Gilbert"
+      }
+    ],
+    "researchNote": "Reviewed official campaign homepage/platform and targeted Oliver Gilbert data center news searches. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Pia Dandiya",
+    "district": "FL-22",
+    "state": "Florida",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "AP: Pia Dandiya wins FL-22",
+      "url": "https://apnews.com/article/9a54fb7b76844f149ec439e15cb819a6"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "pia-dandiya",
+    "categories": [],
+    "summary": "Campaign coverage reports caution about Florida data-center development, but the reviewed material does not establish a specific restriction or development policy.",
+    "proposals": [],
+    "campaignPriority": "No specific campaign policy located in reviewed sources",
+    "priorityLabel": "No position located",
+    "classificationNote": "Opponent allegations, past employment and investments are not treated as policy evidence.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Pia Dandiya, Casey Askar duke it out in coast-to-coast CD 22",
+        "url": "https://floridapolitics.com/archives/827991-pia-dandiya-casey-askar-duke-it-out-in-coast-to-coast-cd-22/",
+        "date": "2026-11-01",
+        "type": "News / candidate response",
+        "summary": "Campaign coverage reports caution about Florida data-center development, but the reviewed material does not establish a specific restriction or development policy.",
+        "quote": null,
+        "attribution": "Pia Dandiya"
+      }
+    ],
+    "researchNote": "Searched Pia Dandiya data centers policy, official priorities and news; reviewed Florida Politics and WPBF coverage. Caution alone is not enough to assign a category. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Jim Schwartzel",
+    "district": "FL-19",
+    "state": "Florida",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "AP: Jim Schwartzel wins FL-19",
+      "url": "https://www.local10.com/news/politics/2026/11/03/republican-jim-schwartzel-wins-election-to-us-house-in-floridas-19th-congressional-district/"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "jim-schwartzel",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports data centers for national security and economic benefits, conditional on their supplying power and protecting local water.",
+    "proposals": [
+      "Require projects to bring their own power",
+      "Protect water through recycled-water systems",
+      "Assess whether Southwest Florida is an appropriate location"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Conditional support; does not establish approval of every Southwest Florida proposal.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "19th Congressional District candidates share views",
+        "url": "https://www.capecoralbreeze.com/news/local-news/2026/10/22/19th-congressional-district-candidates-share-views/",
+        "date": "2026-10-22",
+        "type": "News / candidate response",
+        "summary": "Supports data centers for national security and economic benefits, conditional on their supplying power and protecting local water.",
+        "quote": null,
+        "attribution": "Jim Schwartzel"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Austin Rogers",
+    "district": "FL-02",
+    "state": "Florida",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "austin-rogers",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Calls for local consent and attention to the lasting jobs and resource demands of data centers.",
+    "proposals": [
+      "Respect community decisions about whether to host projects",
+      "Examine long-term jobs and local resource impacts"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Interview transcript around 1:51:20. Local-consent position does not imply a national ban.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "The Brian Rust Show with Austin Rogers",
+        "url": "https://www.iheart.com/podcast/966-the-brian-rust-show-64072471/episode/the-brian-rust-show-7-9-26-w-338518317/",
+        "date": "2026-07-09",
+        "type": "News / candidate response",
+        "summary": "Calls for local consent and attention to the lasting jobs and resource demands of data centers.",
+        "quote": "If people don't want them there, then they shouldn't be there.",
+        "attribution": "Austin Rogers"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Sydney Gruters",
+    "district": "FL-16",
+    "state": "Florida",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "sydney-gruters",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Says technology companies should cover their costs and households should not pay more for electricity or face strained water supplies.",
+    "proposals": [
+      "Make developers pay their own infrastructure and utility costs",
+      "Protect local water and household utility bills"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Declined to take a specific position on the DeSoto proposal; no project-opposition category assigned.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Florida District 16 candidates discuss data centers",
+        "url": "https://tbt-tbt-prod.cdn.arcpublishing.com/news/florida-politics/elections/2026/09/26/florida-congress-district-16-gruters-kirschner-data-centers-st-pete/",
+        "date": "2026-09-26",
+        "type": "News / candidate response",
+        "summary": "Says technology companies should cover their costs and households should not pay more for electricity or face strained water supplies.",
+        "quote": "Big Tech should pay their own way",
+        "attribution": "Sydney Gruters"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Joe Strada",
+    "district": "FL-11",
+    "state": "Florida",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "joe-strada",
+    "categories": [],
+    "summary": "No sufficiently specific public data-center policy located in the campaign and news sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "No specific campaign policy located in reviewed sources",
+    "priorityLabel": "No position located",
+    "classificationNote": "General deregulatory language is not coded as opposition to data-center regulation.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Congressman-Elect Joe Strada",
+        "url": "https://votestrada.com/",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "No sufficiently specific public data-center policy located in the campaign and news sources reviewed.",
+        "quote": null,
+        "attribution": "Joe Strada"
+      },
+      {
+        "title": "2026 Voter’s Guide: US House District 11",
+        "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+        "date": "2026-10-16",
+        "type": "Voter guide",
+        "summary": "Reports that Strada did not respond to the questionnaire.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Reviewed official campaign site, ClickOrlando voter guide and targeted Joe Strada data center news searches. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Jasmine Clark",
+    "district": "GA-13",
+    "state": "Georgia",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Fox 5: AP calls Georgia House races",
+      "url": "https://www.fox5atlanta.com/news/map-u-s-house-races-georgia-election-results-ap"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "jasmine-clark",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Makes curbing data-center development an explicit campaign plank, emphasizing community safeguards and requiring technology companies to bear costs.",
+    "proposals": [
+      "Protect communities facing large facilities",
+      "Make technology companies cover costs",
+      "End corporate giveaways"
+    ],
+    "campaignPriority": "Explicit campaign platform or release",
+    "priorityLabel": "Official platform",
+    "classificationNote": "Support for safeguards is not coded as a blanket construction ban.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Agenda: Rein in Data Center Development",
+        "url": "https://www.jasmine4ga.com/agenda",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Makes curbing data-center development an explicit campaign plank, emphasizing community safeguards and requiring technology companies to bear costs.",
+        "quote": null,
+        "attribution": "Jasmine Clark"
+      },
+      {
+        "title": "Georgia shouldn't turn off the lights for Data Centers",
+        "url": "https://www.politicalemails.org/messages/2392434",
+        "date": "2026-09-02",
+        "type": "Archived campaign email",
+        "summary": "Campaign promises to rein in reckless development and protect schools and neighborhoods.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Houston Gaines",
+    "district": "GA-10",
+    "state": "Georgia",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Fox 5: AP calls Georgia House races",
+      "url": "https://www.fox5atlanta.com/news/map-u-s-house-races-georgia-election-results-ap"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "houston-gaines",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Supports local authority over siting and opposes tax breaks for data centers.",
+    "proposals": [
+      "Let local communities decide whether to host projects",
+      "Oppose data-center tax breaks"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Local consent and incentive policy, not a nationwide development ban.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Houston Gaines visits Monticello during congressional campaign",
+        "url": "https://www.themonticellonews.com/2026/11/02/houston-gaines-visits-monticello-during-congressional-campaign/",
+        "date": "2026-11-02",
+        "type": "News / candidate response",
+        "summary": "Supports local authority over siting and opposes tax breaks for data centers.",
+        "quote": "If a community doesn’t want one, they shouldn’t be forced to have one",
+        "attribution": "Houston Gaines"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Jim Kingston",
+    "district": "GA-01",
+    "state": "Georgia",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Fox 5: AP calls Georgia House races",
+      "url": "https://www.fox5atlanta.com/news/map-u-s-house-races-georgia-election-results-ap"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "jim-kingston",
+    "categories": [],
+    "summary": "No data-center-specific proposal located in the official issues page and targeted news search reviewed.",
+    "proposals": [],
+    "campaignPriority": "No specific campaign policy located in reviewed sources",
+    "priorityLabel": "No position located",
+    "classificationNote": "General support for domestic energy and faster permitting is not sufficient to classify a data-center policy.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Jim Kingston for Congress: Issues",
+        "url": "https://www.jimkingston.org/issues",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "No data-center-specific proposal located in the official issues page and targeted news search reviewed.",
+        "quote": null,
+        "attribution": "Jim Kingston"
+      }
+    ],
+    "researchNote": "Reviewed official issues page and targeted Jim Kingston congress data center searches; distinguished the candidate from unrelated people with the same name. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "John Cowan",
+    "district": "GA-11",
+    "state": "Georgia",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Fox 5: AP calls Georgia House races",
+      "url": "https://www.fox5atlanta.com/news/map-u-s-house-races-georgia-election-results-ap"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "john-cowan",
+    "categories": [],
+    "summary": "No sufficiently specific data-center position located in the official issues page and targeted news searches reviewed.",
+    "proposals": [],
+    "campaignPriority": "No specific campaign policy located in reviewed sources",
+    "priorityLabel": "No position located",
+    "classificationNote": "General economic and technology positions do not establish a data-center category.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Dr. John Cowan: Issues",
+        "url": "https://cowanforcongress.com/issues.html",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "No sufficiently specific data-center position located in the official issues page and targeted news searches reviewed.",
+        "quote": null,
+        "attribution": "John Cowan"
+      }
+    ],
+    "researchNote": "Reviewed campaign issues page and targeted John Cowan Congress data center searches; excluded the unrelated technology executive with the same name. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Zach Dembo",
+    "district": "KY-06",
+    "state": "Kentucky",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "zach-dembo",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Issued a dedicated campaign release proposing federal safeguards against cost shifting and environmental harm, with local transparency and public input.",
+    "proposals": [
+      "Prevent developers shifting utility costs to consumers",
+      "Require transparency and meaningful community input",
+      "Protect water and land",
+      "Support worker retraining for AI displacement"
+    ],
+    "campaignPriority": "Explicit campaign platform or release",
+    "priorityLabel": "Official platform",
+    "classificationNote": "Campaign allegations about his opponent are not independently adopted.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Zach Dembo speaks out against greedy data center developers",
+        "url": "https://zachdembo.com/zach-dembo-speaks-out-against-greedy-data-center-developers-calls-out-ralph-alvarado-for-profiting-off-them/",
+        "date": "2026-09-21",
+        "type": "Official campaign platform",
+        "summary": "Issued a dedicated campaign release proposing federal safeguards against cost shifting and environmental harm, with local transparency and public input.",
+        "quote": "it is unacceptable for any data center developer to pass added costs onto Kentucky consumers",
+        "attribution": "Zach Dembo"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Ed Gallrein",
+    "district": "KY-04",
+    "state": "Kentucky",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "WVXU: AP calls KY-04 for Gallrein",
+      "url": "https://www.wvxu.org/politics/2026-11-03/ed-gallrein-wins-congress-seat-kentucky-midterms"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "ed-gallrein",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Describes data centers as important to the economy and technology while assigning zoning and development decisions to local government.",
+    "proposals": [
+      "Retain local authority over zoning and development"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Regulation category is limited to retaining local zoning authority; no detailed federal regulatory package located.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Ed Gallrein wins Congress seat in Kentucky midterms",
+        "url": "https://www.wvxu.org/politics/2026-11-03/ed-gallrein-wins-congress-seat-kentucky-midterms",
+        "date": "2026-11-03",
+        "type": "News / candidate response",
+        "summary": "Describes data centers as important to the economy and technology while assigning zoning and development decisions to local government.",
+        "quote": "important to America's economic and technological future",
+        "attribution": "Ed Gallrein"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Adrian Boafo",
+    "district": "MD-05",
+    "state": "Maryland",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "adrian-boafo",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports measured federal data-center development with environmental rules, renewable energy, community input and protections against household cost shifting.",
+    "proposals": [
+      "Require meaningful community input",
+      "Protect families from infrastructure costs",
+      "Encourage renewable energy and environmental standards"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Primary candidate questionnaire; conditions distinguish support from unconditional expansion.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Adrian Boafo: Stance on Science candidate survey",
+        "url": "https://snapcoalition.org/initiatives/stance-on-science/candidates/md/adrian-boafo",
+        "date": "2026-05-25",
+        "type": "News / candidate response",
+        "summary": "Supports measured federal data-center development with environmental rules, renewable energy, community input and protections against household cost shifting.",
+        "quote": "I am a strong advocate for measured and strategic data center development at the federal level.",
+        "attribution": "Adrian Boafo"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Cyril Jefferson",
+    "district": "NC-06",
+    "state": "North Carolina",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "NPR: North Carolina House winners",
+      "url": "https://www.wwno.org/npr-news/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "cyril-jefferson",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Supports national standards, environmental review and ratepayer protections while leaving siting decisions with local communities.",
+    "proposals": [
+      "National data-center standards",
+      "Environmental reviews",
+      "Ratepayer safeguards",
+      "Local siting decisions"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Cyril Jefferson candidate questionnaire",
+        "url": "https://www.northcarolinahealthnews.org/govpack_profiles/cyril-jefferson/",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "Supports national standards, environmental review and ratepayer protections while leaving siting decisions with local communities.",
+        "quote": "I’d like to see national standards around it, appropriate environmental reviews, and safeguards to protect ratepayers.",
+        "attribution": "Cyril Jefferson"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Jamie Ager",
+    "district": "NC-11",
+    "state": "North Carolina",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "AP: Jamie Ager wins NC-11",
+      "url": "https://apnews.com/article/17f7e39c690e4af29e33f311d2e6dabd"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "jamie-ager",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports a short-term pause on new data centers in Western North Carolina until community protections exist, alongside local consent and water, air and utility safeguards.",
+    "proposals": [
+      "Short-term construction moratorium in Western North Carolina",
+      "Community authority over projects",
+      "Prevent higher electricity bills and environmental damage"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Anti category denotes a temporary regional pause, not a permanent nationwide ban. SACE compiles campaign posts and interviews.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Jamie Ager on Climate & Energy: Where the Candidates Stand",
+        "url": "https://cleanenergy.org/news/jamie-ager-on-climate-energy-where-the-candidates-stand/",
+        "date": "2026-09-04",
+        "type": "News / candidate response",
+        "summary": "Supports a short-term pause on new data centers in Western North Carolina until community protections exist, alongside local consent and water, air and utility safeguards.",
+        "quote": "Every community deserves that ability to set the terms if they want a data center at all.",
+        "attribution": "Jamie Ager"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Paul Barringer",
+    "district": "NC-13",
+    "state": "North Carolina",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "NPR: North Carolina House winners",
+      "url": "https://www.wwno.org/npr-news/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "paul-barringer",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports a pause on hyperscale data-center development while federal standards for water, air and community impacts are established.",
+    "proposals": [
+      "Pause hyperscale development pending protections",
+      "Federal water, air and community standards"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Temporary pause; duration unspecified. Not coded as a permanent ban.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "NC Deep Dive: Paul Barringer interview",
+        "url": "https://www.ncdeepdive.com/466738/episodes/19698955-episode-64-2026-us-house-district-13-paul-barringer-d?t=0",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "Supports a pause on hyperscale data-center development while federal standards for water, air and community impacts are established.",
+        "quote": "I think it's appropriate to have a pause",
+        "attribution": "Paul Barringer"
+      },
+      {
+        "title": "AI isn’t going away",
+        "url": "https://www.politicalemails.org/messages/2327943",
+        "date": "2026-07-15",
+        "type": "Archived campaign email",
+        "summary": "Campaign calls for national standards addressing water, air and quality of life.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "LaKesha Womack",
+    "district": "NC-14",
+    "state": "North Carolina",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "NPR: North Carolina House winners",
+      "url": "https://www.wwno.org/npr-news/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "lakesha-womack",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "In a self-reported candidate questionnaire, supports a temporary AI data-center pause and limits on water and energy use.",
+    "proposals": [
+      "Temporary pause on AI data-center development",
+      "Caps on water and energy consumption"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Self-reported questionnaire, submission date unavailable; temporary pause, not an outright ban. Reviewed response 72, linked by Ban the Bots on November 4.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "AI-Data Center Questionnaire for North Carolina Candidates: response 72",
+        "url": "https://docs.google.com/spreadsheets/d/1oZnezWODT58T1-fttC0iQYeFA93wNFlhqqzGnm8fuus/edit?gid=1048316472",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "In a self-reported candidate questionnaire, supports a temporary AI data-center pause and limits on water and energy use.",
+        "quote": "I support a temporary pause on the development of AI data centers.",
+        "attribution": "LaKesha Womack"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Richard Ojeda",
+    "district": "NC-09",
+    "state": "North Carolina",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Election result report",
+      "url": "https://abcnews.com/Elections/2026-us-house-election-results-live-map",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "richard-ojeda",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Argues that data-center companies should fund grid expansion and protect residents from energy and water burdens.",
+    "proposals": [
+      "Make companies pay for grid expansion",
+      "Protect residents’ water and electricity resources"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Paraphrase from published podcast transcript; no verbatim quote retained because automated speaker attribution is imperfect. No nationwide construction ban established.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "The Carolina Cabinet: Richard Ojeda interview",
+        "url": "https://www.thecarolinacabinet.com/richard-ojeda/",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "Argues that data-center companies should fund grid expansion and protect residents from energy and water burdens.",
+        "quote": null,
+        "attribution": "Richard Ojeda"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Wes Climer",
+    "district": "SC-05",
+    "state": "South Carolina",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "wes-climer",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Advanced South Carolina data-center legislation addressing permitting, resource use, cost allocation and community impacts.",
+    "proposals": [
+      "Data-center permitting and impact review",
+      "Water and energy reporting",
+      "Infrastructure cost allocation",
+      "Decommissioning and noise protections"
+    ],
+    "campaignPriority": "Documented state legislative activity; congressional campaign priority not established",
+    "priorityLabel": "State/local record",
+    "classificationNote": "State legislative committee record; not an enacted federal law or a verified congressional campaign pledge.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "South Carolina Data Center Development Act: favorable committee report",
+        "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/867_20260506.htm",
+        "date": "2026-05-06",
+        "type": "News / candidate response",
+        "summary": "Advanced South Carolina data-center legislation addressing permitting, resource use, cost allocation and community impacts.",
+        "quote": null,
+        "attribution": "Wes Climer"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Brent Taylor",
+    "district": "TN-09",
+    "state": "Tennessee",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "AP: Brent Taylor wins TN-09",
+      "url": "https://apnews.com/article/8d993f2668214a0b8849b33a0670448e"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "brent-taylor",
+    "categories": [
+      "Pro data center regulation",
+      "Anti data center regulation"
+    ],
+    "summary": "Sponsored Tennessee legislation combining infrastructure cost protections with permission for data centers to self-generate power or purchase it outside utilities.",
+    "proposals": [
+      "Require data centers to cover utility infrastructure costs, with a shared-benefit exception",
+      "Permit private power generation and independent power purchases"
+    ],
+    "campaignPriority": "Documented state legislative activity; congressional campaign priority not established",
+    "priorityLabel": "State/local record",
+    "classificationNote": "Both categories reflect different provisions of SB 2128: ratepayer safeguards and reduced utility oversight for private power. Opponent ad allegations are not adopted.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Democratic-leaning PAC goes after Republican congressional candidate over data centers",
+        "url": "https://tennesseelookout.com/2026/09/24/democratic-leaning-pac-goes-after-republican-congressional-candidate-over-data-centers/",
+        "date": "2026-09-24",
+        "type": "News / candidate response",
+        "summary": "Sponsored Tennessee legislation combining infrastructure cost protections with permission for data centers to self-generate power or purchase it outside utilities.",
+        "quote": null,
+        "attribution": "Brent Taylor"
+      },
+      {
+        "title": "Tennessee SB2128 legislative history",
+        "url": "https://legiscan.com/TN/bill/SB2128/2025",
+        "date": "2026-05-18",
+        "type": "Legislative record",
+        "summary": "Lists Taylor as sponsor and the measure as Public Chapter 961.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Johnny Garrett",
+    "district": "TN-06",
+    "state": "Tennessee",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "WPLN: Johnny Garrett wins TN-06",
+      "url": "https://wpln.org/post/tennessee-district-6-elects-state-rep-johnny-garrett-to-replace-john-rose/"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "johnny-garrett",
+    "categories": [],
+    "summary": "No sufficiently specific data-center policy located in reviewed sources; did not respond to the published regulation questionnaire.",
+    "proposals": [],
+    "campaignPriority": "No specific campaign policy located in reviewed sources",
+    "priorityLabel": "No position located",
+    "classificationNote": "General support for American AI leadership is not coded as data-center development support.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Cumberland County voter guide",
+        "url": "https://www.wuot.org/2026-10-13/cumberland-county-voter-guide-what-you-need-to-know-ahead-of-the-november-election",
+        "date": "2026-10-13",
+        "type": "News / candidate response",
+        "summary": "No sufficiently specific data-center policy located in reviewed sources; did not respond to the published regulation questionnaire.",
+        "quote": null,
+        "attribution": "Johnny Garrett"
+      }
+    ],
+    "researchNote": "Targeted Johnny Garrett data center policy searches; reviewed WUOT questionnaire and Chattanooga Times Free Press campaign coverage. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Charlie Hatcher",
+    "district": "TN-05",
+    "state": "Tennessee",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "WPLN: Charlie Hatcher wins TN-05",
+      "url": "https://wpln.org/post/tennessee-gop-newcomer-charlie-hatcher-to-take-andy-ogles-seat-in-congress/"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "charlie-hatcher",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports data centers when communities want them and have adequate power and water, while opposing household cost increases and criticizing development on productive farmland.",
+    "proposals": [
+      "Local decisions on projects",
+      "Developers cover needed infrastructure",
+      "Protect productive farmland and household utility bills"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Conditional development support and local safeguards. His objection to productive-farmland siting is narrower than general opposition; he rejected a blanket moratorium.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "Hatcher and Molder discuss data centers",
+        "url": "https://cms.stateaffairs.com/tag/chaz-molder/",
+        "date": null,
+        "type": "News / candidate response",
+        "summary": "Supports data centers when communities want them and have adequate power and water, while opposing household cost increases and criticizing development on productive farmland.",
+        "quote": "You’ve got to have data centers.",
+        "attribution": "Charlie Hatcher"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "name": "Elaine Luria",
+    "district": "VA-02",
+    "state": "Virginia",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "AP: Elaine Luria wins VA-02",
+      "url": "https://apnews.com/article/42217ceb37e54af1a99c7f1bab7971e5"
+    },
+    "returning": true,
+    "status": "Called winner; certification not asserted",
+    "id": "elaine-luria",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Requires local support, protection against electricity increases and closed-loop water systems; opposes data-center tax preferences funded through Medicaid cuts.",
+    "proposals": [
+      "Require local community support",
+      "Prevent higher electricity bills",
+      "Require closed-loop cooling",
+      "Oppose specified tax breaks funded by healthcare cuts"
+    ],
+    "campaignPriority": "Public campaign statements; dedicated official platform not verified",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Returning former representative. Acknowledges national-security needs; sources establish conditions rather than unconditional expansion or a blanket ban.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "sources": [
+      {
+        "title": "VA-02 candidate survey: Elaine Luria",
+        "url": "https://www.vpm.org/elections/2026-09-24/va02-baker-kiggans-luria-staten-candidate-survey/",
+        "date": "2026-09-24",
+        "type": "News / candidate response",
+        "summary": "Requires local support, protection against electricity increases and closed-loop water systems; opposes data-center tax preferences funded through Medicaid cuts.",
+        "quote": "any data center being built needs to have support from the local community with no exceptions",
+        "attribution": "Elaine Luria"
+      }
+    ],
+    "researchNote": "Targeted name + data center searches reviewed campaign, news and interview evidence. Checked November 6, 2026. Search is not exhaustive; no comprehensive advertising archive was available."
+  },
+  {
+    "id": "shannon-taylor",
+    "name": "Shannon Taylor",
+    "state": "Virginia",
+    "district": "VA-01",
+    "party": "D",
+    "chamber": "House",
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "electionSource": {
+      "title": "WVTF: AP officially declares Taylor winner",
+      "url": "https://www.wvtf.org/news/2026-11-05/ap-officially-declares-taylor-mcguire-winners-in-respective-u-s-house-races",
+      "date": "2026-11-05"
+    },
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Explicit campaign platform promises legislation preventing data-center construction from increasing household energy costs; interviews add water, noise, renewable-energy and local-consent safeguards.",
+    "proposals": [
+      "Developers cover operational and infrastructure costs, including transmission",
+      "Protect households from electricity and water cost increases",
+      "Require noise-mitigation buffers",
+      "Preserve communities’ right to reject projects",
+      "Encourage renewable power"
+    ],
+    "campaignPriority": "Explicit official campaign platform and data-center campaign advertising",
+    "priorityLabel": "Official platform",
+    "classificationNote": "Conditional standards, not a blanket construction ban. Opponent stock-trading allegations in her ad are not independently adopted.",
+    "checked": "2026-11-06",
+    "timingNote": "",
+    "researchNote": "Reviewed official priorities, VPM candidate questionnaire and interview, WTVR interview, and campaign ad reproduced by Blue Virginia. Checked November 6, 2026; no comprehensive advertising archive available.",
+    "sources": [
+      {
+        "title": "Shannon Taylor: Priorities",
+        "url": "https://shannontaylorva.com/priorities/",
+        "date": null,
+        "type": "Official campaign platform",
+        "summary": "Lower Utility Costs section calls for legislation preventing new data centers from raising household energy costs.",
+        "quote": null
+      },
+      {
+        "title": "1st District Q&A: Shannon Taylor, Rob Wittman",
+        "url": "https://www.vpm.org/elections/2026-09-23/va01-taylor-wittman-candidate-survey/",
+        "date": "2026-09-23",
+        "type": "Candidate questionnaire",
+        "summary": "Details full cost recovery, noise buffers and local consent.",
+        "quote": "If a community does not want a data center, it must have the right to say no.",
+        "attribution": "Shannon Taylor"
+      },
+      {
+        "title": "Campaign ad: Cashing In",
+        "url": "https://bluevirginia.us/2026/10/new-ad-shannon-taylor-calls-out-rob-wittman-for-cashing-in-on-data-center-stocks-while-virginians-utility-bills-skyrocket/",
+        "date": "2026-10",
+        "type": "Campaign advertisement reproduced by partisan outlet",
+        "summary": "Verifies a data-center-themed ad and accompanying release; allegations about Wittman remain campaign claims.",
+        "quote": null
+      }
+    ]
+  }
+]

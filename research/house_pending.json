@@ -1,0 +1,48 @@
+{
+  "asOf": "2026-11-06",
+  "pending": [
+    {
+      "district": "LA-6",
+      "state": "Louisiana",
+      "candidates": [
+        "Chauna Banks",
+        "Blake Miguez"
+      ],
+      "status": "Runoff December 12, 2026; no winner yet",
+      "electionSource": {
+        "title": "WBRZ: Blake Miguez heads to District 6 runoff",
+        "url": "https://www.wbrz.com/news/sgb-miguez/",
+        "date": "2026-11-04"
+      }
+    },
+    {
+      "district": "TN-4",
+      "name": "Victoria Broderick",
+      "reason": "Conflicting winner headlines; updated WPLN body explicitly says AP has not called race. Excluded pending clear call.",
+      "source": "https://wpln.org/post/democrat-victoria-broderick-wins-tennessees-district-4-in-upset/"
+    },
+    {
+      "district": "SC-1",
+      "name": "Nancy Lacore",
+      "reason": "Leads and declared victory; Ballotpedia outcome not called at review.",
+      "source": "https://ballotpedia.org/South_Carolina%27s_1st_Congressional_District"
+    },
+    {
+      "district": "ME-2",
+      "name": "Paul LePage",
+      "reason": "Dunlap conceded; ranked-choice tabulation scheduled November 9; AP had not called as of November 5 report.",
+      "source": "https://www.pressherald.com/2026/11/05/paul-lepage-and-matt-dunlap-are-race-headed-to-a-ranked-choice-runoff-what-happens-now-2/"
+    }
+  ],
+  "excludedDelegates": [
+    {
+      "name": "Robert White",
+      "district": "DC-AL",
+      "party": "D"
+    }
+  ],
+  "notes": [
+    "ARTBA roster is a secondary compilation. Individual election call verification is ongoing.",
+    "Snapshot of 102 verified reported winners, not a guarantee every newcomer has been identified. Updated source/call audit excludes ambiguous TN4 and SC1; election certification is not asserted."
+  ]
+}

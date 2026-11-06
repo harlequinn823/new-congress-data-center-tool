@@ -1,0 +1,245 @@
+{
+  "checked": "2026-11-06",
+  "electionSource": {
+    "url": "https://www.ap.org/the-definitive-source/behind-the-news/calling-control-of-congress-in-the-2026-midterm-elections/",
+    "date": "2026-11-05",
+    "summary": "AP chronology calls all five winners; media calls, not certification."
+  },
+  "profiles": [
+    {
+      "id": "abdul-el-sayed",
+      "name": "Abdul El-Sayed",
+      "party": "Democratic",
+      "state": "Michigan",
+      "categories": [
+        "Anti data center",
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Anti category denotes a temporary state/local pause pending federal safeguards, not a permanent ban. Earlier conditional framework allows compliant projects.",
+      "officialPriority": "Yes — dedicated Terms of Engagement policy and campaign priorities section.",
+      "summary": "Proposes enforceable federal standards, with state and local moratoria until safeguards exist.",
+      "proposals": [
+        "Developers cover energy costs without ratepayer increases",
+        "Community approval and binding benefits agreements",
+        "Reliability investments funded by data center revenues",
+        "Job guarantees, qualified local contractors and apprenticeship programs",
+        "Closed-loop cooling and no clean-energy loopholes"
+      ],
+      "sources": [
+        {
+          "title": "Terms of Engagement for Data Centers",
+          "url": "https://abdulforsenate.com/2026/01/datacenters/",
+          "date": "2026-01-08",
+          "type": "Campaign policy",
+          "quote": "Data centers must pay for their own energy demand — costs cannot be passed onto ratepayers.",
+          "summary": "Policy specifies protections for energy bills, water, jobs, transparency and enforceability."
+        },
+        {
+          "title": "El-Sayed joins press conference at The Barn",
+          "url": "https://abdulforsenate.com/2026/07/icymi-dr-abdul-el-sayed-joins-press-conference-at-the-barn-data-center-in-saline/",
+          "date": "2026-07-31",
+          "type": "Campaign speech",
+          "quote": "we cannot approve any more of these until we have federal level guardrails.",
+          "summary": "Endorses state and local moratoria pending federal protections."
+        },
+        {
+          "title": "Money in Your Pocket",
+          "url": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": null,
+          "summary": "Explicitly pledges to make his data center terms federal law."
+        }
+      ],
+      "adStatus": "Campaign speech and policy release verified; no separately verified data-center ad retained."
+    },
+    {
+      "id": "james-talarico",
+      "name": "James Talarico",
+      "party": "Democratic",
+      "state": "Texas",
+      "categories": [
+        "Pro data center",
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Conditional support for development: explicitly rejects a moratorium and supports investment with safeguards.",
+      "officialPriority": "Yes — explicit technology and energy platform commitments.",
+      "summary": "Welcomes investment subject to federal standards, local approval, water protections and developer-funded infrastructure.",
+      "proposals": [
+        "End data center tax preferences",
+        "Require developers to fund infrastructure and interconnection",
+        "Require closed-loop water systems",
+        "Federal minimum standards for environment, grid, jobs and transparency",
+        "Give local communities authority to accept or reject projects"
+      ],
+      "sources": [
+        {
+          "title": "Social Media, Artificial Intelligence & Tech",
+          "url": "https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": "empower local communities to decide whether they want a data center in their town.",
+          "summary": "Sets out an explicit Senate data center regulatory agenda."
+        },
+        {
+          "title": "Talarico calls for tighter regulations",
+          "url": "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/",
+          "date": "2026-07-22",
+          "type": "News / policy rollout",
+          "quote": "strikes a balance between welcoming those investments while also protecting working people.",
+          "summary": "Announced six-part plan and declined a moratorium."
+        },
+        {
+          "title": "Talarico rejects data center moratorium",
+          "url": "https://www.sacurrent.com/news/politics-and-elections/u-s-senate-candidate-james-talarico-rejects-data-center-moratorium-calls-for-stronger-regulations/",
+          "date": "2026-07-31",
+          "type": "News",
+          "quote": null,
+          "summary": "Explicitly opposes a complete construction pause and seeks union jobs and regulation."
+        }
+      ],
+      "adStatus": "Policy rollout and campaign website verified; no separately verified ad retained."
+    },
+    {
+      "id": "sherrod-brown",
+      "name": "Sherrod Brown",
+      "party": "Democratic",
+      "state": "Ohio",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Campaign attacks subsidies and uncontrolled costs; sources do not establish a blanket ban. Historical support is separately documented.",
+      "officialPriority": "Yes — Making Data Centers Pay platform section and campaign ads.",
+      "summary": "Demands data centers cover their own utility costs and communities decide whether projects are built.",
+      "proposals": [
+        "Full utility cost recovery from data centers",
+        "Local control over project approval",
+        "Opposition to corporate tax subsidies"
+      ],
+      "sources": [
+        {
+          "title": "Our Fight",
+          "url": "https://www.sherrodbrown.com/our-fight/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": "We’re fighting to require data centers to pay the full cost of their utilities so your bills don’t go up.",
+          "summary": "Includes a dedicated data center plank and local decision-making commitment."
+        },
+        {
+          "title": "New ad: The Face of Data Centers",
+          "url": "https://www.sherrodbrown.com/2026/07/06/new-ad-jon-husted-the-face-of-data-centers-brought-226-data-centers-to-ohio-that-raised-ohioans-energy-costs/",
+          "date": "2026-07-06",
+          "type": "Campaign advertisement",
+          "quote": "He’s been called the face of data centers in Ohio.",
+          "summary": "Ad attacks Husted's recruitment and incentives; allegations remain campaign claims, not independently established causal findings."
+        },
+        {
+          "title": "Ohio candidates recalibrate their stances",
+          "url": "https://www.statenews.org/government-politics/2026-08-17/ohios-u-s-senate-candidates-recalibrate-their-stances-on-data-centers",
+          "date": "2026-08-17",
+          "type": "News",
+          "quote": null,
+          "summary": "Reports Brown celebrated AWS investments roughly a decade earlier; distinguish past record from 2026 platform."
+        },
+        {
+          "title": "Ohio special election law could send Brown back early",
+          "url": "https://www.cleveland.com/open/2026/11/ohio-special-election-law-could-send-sherrod-brown-back-to-senate-early.html",
+          "date": "2026-11-06",
+          "type": "News",
+          "quote": null,
+          "summary": "Brown could return in December; no swearing-in date announced. Husted's appointment ends December 15 under state law, according to report."
+        }
+      ],
+      "adStatus": "Yes — July 6 campaign release includes ad transcript.",
+      "memberType": "Returning senator; special election",
+      "termNote": "Do not assume January swearing-in. December return possible; date unannounced as of Nov 6."
+    },
+    {
+      "id": "peggy-flanagan",
+      "name": "Peggy Flanagan",
+      "party": "Democratic",
+      "state": "Minnesota",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Supports safeguards. No blanket moratorium established in verified interview.",
+      "officialPriority": "Campaign issue documented in interviews and debates; dedicated data-center plank not located on reviewed priorities page.",
+      "summary": "Calls for regulations protecting communities, water and the environment while preventing costs being shifted to residents.",
+      "proposals": [
+        "Prevent shifting energy and environmental costs to communities",
+        "Community and environmental protections"
+      ],
+      "sources": [
+        {
+          "title": "Conversation about priorities with Peggy Flanagan",
+          "url": "https://www.womenspress.com/a-conversation-about-priorities-with-u-s-senate-candidate-peggy-flanagan/",
+          "date": "2026-10-12",
+          "type": "Candidate interview",
+          "quote": "those should always be grounded in protecting the local community, protecting the environment",
+          "summary": "Explained data center regulatory goals in an interview on congressional priorities."
+        },
+        {
+          "title": "Priorities",
+          "url": "https://peggyflanagan.com/priorities/",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": null,
+          "summary": "Reviewed campaign priorities page; no dedicated data center section located."
+        },
+        {
+          "title": "Where candidates stand on data centers",
+          "url": "https://www.startribune.com/flanagan-tafoya-senate-ai-data-centers/601885216",
+          "date": null,
+          "type": "News",
+          "quote": null,
+          "summary": "Flanagan did not endorse a blanket moratorium; advocated local authority and safeguards."
+        }
+      ],
+      "adStatus": "No data-center-specific ad verified."
+    },
+    {
+      "id": "troy-jackson",
+      "name": "Troy Jackson",
+      "party": "Democratic",
+      "state": "Maine",
+      "categories": [
+        "Pro data center regulation"
+      ],
+      "classificationNote": "Conditional standards and caution established; no permanent ban established. Avoid attributing Elizabeth Warren's rally remarks to Jackson.",
+      "officialPriority": "Campaign position verified through spokesperson and debate coverage; no dedicated plank on reviewed priorities page.",
+      "summary": "Seeks protections for ratepayers and water, union jobs and community participation.",
+      "proposals": [
+        "Developers pay their own power costs",
+        "Good-paying union jobs",
+        "Protect natural resources and work with communities"
+      ],
+      "sources": [
+        {
+          "title": "AI data center war: key Senate candidates' positions",
+          "url": "https://sports.yahoo.com/articles/ai-data-center-war-where-090000170.html",
+          "date": "2026-08-22",
+          "type": "News / campaign statement",
+          "quote": "create good-paying union jobs, pay their fair share, protect Maine's natural resources, and work with local communities",
+          "summary": "Newsweek reporting carried by Yahoo quotes Jackson campaign spokesperson giving conditional development standards."
+        },
+        {
+          "title": "Data center anxiety in Senate debates",
+          "url": "https://rollcall.com/2026/10/19/data-center-anxiety-plays-out-in-senate-campaign-debates/",
+          "date": "2026-10-19",
+          "type": "News / debate",
+          "quote": "real guardrails",
+          "summary": "Reports Jackson supported safeguards against higher household electric costs and water-quality harm."
+        },
+        {
+          "title": "Troy's priorities in the Senate",
+          "url": "https://www.jacksonformaine.com/priorities",
+          "date": null,
+          "type": "Campaign platform",
+          "quote": null,
+          "summary": "Reviewed formal policy priorities; no dedicated data center plank located."
+        }
+      ],
+      "adStatus": "Debate position verified; no data-center-specific ad verified."
+    }
+  ]
+}

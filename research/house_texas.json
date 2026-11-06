@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Mark Tedford",
+    "district": "OK-1",
+    "state": "Oklahoma",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Ballotpedia: 2026 U.S. House race calls",
+      "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+      "date": "2026-11-05"
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "mark-tedford",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Coauthored Oklahoma’s 2026 data-center ratepayer protection law. A distinct federal campaign proposal was not verified.",
+    "proposals": [
+      "State-law record: protect existing customers from unjust large-load electricity costs",
+      "Separate large-load tariffs and credit protections for costs attributable to those customers"
+    ],
+    "campaignPriority": "State legislative record; campaign priority not established",
+    "priorityLabel": "State legislative record",
+    "classificationNote": "Regulation tag rests on coauthorship, not a verified congressional campaign pledge.",
+    "sources": [
+      {
+        "title": "Oklahoma Legislature: HB2992 history and coauthors",
+        "url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb2992&Session=2600",
+        "date": "2026-05-11",
+        "type": "State legislation",
+        "summary": "Lists Tedford as coauthor, added March 24; approved May 11.",
+        "quote": null
+      },
+      {
+        "title": "HB2992 enrolled text",
+        "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2992%20ENR.PDF",
+        "date": "2026-05-05",
+        "type": "State legislation",
+        "summary": "Creates separate tariffs and cost-causation protections for qualifying new loads of at least 75 MW.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Frederick Haynes",
+    "district": "TX-30",
+    "state": "Texas",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "frederick-haynes",
+    "categories": [],
+    "summary": "No attributable data-center-specific position located in the sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "Not established in reviewed sources",
+    "priorityLabel": "Not established",
+    "classificationNote": "No tag does not mean neutral or opposed. General energy or AI positions are not treated as data-center positions.",
+    "sources": [
+      {
+        "title": "Haynes for Congress: campaign issues",
+        "url": "https://www.haynesforcongress.com/issues",
+        "date": null,
+        "type": "Official campaign",
+        "summary": "Reviewed issues and environmental-justice material; no specific data-center proposal located.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Colin Allred",
+    "district": "TX-33",
+    "state": "Texas",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": true,
+    "status": "Called winner; certification not asserted",
+    "id": "colin-allred",
+    "categories": [],
+    "summary": "Voted in 2022 to extend FAST-41 federal permitting coordination to certain computer-related projects. No 2026 data-center campaign pledge verified.",
+    "proposals": [
+      "Historical vote: include qualifying computer-related projects in FAST-41 permitting coordination"
+    ],
+    "campaignPriority": "Historical congressional vote; 2026 campaign priority not established",
+    "priorityLabel": "Congressional record",
+    "classificationNote": "The 2022 permitting-coordination vote is historical context, not sufficient evidence of a 2026 position against data-center safeguards. FAST-41 does not itself alter substantive environmental requirements. No current category is assigned.",
+    "sources": [
+      {
+        "title": "House Clerk: roll call 417 on S.3451",
+        "url": "https://clerk.house.gov/Votes/2022417",
+        "date": "2022-07-29",
+        "type": "Congressional vote",
+        "summary": "Records Allred voting Yea on inclusion of computer-related projects in the FAST Act permitting program.",
+        "quote": null
+      },
+      {
+        "title": "LCV: environmental review for data centers",
+        "url": "https://www.lcv.org/roll-call-vote/undermining-environmental-review-for-data-centers/",
+        "date": "2022-07-29",
+        "type": "Advocacy analysis",
+        "summary": "Identifies the data-center implications of S.3451. LCV opposes this legislation; its framing is an advocacy assessment.",
+        "quote": null
+      },
+      {
+        "title": "Federal Permitting Council testimony on FAST-41",
+        "url": "https://www.epw.senate.gov/public/_cache/files/3/9/3980ff5b-23b0-482c-b7c1-60db1856cbcd/A25AC6764BC712B9DBD9179EAD624244EB3402C4A1ADC67E1A5EDAF7C7572A41.05-17-2023-harada-testimony.pdf",
+        "date": "2023-05-17",
+        "type": "Official congressional testimony",
+        "summary": "Explains that FAST-41 does not alter substantive statutory or regulatory requirements, environmental law or public involvement procedures."
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06",
+    "timingNote": "Returning former representative; 2022 evidence is historical, not a 2026 campaign statement."
+  },
+  {
+    "name": "Leticia Gutierrez",
+    "district": "TX-9",
+    "state": "Texas",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "leticia-gutierrez",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Supports water and energy limits, infrastructure contributions and scrutiny of data-center tax incentives.",
+    "proposals": [
+      "Stronger limits on water and electricity use",
+      "Require facilities to help fund supporting infrastructure",
+      "Evaluate tax incentives for meaningful community benefits"
+    ],
+    "campaignPriority": "Explicit candidate questionnaire response",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Regulation tag based on direct survey answer; acknowledgment of economic benefits alone is not classified as pro-development.",
+    "sources": [
+      {
+        "title": "SNAP: Leticia Gutierrez candidate response",
+        "url": "https://snapcoalition.org/initiatives/stance-on-science/candidates/tx/leticia-gutierrez",
+        "date": "2026-08-23",
+        "type": "Candidate questionnaire",
+        "summary": "Direct response on data-center growth and community resources.",
+        "quote": "I would support stronger limits on water and energy use"
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Jace Yarbrough",
+    "district": "TX-32",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Associated Press: Yarbrough wins TX-32",
+      "url": "https://www.nbcrightnow.com/politics/republican-jace-yarbrough-wins-election-to-u-s-house-in-texas-32nd-congressional-district/article_021b376a-b1e4-5528-a2ce-9981608f45e3.html",
+      "date": "2026-11-04"
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "jace-yarbrough",
+    "categories": [],
+    "summary": "No attributable data-center-specific position located in the sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "Not established in reviewed sources",
+    "priorityLabel": "Not established",
+    "classificationNote": "No tag does not mean neutral or opposed. General energy or AI positions are not treated as data-center positions.",
+    "sources": [
+      {
+        "title": "Jace Yarbrough: priorities",
+        "url": "https://www.jaceforcongress.com/priorities",
+        "date": null,
+        "type": "Official campaign",
+        "summary": "Supports AI investment and domestic infrastructure generally; no data-center-specific proposal located.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Mark Teixeira",
+    "district": "TX-21",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "mark-teixeira",
+    "categories": [],
+    "summary": "No attributable data-center-specific position located in the sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "Not established in reviewed sources",
+    "priorityLabel": "Not established",
+    "classificationNote": "No tag does not mean neutral or opposed. General energy or AI positions are not treated as data-center positions.",
+    "sources": [
+      {
+        "title": "KEDT: candidates for Texas 21st District",
+        "url": "https://www.kedt.org/statewide-election-news-coverage/2026-10-21/meet-the-candidates-vying-to-replace-chip-roy-in-texas-21st-congressional-district",
+        "date": "2026-10-21",
+        "type": "News",
+        "summary": "Teixeira did not respond to this outlet’s interview requests. Opponent Kristin Hook’s answers are not attributed to him.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched campaign and local reporting. A third-party compilation appeared to misattribute opponent Kristin Hook’s data-center remarks; excluded. No attributable specific stance verified.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Jessica Steinmann",
+    "district": "TX-8",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "jessica-steinmann",
+    "categories": [],
+    "summary": "No attributable data-center-specific position located in the sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "Not established in reviewed sources",
+    "priorityLabel": "Not established",
+    "classificationNote": "No tag does not mean neutral or opposed. General energy or AI positions are not treated as data-center positions.",
+    "sources": [
+      {
+        "title": "Jessica Steinmann: issues",
+        "url": "https://www.jessicasteinmann.com/issues",
+        "date": null,
+        "type": "Official campaign",
+        "summary": "Calls for fewer AI regulations and more energy production. Does not specify data-center siting, resource rules or development policy.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Jon Bonck",
+    "district": "TX-38",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "jon-bonck",
+    "categories": [],
+    "summary": "No attributable data-center-specific position located in the sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "Not established in reviewed sources",
+    "priorityLabel": "Not established",
+    "classificationNote": "No tag does not mean neutral or opposed. General energy or AI positions are not treated as data-center positions.",
+    "sources": [
+      {
+        "title": "Jon Bonck: official campaign website",
+        "url": "https://www.jonbonck.com/",
+        "date": null,
+        "type": "Official campaign",
+        "summary": "Reviewed platform; no data-center-specific proposal located.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Tom Sell",
+    "district": "TX-19",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "tom-sell",
+    "categories": [
+      "Pro data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Welcomes West Texas data-center investment while requiring local support, resource transparency and protection for utility customers.",
+    "proposals": [
+      "Local participation and support before projects are built",
+      "Clear disclosure of electricity and water use",
+      "Water-efficient operations and enough new electricity to avoid burdening ratepayers",
+      "Keep water, power and property-rights oversight primarily at state and local levels"
+    ],
+    "campaignPriority": "Repeated campaign interviews and candidate questionnaire",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Conditional development support alongside local safeguards. Preference for local oversight is not coded as blanket opposition to regulation.",
+    "sources": [
+      {
+        "title": "Lubbock Report: Tom Sell candidate questionnaire",
+        "url": "https://lubbockreport.com/2026/10/19/tom-sell-republican-candidate-for-district-19-congressional-seat/",
+        "date": "2026-10-19",
+        "type": "Candidate questionnaire",
+        "summary": "Supports regional AI investment with local backing and resource transparency.",
+        "quote": "must only be built if they’ve garnered local support"
+      },
+      {
+        "title": "KTAB/KRBC interview, syndicated by AOL",
+        "url": "https://www.aol.com/articles/district-19-candidate-tom-sell-232724000.html",
+        "date": "2026-09-27",
+        "type": "Interview",
+        "summary": "Discusses water efficiency, ratepayer protections, community benefits and a primarily state/local regulatory role.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Trever Nehls",
+    "district": "TX-22",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "trever-nehls",
+    "categories": [],
+    "summary": "No attributable data-center-specific position located in the sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "Not established in reviewed sources",
+    "priorityLabel": "Not established",
+    "classificationNote": "No tag does not mean neutral or opposed. General energy or AI positions are not treated as data-center positions.",
+    "sources": [
+      {
+        "title": "League of Women Voters Houston: 2026 voter guide",
+        "url": "https://digital.houstonvotersguide.org/2026-midterms/9/",
+        "date": "2026-10",
+        "type": "Candidate questionnaire",
+        "summary": "Guide records no response from Nehls. Opponent’s data-center statements are not attributed to him.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Chris Gober",
+    "district": "TX-10",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "chris-gober",
+    "categories": [
+      "Pro data center"
+    ],
+    "summary": "Supports data centers for competition with China, with infrastructure benefiting rural communities.",
+    "proposals": [],
+    "campaignPriority": "Campaign language reported in news",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Development support documented; no specific regulatory proposal verified.",
+    "sources": [
+      {
+        "title": "Axios: Gober campaign profile",
+        "url": "https://www.axios.com/local/austin/2026/08/20/elon-musk-pac-lawyer-eyes-texas-congressional-seat",
+        "date": "2026-08-20",
+        "type": "News",
+        "summary": "",
+        "quote": null
+      }
+    ],
+    "researchNote": "Campaign language may change. AI-industry donations are not used to infer a position.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Steve Toth",
+    "district": "TX-2",
+    "state": "Texas",
+    "party": "R",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "steve-toth",
+    "categories": [],
+    "summary": "No attributable data-center-specific position located in the sources reviewed.",
+    "proposals": [],
+    "campaignPriority": "Not established in reviewed sources",
+    "priorityLabel": "Not established",
+    "classificationNote": "No tag does not mean neutral or opposed. General energy or AI positions are not treated as data-center positions.",
+    "sources": [
+      {
+        "title": "Steve Toth: issues",
+        "url": "https://stevetothforcongress.com/issues/",
+        "date": null,
+        "type": "Official campaign",
+        "summary": "Reviewed campaign platform; no specific data-center proposal located.",
+        "quote": null
+      },
+      {
+        "title": "John Solomon Reports: September 26 interview listing",
+        "url": "https://podcasts.apple.com/nz/podcast/election-integrity-insights-congresswoman-claudia-tenney/id1495251160?i=1000791735408",
+        "date": "2026-09-26",
+        "type": "Podcast listing",
+        "summary": "Episode description says Toth discussed data centers, but his exact remarks were not verified. No category assigned from the description.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Official platform and news searches reviewed. A podcast lead remains untranscribed; it is a research lead rather than evidence of a particular stance.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Katy Padilla Stout",
+    "district": "TX-23",
+    "state": "Texas",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "katy-padilla-stout",
+    "categories": [
+      "Anti data center",
+      "Pro data center regulation"
+    ],
+    "summary": "Supports a temporary pause on new data centers until communities are heard and enforceable safeguards exist.",
+    "proposals": [
+      "Temporary construction moratorium pending community input and enforceable protections",
+      "Disclose water, power, jobs and infrastructure demands before approvals",
+      "Make developers pay for necessary upgrades",
+      "Preserve local approval/rejection powers and stronger state/local protections"
+    ],
+    "campaignPriority": "Explicit candidate questionnaire response",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Anti category is limited to a conditional temporary moratorium, not a permanent ban.",
+    "sources": [
+      {
+        "title": "SNAP: Katy Padilla Stout candidate response",
+        "url": "https://snapcoalition.org/initiatives/stance-on-science/candidates/tx/katy-padilla-stout",
+        "date": "2026-08-28",
+        "type": "Candidate questionnaire",
+        "summary": "Direct proposals on siting, disclosure, costs and local control.",
+        "quote": "I support a temporary moratorium on new data centers until affected communities have been heard and enforceable protections are in place."
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Bobby Pulido",
+    "district": "TX-15",
+    "state": "Texas",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner; certification not asserted",
+    "id": "bobby-pulido",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Agreed to a community agenda that included protections from unregulated data centers, according to the event organizer.",
+    "proposals": [
+      "Support the Valley Interfaith agenda’s protection of communities from unregulated data centers"
+    ],
+    "campaignPriority": "Public accountability-event commitment",
+    "priorityLabel": "Campaign statements",
+    "classificationNote": "Limited evidence: organizer reports assent to a broad agenda. Specific federal mechanisms and a separate data-center campaign priority were not verified.",
+    "sources": [
+      {
+        "title": "Valley Interfaith: 2026 candidate accountability assembly",
+        "url": "https://www.valleyinterfaith.org/2610_rgv_aapress",
+        "date": "2026-10-14",
+        "type": "Event organizer account",
+        "summary": "Lists Pulido among participating candidates who agreed to the agenda, including community data-center protections.",
+        "quote": null
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  },
+  {
+    "name": "Johnny Garcia",
+    "district": "TX-35",
+    "state": "Texas",
+    "party": "D",
+    "chamber": "House",
+    "electionSource": {
+      "title": "Texas Tribune / TPR: new Texas delegation after the 2026 election",
+      "url": "https://www.tpr.org/text/government-politics/2026-11-04/texas-republicans-gerrymander-backfires-as-democrats-gain-ground-in-u-s-house-delegation",
+      "date": "2026-11-04",
+      "type": "Election result",
+      "summary": "",
+      "quote": null
+    },
+    "returning": false,
+    "status": "Called winner in compiled new-member roster; cross-check in progress",
+    "id": "johnny-garcia",
+    "categories": [
+      "Pro data center regulation"
+    ],
+    "summary": "Makes data-center water depletion and utility costs an explicit campaign issue and pledges to protect local households.",
+    "proposals": [
+      "Prevent data centers from shifting costs onto working Texans",
+      "Modernize energy supply and lower utility bills",
+      "Protect community water resources from harmful development"
+    ],
+    "campaignPriority": "Dedicated official campaign issue",
+    "priorityLabel": "Official platform",
+    "classificationNote": "Opposes harmful projects and cost shifting. No universal ban or detailed legislative mechanism verified.",
+    "sources": [
+      {
+        "title": "Johnny Garcia: campaign issues",
+        "url": "https://www.votejohnnygarcia.com/issues",
+        "date": null,
+        "type": "Official campaign",
+        "summary": "Dedicated data-center section addresses water, noise, utility bills and corporate costs.",
+        "quote": "Data Centers Shouldn’t Drain Our Resources"
+      }
+    ],
+    "researchNote": "Searched candidate name with data center/data centers and reviewed available campaign and news results. Research remains open; unindexed ads and audio may contain additional evidence.",
+    "checked": "2026-11-06"
+  }
+]

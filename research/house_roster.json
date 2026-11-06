@@ -1,0 +1,1478 @@
+{
+  "asOf": "2026-11-06",
+  "members": [
+    {
+      "name": "Jerry Carl",
+      "district": "AL-1",
+      "state": "Alabama",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": true,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Mark Lamb",
+      "district": "AZ-5",
+      "state": "Arizona",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Decision Desk HQ: Arizona House 5 result",
+        "url": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-5-general-election",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "JoAnna Mendoza",
+      "district": "AZ-6",
+      "state": "Arizona",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Mike McGuire",
+      "district": "CA-1",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Washington Post: AP calls CA-1 for McGuire",
+        "url": "https://www.washingtonpost.com/politics/2026/11/03/elections-2026-live-updates-voters-head-polls-senate-house-governor-races/",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Richard Pan",
+      "district": "CA-6",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP: Richard Pan wins CA-6",
+        "url": "https://apnews.com/article/751c2924b981483ba506a689534c61a7",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Scott Wiener",
+      "district": "CA-11",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "San Francisco Chronicle: Wiener wins",
+        "url": "https://www.sfchronicle.com/election/article/connie-chan-scott-wiener-vote-22512831.php",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Randy Villegas",
+      "district": "CA-22",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Jacqui Irwin",
+      "district": "CA-26",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Hilda Solis",
+      "district": "CA-38",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: CA-38 result",
+        "url": "https://ballotpedia.org/California%27s_38th_Congressional_District_election%2C_2026",
+        "date": null
+      },
+      "returning": true,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Angela Gonzales-Torres",
+      "district": "CA-34",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Marni von Wilpert",
+      "district": "CA-48",
+      "state": "California",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Melat Kiros",
+      "district": "CO-1",
+      "state": "Colorado",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Manny Rutinel",
+      "district": "CO-8",
+      "state": "Colorado",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Luke Bronin",
+      "district": "CT-1",
+      "state": "Connecticut",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Oliver Gilbert",
+      "district": "FL-24",
+      "state": "Florida",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP via WVNews: Gilbert wins FL-24",
+        "url": "https://www.wvnews.com/newsfeed/politics/democrat-oliver-gilbert-wins-election-to-u-s-house-in-floridas-24th-congressional-district/article_ab088687-ae1b-5838-b4b2-d4b36a947808.html",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Pia Dandiya",
+      "district": "FL-22",
+      "state": "Florida",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP: Pia Dandiya wins FL-22",
+        "url": "https://apnews.com/article/9a54fb7b76844f149ec439e15cb819a6",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Jim Schwartzel",
+      "district": "FL-19",
+      "state": "Florida",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP via Local10: Schwartzel wins FL-19",
+        "url": "https://www.local10.com/news/politics/2026/11/03/republican-jim-schwartzel-wins-election-to-us-house-in-floridas-19th-congressional-district/",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Austin Rogers",
+      "district": "FL-2",
+      "state": "Florida",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Sydney Gruters",
+      "district": "FL-16",
+      "state": "Florida",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Joe Strada",
+      "district": "FL-11",
+      "state": "Florida",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Jasmine Clark",
+      "district": "GA-13",
+      "state": "Georgia",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "CBS Atlanta: Jasmine Clark wins",
+        "url": "https://www.cbsnews.com/atlanta/news/georgia-13-congressional-district-election-results-2026/",
+        "date": "2026-11-03"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Houston Gaines",
+      "district": "GA-10",
+      "state": "Georgia",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Jim Kingston",
+      "district": "GA-1",
+      "state": "Georgia",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "FOX5 Atlanta: AP Georgia House calls",
+        "url": "https://www.fox5atlanta.com/news/map-u-s-house-races-georgia-election-results-ap",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "John Cowan",
+      "district": "GA-11",
+      "state": "Georgia",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Christina Bohannan",
+      "district": "IA-1",
+      "state": "Iowa",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Chris McGowan",
+      "district": "IA-4",
+      "state": "Iowa",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Lindsay James",
+      "district": "IA-2",
+      "state": "Iowa",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Sarah Trone Garriott",
+      "district": "IA-3",
+      "state": "Iowa",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Daniel Biss",
+      "district": "IL-9",
+      "state": "Illinois",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Melissa Bean",
+      "district": "IL-8",
+      "state": "Illinois",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": true,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Donna Miller",
+      "district": "IL-2",
+      "state": "Illinois",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "LaShawn Ford",
+      "district": "IL-7",
+      "state": "Illinois",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Patty Garcia",
+      "district": "IL-4",
+      "state": "Illinois",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "J.D. Ford",
+      "district": "IN-5",
+      "state": "Indiana",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Zach Dembo",
+      "district": "KY-6",
+      "state": "Kentucky",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Ed Gallrein",
+      "district": "KY-4",
+      "state": "Kentucky",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "WVXU: Gallrein wins AP call",
+        "url": "https://www.wvxu.org/politics/2026-11-03/ed-gallrein-wins-congress-seat-kentucky-midterms",
+        "date": "2026-11-03"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Dan Koh",
+      "district": "MA-6",
+      "state": "Massachusetts",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Adrian Boafo",
+      "district": "MD-5",
+      "state": "Maryland",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Jeremy Moss",
+      "district": "MI-11",
+      "state": "Michigan",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Sean McCann",
+      "district": "MI-4",
+      "state": "Michigan",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP: McCann elected MI-4",
+        "url": "https://apnews.com/article/6d2497ff64644074966b7a5367685f1f",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Donavan McKinney",
+      "district": "MI-13",
+      "state": "Michigan",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Christina Hines",
+      "district": "MI-10",
+      "state": "Michigan",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "WDIV: AP projects Hines in MI-10",
+        "url": "https://www.clickondetroit.com/news/local/2026/11/04/christina-hines-wins-michigan-us-house-district-10-ap-projects/",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "William Lawrence",
+      "district": "MI-7",
+      "state": "Michigan",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Matt Little",
+      "district": "MN-2",
+      "state": "Minnesota",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Frederick Wellman",
+      "district": "MO-2",
+      "state": "Missouri",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Chris Stigall",
+      "district": "MO-6",
+      "state": "Missouri",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Sam Forstag",
+      "district": "MT-1",
+      "state": "Montana",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Cyril Jefferson",
+      "district": "NC-6",
+      "state": "North Carolina",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "NPR: North Carolina House flips",
+        "url": "https://www.wwno.org/npr-news/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Jamie Ager",
+      "district": "NC-11",
+      "state": "North Carolina",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Paul Barringer",
+      "district": "NC-13",
+      "state": "North Carolina",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "NPR: North Carolina House flips",
+        "url": "https://www.wwno.org/npr-news/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "LaKesha Womack",
+      "district": "NC-14",
+      "state": "North Carolina",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "NPR: North Carolina House flips",
+        "url": "https://www.wwno.org/npr-news/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Denise Powell",
+      "district": "NE-2",
+      "state": "Nebraska",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Stefany Shaheen",
+      "district": "NH-1",
+      "state": "New Hampshire",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP: Shaheen wins NH-1",
+        "url": "https://apnews.com/article/ebe9dcc9405942ca843b9e9624aedded",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Zack Mullock",
+      "district": "NJ-2",
+      "state": "New Jersey",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "New Jersey Monitor: Mullock wins NJ-2",
+        "url": "https://newjerseymonitor.com/2026/11/06/nj-democrats-election-day-2026/",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Rebecca Bennett",
+      "district": "NJ-7",
+      "state": "New Jersey",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Adam Hamawy",
+      "district": "NJ-12",
+      "state": "New Jersey",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Teresa Benitez-Thompson",
+      "district": "NV-2",
+      "state": "Nevada",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "CBS News: Benitez-Thompson wins NV-2",
+        "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Claire Valdez",
+      "district": "NY-7",
+      "state": "New York",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Brad Lander",
+      "district": "NY-10",
+      "state": "New York",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Micah Lasher",
+      "district": "NY-12",
+      "state": "New York",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Darializa Avila Chevalier",
+      "district": "NY-13",
+      "state": "New York",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Cait Conley",
+      "district": "NY-17",
+      "state": "New York",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "ABC News: Conley projected NY-17 winner",
+        "url": "https://abcnews.com/Elections/2026-us-house-election-results-live-map",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Mark Tedford",
+      "district": "OK-1",
+      "state": "Oklahoma",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Brian Poindexter",
+      "district": "OH-7",
+      "state": "Ohio",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Don Leonard",
+      "district": "OH-15",
+      "state": "Ohio",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Bob Harvie",
+      "district": "PA-1",
+      "state": "Pennsylvania",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Chris Rabb",
+      "district": "PA-3",
+      "state": "Pennsylvania",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Bob Brooks",
+      "district": "PA-7",
+      "state": "Pennsylvania",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Paige Cognetti",
+      "district": "PA-8",
+      "state": "Pennsylvania",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Janelle Stelson",
+      "district": "PA-10",
+      "state": "Pennsylvania",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Wes Climer",
+      "district": "SC-5",
+      "state": "South Carolina",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Marty Jackley",
+      "district": "SD-AL",
+      "state": "South Dakota",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Brent Taylor",
+      "district": "TN-9",
+      "state": "Tennessee",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP: Brent Taylor wins",
+        "url": "https://apnews.com/article/8d993f2668214a0b8849b33a0670448e",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Johnny Garrett",
+      "district": "TN-6",
+      "state": "Tennessee",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "WPLN: Johnny Garrett elected",
+        "url": "https://wpln.org/post/tennessee-district-6-elects-state-rep-johnny-garrett-to-replace-john-rose/",
+        "date": "2026-11-03"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Charlie Hatcher",
+      "district": "TN-5",
+      "state": "Tennessee",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "WPLN: Charlie Hatcher wins",
+        "url": "https://wpln.org/post/tennessee-gop-newcomer-charlie-hatcher-to-take-andy-ogles-seat-in-congress/",
+        "date": "2026-11-03"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Frederick Haynes",
+      "district": "TX-30",
+      "state": "Texas",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Colin Allred",
+      "district": "TX-33",
+      "state": "Texas",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": true,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Leticia Gutierrez",
+      "district": "TX-9",
+      "state": "Texas",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: Leticia Gutierrez member-elect",
+        "url": "https://ballotpedia.org/Leticia_Gutierrez",
+        "date": "2026-11-06"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Jace Yarbrough",
+      "district": "TX-32",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP election calls via Fox News",
+        "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Mark Teixeira",
+      "district": "TX-21",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Reuters: Teixeira wins House seat",
+        "url": "https://www.reuters.com/sports/former-mlb-star-mark-teixeira-wins-house-seat-texas--flm-2026-11-04/",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Jessica Steinmann",
+      "district": "TX-8",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Houston Chronicle: Houston-area congressional winners",
+        "url": "https://www.houstonchronicle.com/politics/houston/article/alex-mealer-houston-texas-congress-22494879.php",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Jon Bonck",
+      "district": "TX-38",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Houston Chronicle: Houston-area congressional winners",
+        "url": "https://www.houstonchronicle.com/politics/houston/article/alex-mealer-houston-texas-congress-22494879.php",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Tom Sell",
+      "district": "TX-19",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "The Hill: Sell wins Texas House race, via AOL",
+        "url": "https://www.aol.com/articles/sell-wins-texas-house-race-011544000.html",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Trever Nehls",
+      "district": "TX-22",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Houston Chronicle: Houston-area congressional winners",
+        "url": "https://www.houstonchronicle.com/politics/houston/article/alex-mealer-houston-texas-congress-22494879.php",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Chris Gober",
+      "district": "TX-10",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "KBTX: AP calls Gober win",
+        "url": "https://www.kbtx.com/2026/11/04/republican-chris-gober-wins-us-house-district-10-race/",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Steve Toth",
+      "district": "TX-2",
+      "state": "Texas",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Houston Chronicle: Houston-area congressional winners",
+        "url": "https://www.houstonchronicle.com/politics/houston/article/alex-mealer-houston-texas-congress-22494879.php",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Katy Padilla Stout",
+      "district": "TX-23",
+      "state": "Texas",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Bobby Pulido",
+      "district": "TX-15",
+      "state": "Texas",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Johnny Garcia",
+      "district": "TX-35",
+      "state": "Texas",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "AP: Johnny Garcia wins",
+        "url": "https://apnews.com/article/0f637d33c52246828a4a72a3f8123091",
+        "date": "2026-11-04"
+      },
+      "returning": false,
+      "status": "Reported winner; certification not asserted"
+    },
+    {
+      "name": "Ben McAdams",
+      "district": "UT-1",
+      "state": "Utah",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: McAdams wins UT-1",
+        "url": "https://ballotpedia.org/Ben_McAdams_%28Utah%29",
+        "date": null
+      },
+      "returning": true,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Elaine Luria",
+      "district": "VA-2",
+      "state": "Virginia",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": true,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Amanda McKinney",
+      "district": "WA-4",
+      "state": "Washington",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "KHQ: Amanda McKinney wins WA-4",
+        "url": "https://www.khq.com/elections/house-district-4/video_f97b0233-a21a-5f95-814d-7c154002b9a6.html",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Michael Alfonso",
+      "district": "WI-7",
+      "state": "Wisconsin",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "WSAW: Alfonso elected WI-7",
+        "url": "https://www.wsaw.com/2026/11/04/republican-michael-alfonso-wins-wisconsins-7th-congressional-district/",
+        "date": null
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Mitchell Berman",
+      "district": "WI-1",
+      "state": "Wisconsin",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Rebecca Cooke",
+      "district": "WI-3",
+      "state": "Wisconsin",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Chuck Gray",
+      "district": "WY-AL",
+      "state": "Wyoming",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Ballotpedia: 2026 U.S. House race calls",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Amish Shah",
+      "district": "AZ-1",
+      "state": "Arizona",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Election result report",
+        "url": "https://ballotpedia.org/Election_results,_2026:_U.S._House",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Jessica Killin",
+      "district": "CO-5",
+      "state": "Colorado",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Election result report",
+        "url": "https://abcnews.com/Elections/2026-us-house-election-results-live-map",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Richard Ojeda",
+      "district": "NC-9",
+      "state": "North Carolina",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Election result report",
+        "url": "https://abcnews.com/Elections/2026-us-house-election-results-live-map",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Kristina Knickerbocker",
+      "district": "OH-10",
+      "state": "Ohio",
+      "party": "D",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Election result report",
+        "url": "https://abcnews.com/Elections/2026-us-house-election-results-live-map",
+        "date": "2026-11-05"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Anthony Constantino",
+      "district": "NY-21",
+      "state": "New York",
+      "party": "R",
+      "chamber": "House",
+      "electionSource": {
+        "title": "Election result report",
+        "url": "https://apnews.com/article/67c2e4097d4b494d98980f0363ae4479",
+        "date": "2026-11-06"
+      },
+      "returning": false,
+      "status": "Called winner; certification not asserted"
+    },
+    {
+      "name": "Shannon Taylor",
+      "district": "VA-1",
+      "state": "Virginia",
+      "party": "D",
+      "chamber": "House",
+      "returning": false,
+      "status": "AP called winner; certification not asserted",
+      "electionSource": {
+        "title": "AP: Shannon Taylor wins Virginia 1",
+        "url": "https://www.sfchronicle.com/news/politics/article/democrat-shannon-taylor-wins-election-to-u-s-22514395.php",
+        "date": "2026-11-05"
+      }
+    }
+  ],
+  "delegates": [
+    {
+      "name": "Robert White",
+      "district": "DC-AL",
+      "party": "D"
+    }
+  ],
+  "notes": [
+    "ARTBA roster is a secondary compilation. Individual election call verification is ongoing.",
+    "Snapshot of 102 verified reported winners, not a guarantee every newcomer has been identified. Updated source/call audit excludes ambiguous TN4 and SC1; election certification is not asserted."
+  ],
+  "pending": [
+    {
+      "district": "LA-6",
+      "state": "Louisiana",
+      "candidates": [
+        "Chauna Banks",
+        "Blake Miguez"
+      ],
+      "status": "Runoff December 12, 2026; no winner yet",
+      "electionSource": {
+        "title": "WBRZ: Blake Miguez heads to District 6 runoff",
+        "url": "https://www.wbrz.com/news/sgb-miguez/",
+        "date": "2026-11-04"
+      }
+    },
+    {
+      "district": "TN-4",
+      "name": "Victoria Broderick",
+      "reason": "Conflicting winner headlines; updated WPLN body explicitly says AP has not called race. Excluded pending clear call.",
+      "source": "https://wpln.org/post/democrat-victoria-broderick-wins-tennessees-district-4-in-upset/"
+    },
+    {
+      "district": "SC-1",
+      "name": "Nancy Lacore",
+      "reason": "Leads and declared victory; Ballotpedia outcome not called at review.",
+      "source": "https://ballotpedia.org/South_Carolina%27s_1st_Congressional_District"
+    },
+    {
+      "district": "ME-2",
+      "name": "Paul LePage",
+      "reason": "Dunlap conceded; ranked-choice tabulation scheduled November 9; AP had not called as of November 5 report.",
+      "source": "https://www.pressherald.com/2026/11/05/paul-lepage-and-matt-dunlap-are-race-headed-to-a-ranked-choice-runoff-what-happens-now-2/"
+    }
+  ]
+}

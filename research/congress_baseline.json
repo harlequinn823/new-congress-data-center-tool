@@ -1,0 +1,307 @@
+{
+  "asOf": "2026-11-06",
+  "scope": "Selected documented actions of the 119th Congress; not an exhaustive bill census or a measure of all members' positions.",
+  "comparisonCaveat": "Incoming campaign positions and current congressional actions measure different things. Do not compare their percentages as if they are the same population. A procedural no vote is not evidence of opposition to regulation; some senators argued the Ratepayer Protection Act was too weak.",
+  "records": [
+    {
+      "id": "ndaa1531",
+      "date": "2025-12-18",
+      "title": "Military data center resource planning",
+      "bill": "Public Law 119-60, section 1531",
+      "status": "Enacted",
+      "actor": "Congress and president",
+      "party": "Bipartisan law",
+      "summary": "Requires the Defense Department's computing roadmap to address electricity, water, community effects and utility resilience for data centers built or expanded on military installations. Estimates are conditioned on not delaying the roadmap update. This is a targeted military provision, not a general commercial data center law.",
+      "sources": [
+        {
+          "title": "GovInfo: enacted public law",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+          "date": "2025-12-18",
+          "locator": "Section 1531"
+        }
+      ],
+      "themes": [
+        "Water",
+        "Energy",
+        "Disclosure"
+      ]
+    },
+    {
+      "id": "grid",
+      "date": "2026-02-11",
+      "title": "GRID Act introduced",
+      "bill": "S. 3852",
+      "status": "Introduced / referred",
+      "actor": "Josh Hawley (R-MO), Richard Blumenthal (D-CT)",
+      "party": "Bipartisan",
+      "summary": "Would require separate power generation for new covered data centers, provide a 10-year transition for existing facilities and require utility-use disclosures. Referred to Senate Energy and Natural Resources; no enactment found.",
+      "sources": [
+        {
+          "title": "GovInfo: introduced bill",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3852is/pdf/BILLS-119s3852is.pdf",
+          "date": "2026-02-11"
+        },
+        {
+          "title": "Blumenthal announcement",
+          "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-introduces-bill-to-protect-americans-from-increasing-electricity-costs",
+          "date": "2026-02-12"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Energy",
+        "Disclosure"
+      ]
+    },
+    {
+      "id": "moratorium",
+      "date": "2026-03-25",
+      "title": "AI data center moratorium proposed",
+      "bill": "S. 4214; House companion H.R. 9442",
+      "status": "Introduced / referred",
+      "actor": "Bernie Sanders (I-VT); Alexandria Ocasio-Cortez (D-NY)",
+      "party": "Independent / Democratic",
+      "summary": "Would pause covered AI data center construction until federal safeguards are enacted. Senate bill introduced March 25; House companion introduced June 24. Neither has been established as law in the reviewed record.",
+      "sources": [
+        {
+          "title": "GovInfo: S. 4214",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4214is/html/BILLS-119s4214is.htm",
+          "date": "2026-03-25"
+        },
+        {
+          "title": "GovInfo: H.R. 9442",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9442ih/html/BILLS-119hr9442ih.htm",
+          "date": "2026-06-24"
+        }
+      ],
+      "themes": [
+        "Moratorium",
+        "AI safeguards"
+      ]
+    },
+    {
+      "id": "hearing",
+      "date": "2026-04-29",
+      "title": "AI and the Grid hearing",
+      "bill": null,
+      "status": "Hearing held",
+      "actor": "House Energy and Commerce Subcommittee on Energy",
+      "party": "Committee",
+      "summary": "Examined seven measures on rising electricity demand, grid investment and ratepayer protection. Witnesses included public power, utility and state regulator representatives. A hearing produces a record; it does not enact its discussed proposals.",
+      "sources": [
+        {
+          "title": "Official House hearing repository",
+          "url": "https://docs.house.gov/committee/Calendar/ByEvent.aspx?EventID=119189",
+          "date": "2026-04-29"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Energy",
+        "Grid planning"
+      ]
+    },
+    {
+      "id": "taxdisclosure",
+      "date": "2026-07-21",
+      "title": "Data center tax and disclosure proposal",
+      "bill": "S. 5054",
+      "status": "Introduced / referred",
+      "actor": "Mark Warner (D-VA)",
+      "party": "Democratic",
+      "summary": "Would remove AI data centers from bonus depreciation eligibility and require electricity and water information. Referred to Senate Finance; no enactment found.",
+      "sources": [
+        {
+          "title": "GovInfo: Data Center Tax Accountability and Disclosure Act",
+          "url": "https://www.govinfo.gov/app/details/BILLS-119s5054is",
+          "date": "2026-07-21"
+        }
+      ],
+      "themes": [
+        "Tax incentives",
+        "Disclosure",
+        "Water",
+        "Energy"
+      ]
+    },
+    {
+      "id": "localcontrol",
+      "date": "2026-08-20",
+      "title": "Protecting local siting authority",
+      "bill": "H.R. 10119",
+      "status": "Introduced / referred",
+      "actor": "Tom Barrett (R-MI)",
+      "party": "Republican",
+      "summary": "Would prohibit federal preemption of state or local land-use, zoning, siting and permitting authority over data centers on nonfederal land. Referred to House Energy and Commerce.",
+      "sources": [
+        {
+          "title": "GovInfo: Protecting Local Control of Data Centers Act",
+          "url": "https://www.govinfo.gov/app/details/BILLS-119hr10119ih",
+          "date": "2026-08-20"
+        }
+      ],
+      "themes": [
+        "Local control",
+        "Permitting"
+      ]
+    },
+    {
+      "id": "ratepayer",
+      "date": "2026-09-30",
+      "title": "Ratepayer Protection Act stalls in Senate",
+      "bill": "H.R. 9340",
+      "status": "Passed House / Senate cloture failed",
+      "actor": "House and Senate",
+      "party": "Bipartisan House support; divided Senate",
+      "summary": "Passed the House 417\u20133 on September 16. Senate cloture on proceeding failed 57\u201343 on September 30. The bill would require utility regulators to consider a cost-recovery standard for large data center loads; it would not require every state to adopt that standard. It is not enacted.",
+      "votes": {
+        "house": {
+          "date": "2026-09-16",
+          "yea": 417,
+          "nay": 3,
+          "notVoting": 12,
+          "Republican": {
+            "yea": 210,
+            "nay": 0,
+            "notVoting": 7
+          },
+          "Democratic": {
+            "yea": 206,
+            "nay": 3,
+            "notVoting": 5
+          },
+          "Independent": {
+            "yea": 1,
+            "nay": 0,
+            "notVoting": 0
+          }
+        },
+        "senate": {
+          "date": "2026-09-30",
+          "yea": 57,
+          "nay": 43,
+          "threshold": 60,
+          "Republican": {
+            "yea": 53,
+            "nay": 0
+          },
+          "Democratic": {
+            "yea": 4,
+            "nay": 41
+          },
+          "Independent": {
+            "yea": 0,
+            "nay": 2
+          }
+        }
+      },
+      "sources": [
+        {
+          "title": "House Clerk: roll call 312",
+          "url": "https://clerk.house.gov/evs/2026/roll312",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Senate: roll call 254",
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.htm",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "House Energy and Commerce: bill scope",
+          "url": "https://energycommerce.house.gov/posts/ratepayer-protection-act-passes-house-with-strong-bipartisan-support",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Congressional Record: Heinrich objection and alternative proposal",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-09-17/pdf/CREC-2026-09-17.pdf",
+          "date": "2026-09-17",
+          "locator": "Senate page S4775"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Energy"
+      ],
+      "caveat": "Senators opposing this bill cannot automatically be classified as anti regulation: Heinrich said it fell short and sought stronger legislation."
+    },
+    {
+      "id": "transparency",
+      "date": "2026-09-30",
+      "title": "Bipartisan transparency bill introduced",
+      "bill": "S. 5640",
+      "status": "Introduced / referred",
+      "actor": "Lisa Blunt Rochester (D-DE), John Curtis (R-UT)",
+      "party": "Bipartisan",
+      "summary": "Would require EPA reporting on water use, pollution and community effects and EIA reporting on electricity use and household bills. Referred to Senate Environment and Public Works.",
+      "sources": [
+        {
+          "title": "GovInfo: Data Center Transparency Act of 2026",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5640is/xhtml/BILLS-119s5640is.html",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Blunt Rochester: sponsored legislation status",
+          "url": "https://www.bluntrochester.senate.gov/about/legislation/sponsored-legislation/",
+          "date": null
+        }
+      ],
+      "themes": [
+        "Disclosure",
+        "Water",
+        "Energy",
+        "Pollution"
+      ]
+    },
+    {
+      "id": "investigation",
+      "date": "2026-10-09",
+      "title": "Senators publish data center cost investigation",
+      "bill": null,
+      "status": "Oversight report released",
+      "actor": "Elizabeth Warren, Chris Van Hollen, Richard Blumenthal",
+      "party": "Democratic",
+      "summary": "Released a report based on a nearly yearlong inquiry into operators' energy costs, tax benefits and nondisclosure agreements. The senators concluded that company promises did not cover all community costs. These are the report authors' findings; the report is not an enacted requirement.",
+      "sources": [
+        {
+          "title": "Warren: Power and Profits report announcement",
+          "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+          "date": "2026-10-09"
+        }
+      ],
+      "themes": [
+        "Ratepayers",
+        "Tax incentives",
+        "Disclosure"
+      ]
+    }
+  ],
+  "executiveContext": {
+    "date": "2025-07-23",
+    "title": "Executive Order 14318: faster data center permitting",
+    "status": "Executive action; excluded from congressional action counts",
+    "summary": "Directed agencies to accelerate qualifying data center infrastructure through environmental-review changes, permitting coordination and federal land access. Attribute this to the Trump administration, not to a congressional vote.",
+    "source": {
+      "title": "White House executive order",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/",
+      "date": "2025-07-23"
+    }
+  },
+  "pendingRaces": [
+    {
+      "state": "Alaska",
+      "candidate": "Mary Peltola",
+      "party": "Democratic",
+      "incumbent": "Dan Sullivan",
+      "status": "Uncalled as of reviewed November 6 reporting; exclude from confirmed incoming-member totals",
+      "source": "https://apnews.com/article/d4f55516fd72155d746cfbbc2017c743"
+    },
+    {
+      "state": "Mississippi",
+      "candidate": "Scott Colom",
+      "party": "Democratic",
+      "incumbent": "Cindy Hyde-Smith",
+      "status": "Uncalled as of reviewed November 6 reporting; exclude from confirmed incoming-member totals",
+      "source": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
+    }
+  ]
+}
