@@ -9,5 +9,10 @@
 @media(max-width:550px){header{align-items:flex-start;gap:12px}.brand-logo{width:126px;margin-right:4px}.brand{max-width:100%}.label-guide dl{display:block}.label-guide dd{margin:0 0 12px}.filters label,.filters label:first-child{min-width:0;flex-basis:100%}.stats .stat{padding:15px}.barhead{font-size:12px}.hero h1{overflow-wrap:normal}nav{gap:20px}main{padding-left:5%;padding-right:5%}}
 @media(max-width:550px){nav{flex-wrap:wrap;gap:0 18px;overflow:visible;white-space:normal}nav a{padding:12px 0}.brand{display:block}.brand-logo{margin:0 0 10px}.brand .muted{display:none}}
 
-/* 3.2 editorial metadata enhancements */
-.metadata-row,.issue-row{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 12px}.membership-mark,.evidence-mark,.issue-mark{display:inline-block;font-size:11px;line-height:1.4;border:1px solid #c6d6de;border-radius:4px;padding:4px 7px;background:#f0f5f6;color:#084867}.membership-mark{font-weight:700;background:#fff}.evidence-mark{background:#eef2ee;color:#3b544d;border-color:#dce5de}.issue-mark{background:#f4f5f1;color:#52636d;border-color:#dce2df}.profile-metadata{margin:12px 0 20px}.card .issue-row{margin:12px 0}.card .metadata-row{margin-top:0}.profile-metadata .membership-mark,.profile-metadata .evidence-mark{font-size:12px}.filters label{min-width:145px}
+/* Six-card homepage preview; full directory lives at #directory. */
+.homepage-preview .sectiontop { align-items: flex-start; }
+.homepage-preview .sectiontop .note { margin: 6px 0 0; max-width: 65ch; }
+.preview-all { text-align: center; margin: 24px 0 30px; }
+@media (max-width: 700px) { .homepage-preview .sectiontop { flex-wrap: wrap; } }
+
+.directory-instructions{font-weight:700;color:var(--ink);margin:12px 0 0}
